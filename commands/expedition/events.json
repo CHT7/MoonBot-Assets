@@ -1,0 +1,56 @@
+[
+    {
+        "id": "cuc_han_frozen_lake",
+        "biomes": ["cuc_han"],
+        "baseWeight": 20,
+        "weightModifiers": [],
+        "conditions": { "minDepth": 1, "maxDepth": 10, "requiredFlags": [], "forbiddenFlags": [] },
+        "description": "Một hồ băng nứt nẻ hiện ra. Dưới lớp băng mỏng, bạn thấy ánh sáng dìu dịu của Tinh thể Lục lam thô.",
+        "choices": [
+            {
+                "id": "lake_mine",
+                "label": "Mạo hiểm khai thác",
+                "style": "Danger",
+                "successChance": 0.4,
+                "onSuccess": {
+                    "description": "Mặt băng rạn nứt nhưng bạn đã kịp lấy được **5 Lục Lam**.",
+                    "effects": { "cyan": 5, "setFlags": { "greedy_miner": true } }
+                },
+                "onFail": {
+                    "description": "**RẦM!** Băng sập. Bạn rơi xuống làn nước buốt giá.",
+                    "effects": { "temp": -50, "hp": -20 }
+                }
+            },
+            {
+                "id": "lake_ignore",
+                "label": "Bỏ qua cho an toàn",
+                "style": "Secondary",
+                "successChance": 1.0,
+                "onSuccess": {
+                    "description": "Sinh mạng quan trọng hơn. Bạn đi vòng qua hồ băng một cách thận trọng.",
+                    "effects": {}
+                }
+            }
+        ]
+    },
+    {
+        "id": "ice_beast_revenge",
+        "biomes": ["cuc_han", "tu_dia"],
+        "baseWeight": 5,
+        "weightModifiers": [
+            { "flag": "greedy_miner", "multiplier": 5.0, "add": 20 } 
+        ],
+        "conditions": { "minDepth": 3, "requiredFlags": ["greedy_miner"] },
+        "description": "Tiếng gầm rú vang lên. Sinh vật canh giữ hồ băng đã truy dấu bạn nhờ mùi của lòng tham.",
+        "choices": [
+            {
+                "id": "fight_beast",
+                "label": "Chiến đấu",
+                "style": "Danger",
+                "successChance": 0.5,
+                "onSuccess": { "description": "Bạn hạ gục con quái vật và thu được cốt nhục của nó.", "effects": { "hp": -10, "supplies": 1 } },
+                "onFail": { "description": "Nó xé toạc balo của bạn rồi bỏ đi.", "effects": { "hp": -30, "supplies": -1 } }
+            }
+        ]
+    }
+]
