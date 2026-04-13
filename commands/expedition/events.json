@@ -18,7 +18,7 @@
                 },
                 "onFail": {
                     "description": "**RẦM!** Băng sập. Bạn rơi xuống làn nước buốt giá.",
-                    "effects": { "temp": -50, "hp": -20 }
+                    "effects": { "temp": -40, "hp": -20, "setFlags": { "greedy_miner": true } }
                 }
             },
             {
@@ -36,11 +36,11 @@
     {
         "id": "ice_beast_revenge",
         "biomes": ["cuc_han", "tu_dia"],
-        "baseWeight": 5,
+        "baseWeight": 0,
         "weightModifiers": [
-            { "flag": "greedy_miner", "multiplier": 5.0, "add": 20 } 
+            { "flag": "greedy_miner", "multiplier": 1.0, "add": 30 } 
         ],
-        "conditions": { "minDepth": 3, "requiredFlags": ["greedy_miner"] },
+        "conditions": { "minDepth": 3, "requiredFlags": ["greedy_miner"], "forbiddenFlags": [] },
         "description": "Tiếng gầm rú vang lên. Sinh vật canh giữ hồ băng đã truy dấu bạn nhờ mùi của lòng tham.",
         "choices": [
             {
@@ -48,8 +48,228 @@
                 "label": "Chiến đấu",
                 "style": "Danger",
                 "successChance": 0.5,
-                "onSuccess": { "description": "Bạn hạ gục con quái vật và thu được cốt nhục của nó.", "effects": { "hp": -10, "supplies": 1 } },
-                "onFail": { "description": "Nó xé toạc balo của bạn rồi bỏ đi.", "effects": { "hp": -30, "supplies": -1 } }
+                "onSuccess": { 
+                    "description": "Bạn hạ gục con quái vật và lấy được thịt của nó, rũ bỏ sự truy đuổi.", 
+                    "effects": { "hp": -15, "supplies": 1, "setFlags": { "greedy_miner": false } } 
+                },
+                "onFail": { 
+                    "description": "Nó xé toạc balo của bạn rồi lẩn vào trong bão tuyết.", 
+                    "effects": { "hp": -30, "supplies": -1, "setFlags": { "greedy_miner": false } } 
+                }
+            }
+        ]
+    },
+    {
+        "id": "cuc_han_abandoned_camp",
+        "biomes": ["cuc_han"],
+        "baseWeight": 25,
+        "weightModifiers": [],
+        "conditions": { "minDepth": 2, "maxDepth": 8, "requiredFlags": [], "forbiddenFlags": ["looted_camp"] },
+        "description": "Bạn tìm thấy một khu trại tàn tạ. Một chiếc balo dở dang nằm lăn lóc dưới đống tuyết, có vẻ như chủ nhân vừa mới rời đi.",
+        "choices": [
+            {
+                "id": "loot_camp",
+                "label": "Lục lọi balo",
+                "style": "Primary",
+                "successChance": 0.7,
+                "onSuccess": {
+                    "description": "Tuyệt vời! Bạn nhặt được Nhu yếu phẩm. Nhưng bạn có cảm giác ai đó đang nhìn mình...",
+                    "effects": { "supplies": 1, "setFlags": { "looted_camp": true, "thief_mark": true } }
+                },
+                "onFail": {
+                    "description": "Cạm bẫy! Balo chứa chất nổ lạnh. Bạn bị thương nặng.",
+                    "effects": { "hp": -25, "temp": -15, "setFlags": { "looted_camp": true } }
+                }
+            },
+            {
+                "id": "leave_camp",
+                "label": "Rời đi nhanh chóng",
+                "style": "Secondary",
+                "successChance": 1.0,
+                "onSuccess": {
+                    "description": "Đừng đụng vào đồ không phải của mình. Bạn bước tiếp.",
+                    "effects": {}
+                }
+            }
+        ]
+    },
+    {
+        "id": "hunter_ambush",
+        "biomes": ["cuc_han", "tu_dia"],
+        "baseWeight": 0,
+        "weightModifiers": [
+            { "flag": "thief_mark", "multiplier": 1.0, "add": 40 }
+        ],
+        "conditions": { "minDepth": 4, "requiredFlags": ["thief_mark"], "forbiddenFlags": [] },
+        "description": "Một bóng đen lao ra từ trong bão tuyết. 'Kẻ cắp... trả lại đồ cho tao!'. Tên thợ săn điên loạn tấn công bạn.",
+        "choices": [
+            {
+                "id": "fight_hunter",
+                "label": "Đánh trả",
+                "style": "Danger",
+                "successChance": 0.6,
+                "onSuccess": {
+                    "description": "Bạn hạ gục gã thợ săn. Hắn vỡ vụn thành những mảnh Lục Lam.",
+                    "effects": { "hp": -15, "cyan": 8, "setFlags": { "thief_mark": false } }
+                },
+                "onFail": {
+                    "description": "Gã đâm bạn một nhát chí mạng rồi cướp lại đồ.",
+                    "effects": { "hp": -35, "supplies": -1, "setFlags": { "thief_mark": false } }
+                }
+            },
+            {
+                "id": "flee_hunter",
+                "label": "Bỏ chạy",
+                "style": "Primary",
+                "successChance": 0.8,
+                "onSuccess": {
+                    "description": "Bạn vắt chân lên cổ chạy thoát, nhưng cái lạnh đã bám vào tận xương tủy.",
+                    "effects": { "temp": -25, "setFlags": { "thief_mark": false } }
+                },
+                "onFail": {
+                    "description": "Trượt chân ngã! Bạn ăn một đòn đau trước khi lết đi được.",
+                    "effects": { "hp": -20, "temp": -15, "setFlags": { "thief_mark": false } }
+                }
+            }
+        ]
+    },
+    {
+        "id": "tu_dia_glowing_monolith",
+        "biomes": ["tu_dia"],
+        "baseWeight": 20,
+        "weightModifiers": [],
+        "conditions": { "minDepth": 6, "requiredFlags": [], "forbiddenFlags": ["corrupted_mind"] },
+        "description": "Một phiến đá đen tuyền khắc những dòng chữ phát sáng. Những âm thanh rền rĩ thì thầm mời gọi bạn chạm vào.",
+        "choices": [
+            {
+                "id": "touch_monolith",
+                "label": "Chạm vào phiến đá",
+                "style": "Danger",
+                "successChance": 0.5,
+                "onSuccess": {
+                    "description": "Kiến thức cổ xưa và năng lượng tuôn trào, nhưng tâm trí bạn bị vấy bẩn.",
+                    "effects": { "cyan": 15, "sanity": -15, "setFlags": { "corrupted_mind": true } }
+                },
+                "onFail": {
+                    "description": "Một luồng xung kích hắc ám đánh bật bạn ra xa. Lý trí vỡ vụn.",
+                    "effects": { "sanity": -40, "hp": -10, "setFlags": { "corrupted_mind": true } }
+                }
+            },
+            {
+                "id": "ignore_monolith",
+                "label": "Nhắm mắt bước qua",
+                "style": "Secondary",
+                "successChance": 1.0,
+                "onSuccess": {
+                    "description": "Bạn cưỡng lại được sự cám dỗ, nhưng những lời thì thầm vẫn làm bạn đau đầu.",
+                    "effects": { "sanity": -5 }
+                }
+            }
+        ]
+    },
+    {
+        "id": "tu_dia_hallucinations",
+        "biomes": ["tu_dia"],
+        "baseWeight": 0,
+        "weightModifiers": [
+            { "flag": "corrupted_mind", "multiplier": 1.0, "add": 50 }
+        ],
+        "conditions": { "minDepth": 7, "requiredFlags": ["corrupted_mind"], "forbiddenFlags": [] },
+        "description": "Ảo giác tột độ do phiến đá cổ đại gây ra. Bạn thấy những bóng ma Lục Lam đang gặm nhấm tay chân mình.",
+        "choices": [
+            {
+                "id": "pain_awake",
+                "label": "Tự làm đau để tỉnh táo",
+                "style": "Danger",
+                "successChance": 1.0,
+                "onSuccess": {
+                    "description": "Cơn đau thể xác xua tan ảo ảnh. Bạn lấy lại được chút lý trí.",
+                    "effects": { "hp": -20, "sanity": 25, "setFlags": { "corrupted_mind": false } }
+                }
+            },
+            {
+                "id": "sacrifice_cyan",
+                "label": "Dùng Lục Lam tế lễ",
+                "style": "Primary",
+                "successChance": 0.7,
+                "onSuccess": {
+                    "description": "Lục Lam tan biến vào hư không. Bóng ma buông tha cho bạn.",
+                    "effects": { "cyan": -10, "setFlags": { "corrupted_mind": false } }
+                },
+                "onFail": {
+                    "description": "Chúng không thỏa mãn với số Lục Lam ít ỏi! Lý trí bạn tiếp tục tụt dốc.",
+                    "effects": { "cyan": -5, "sanity": -25 }
+                }
+            }
+        ]
+    },
+    {
+        "id": "tu_dia_cyan_flower",
+        "biomes": ["tu_dia"],
+        "baseWeight": 15,
+        "weightModifiers": [],
+        "conditions": { "minDepth": 8, "requiredFlags": [], "forbiddenFlags": [] },
+        "description": "Giữa vùng đất chết tăm tối, một đóa hoa Lục Lam tuyệt đẹp đang nở rộ, tỏa ra hơi ấm kỳ lạ cắn rứt sương giá.",
+        "choices": [
+            {
+                "id": "pick_flower",
+                "label": "Hái hoa mang đi",
+                "style": "Primary",
+                "successChance": 0.4,
+                "onSuccess": {
+                    "description": "Bạn ngắt đóa hoa. Cơ thể ấm lên đáng kể và thu được năng lượng, nhưng mặt đất bắt đầu rung chuyển...",
+                    "effects": { "temp": 25, "cyan": 10, "setFlags": { "nature_wrath": true } }
+                },
+                "onFail": {
+                    "description": "Bị gai độc đâm trúng! Máu bạn đông cứng lại.",
+                    "effects": { "hp": -20, "sanity": -15 }
+                }
+            },
+            {
+                "id": "rest_flower",
+                "label": "Nghỉ ngơi cạnh hoa",
+                "style": "Success",
+                "successChance": 1.0,
+                "onSuccess": {
+                    "description": "Bạn ngồi thu mình cạnh đóa hoa. Hơi ấm và sự tĩnh lặng giúp bạn hồi phục cả thể xác lẫn tinh thần.",
+                    "effects": { "temp": 30, "sanity": 20 }
+                }
+            }
+        ]
+    },
+    {
+        "id": "nature_wrath_chase",
+        "biomes": ["tu_dia"],
+        "baseWeight": 0,
+        "weightModifiers": [
+            { "flag": "nature_wrath", "multiplier": 1.0, "add": 60 }
+        ],
+        "conditions": { "minDepth": 9, "requiredFlags": ["nature_wrath"], "forbiddenFlags": [] },
+        "description": "Mặt đất vỡ vụn. Những rễ cây khổng lồ trồi lên từ lòng đất, tức giận vì bạn đã cướp đi đóa hoa của Tử Địa.",
+        "choices": [
+            {
+                "id": "burn_supplies",
+                "label": "Đốt Nhu yếu phẩm cản đường",
+                "style": "Primary",
+                "successChance": 1.0,
+                "onSuccess": {
+                    "description": "Ngọn lửa lớn khiến lũ rễ cây chùn bước. Bạn chạy thoát nhưng tổn thất tài nguyên.",
+                    "effects": { "supplies": -1, "setFlags": { "nature_wrath": false } }
+                }
+            },
+            {
+                "id": "run_blindly",
+                "label": "Chạy trối chết",
+                "style": "Danger",
+                "successChance": 0.5,
+                "onSuccess": {
+                    "description": "Bạn may mắn lách qua được các đòn quất của rễ cây, nhưng kiệt sức hoàn toàn.",
+                    "effects": { "temp": -20, "sanity": -10, "setFlags": { "nature_wrath": false } }
+                },
+                "onFail": {
+                    "description": "Một cái rễ khổng lồ quất trúng lưng bạn, hất văng bạn vào vách đá.",
+                    "effects": { "hp": -40, "setFlags": { "nature_wrath": false } }
+                }
             }
         ]
     }
