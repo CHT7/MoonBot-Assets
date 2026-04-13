@@ -272,5 +272,185 @@
                 }
             }
         ]
-    }
+    },
+    {
+    "id": "cuc_han_blizzard",
+    "biomes": ["cuc_han"],
+    "baseWeight": 30,
+    "weightModifiers": [
+      { "multiplier": 1.0, "add": 2 }
+    ],
+    "conditions": { "minDepth": 1, "requiredFlags": [], "forbiddenFlags": [] },
+    "description": "Một trận bão tuyết cuồng nộ đột ngột quét qua. Gió rít gào như lưỡi dao cạo vào da thịt. Bạn cần tìm nơi trú ẩn ngay lập tức.",
+    "choices": [
+      {
+        "id": "blizzard_hide",
+        "label": "Trú ẩn bằng Nhu yếu phẩm",
+        "style": "Success",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Bạn dựng lều khẩn cấp. Nhu yếu phẩm tiêu hao, nhưng thân nhiệt được bảo toàn qua cơn bão.",
+          "effects": { "supplies": -1 }
+        },
+        "onFail": {
+          "description": "Bạn không còn Nhu yếu phẩm để dựng lều! Cơn bão cắn xé bạn, vắt kiệt sinh lực và nhiệt độ cơ thể.",
+          "effects": { "temp": -40, "hp": -10 }
+        }
+      },
+      {
+        "id": "blizzard_push",
+        "label": "Cố gắng đi xuyên bão",
+        "style": "Danger",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Bạn gồng mình bước qua cơn bão. Cái lạnh thấu xương và ảo giác tuyết trắng làm tinh thần bạn đi xuống.",
+          "effects": { "temp": -30, "sanity": -10 }
+        }
+      }
+    ]
+  },
+  {
+    "id": "threshold_gate",
+    "biomes": ["cuc_han"],
+    "baseWeight": 999,
+    "weightModifiers": [],
+    "conditions": { "minDepth": 5, "maxDepth": 5, "requiredFlags": [], "forbiddenFlags": ["entered_deadland"] },
+    "description": "Bạn chạm đến **Vực Thẳm Cắn Nuốt**. Một cánh cổng vỡ nát phát ra tia sáng Lục lam rực rỡ nhưng điên loạn. Vượt qua nó, bạn sẽ bước vào Tử Địa. Trực giác gào thét bảo bạn quay về.",
+    "choices": [
+      {
+        "id": "gate_enter",
+        "label": "Hiến tế Tinh Thần để bước vào",
+        "style": "Danger",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Bạn nhắm mắt bước qua. Những tiếng thì thầm cào xé tâm trí bạn. Chào mừng đến với **Tử Địa Lục Lam**.",
+          "effects": { "sanity": -30, "setFlags": { "entered_deadland": true } }
+        }
+      },
+      {
+        "id": "gate_flee",
+        "label": "Từ bỏ và tìm đường khai xuất",
+        "style": "Success",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Nỗi sợ hãi chiến thắng. Bạn không dám bước tiếp. Đây là điểm dừng chân cuối cùng để an toàn quay về.",
+          "effects": {}
+        }
+      }
+    ]
+  },
+  {
+    "id": "tu_dia_resonance",
+    "biomes": ["tu_dia"],
+    "baseWeight": 30,
+    "weightModifiers": [],
+    "conditions": { "minDepth": 6, "requiredFlags": [], "forbiddenFlags": [] },
+    "description": "Một cụm Tinh thể Lục lam nguyên thủy đang cộng hưởng mạnh mẽ. Đứng gần nó, năng lượng tràn trề nhưng não bạn như muốn nổ tung.",
+    "choices": [
+      {
+        "id": "reso_absorb",
+        "label": "Hấp thụ cưỡng chế (+15 Lục lam)",
+        "style": "Primary",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Lục lam chảy vào huyết quản. Bạn thu hoạch lớn, nhưng bóng tối trong tâm trí ngày càng rõ rệt.",
+          "effects": { "cyan": 15, "sanity": -25 }
+        }
+      },
+      {
+        "id": "reso_flee",
+        "label": "Tránh xa",
+        "style": "Secondary",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Bạn bịt tai chạy khỏi vùng cộng hưởng. An toàn, nhưng hai bàn tay trắng.",
+          "effects": {}
+        }
+      }
+    ]
+  },
+  {
+    "id": "corruption_whispers",
+    "biomes": ["cuc_han", "tu_dia"],
+    "baseWeight": 100,
+    "weightModifiers": [],
+    "conditions": { "maxSanity": 30, "requiredFlags": [], "forbiddenFlags": [] },
+    "description": "Tâm trí bạn vỡ vụn. Ảo giác xuất hiện. Bạn thấy một đống lửa sưởi ấm, nhưng thực chất đó là một sinh vật ký sinh phát quang đang mời gọi.",
+    "choices": [
+      {
+        "id": "corr_embrace",
+        "label": "Bước vào đống lửa ấm áp",
+        "style": "Danger",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Đau đớn tột cùng! Ký sinh trùng cắn xé bạn. Đổi lại, nỗi đau thể xác đã lấn át ảo giác, kéo tinh thần bạn về thực tại một chút.",
+          "effects": { "hp": -30, "sanity": 20 }
+        }
+      },
+      {
+        "id": "corr_resist",
+        "label": "Tự cắn môi để tỉnh táo",
+        "style": "Secondary",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Vị máu tanh giúp bạn nhận ra cái bẫy. Tuy nhiên, sự tỉnh táo này mong manh như chỉ mành treo chuông.",
+          "effects": { "hp": -5, "sanity": -5 }
+        }
+      }
+    ]
+  },
+  {
+    "id": "rare_relic_shrine",
+    "biomes": ["tu_dia"],
+    "baseWeight": 15,
+    "weightModifiers": [],
+    "conditions": { "requiredFlags": [], "forbiddenFlags": ["found_relic_this_run"] },
+    "description": "Bạn phát hiện một miếu thờ đóng băng. Bên trong là một tạo tác tỏa ra năng lượng cổ xưa.",
+    "choices": [
+      {
+        "id": "take_relic",
+        "label": "Đoạt lấy Cổ Vật",
+        "style": "Primary",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Cổ vật thuộc về bạn, nhưng những âm thanh ma quái bắt đầu vang vọng trong đầu...",
+          "effects": { "sanity": -20, "setFlags": { "found_relic_this_run": true } }
+        }
+      },
+      {
+        "id": "leave_relic",
+        "label": "Rời đi (An toàn)",
+        "style": "Secondary",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Bạn giữ được sự tỉnh táo và âm thầm lùi lại.",
+          "effects": {}
+        }
+      }
+    ]
+  },
+  {
+    "id": "milestone_boss",
+    "biomes": ["tu_dia"],
+    "baseWeight": 9999,
+    "weightModifiers": [],
+    "conditions": { "minDepth": 15, "maxDepth": 15, "requiredFlags": [], "forbiddenFlags": ["boss_15_cleared"] },
+    "description": "Dặm 15. Khung cảnh vỡ nát. Một Thực Thể Cổ Đại đang chắn ngang lối đi. Không thể lẩn tránh.",
+    "choices": [
+      {
+        "id": "boss_fight",
+        "label": "Quyết tử bằng mọi giá",
+        "style": "Danger",
+        "successChance": 0.5,
+        "onSuccess": {
+          "description": "Trận chiến đẫm máu. Bạn sống sót và thu thập được lượng Lục Lam khổng lồ từ lõi của nó!",
+          "effects": { "cyan": 50, "hp": -40, "setFlags": { "boss_15_cleared": true } }
+        },
+        "onFail": {
+          "description": "Thực thể quá mạnh. Tầm nhìn của bạn dần mờ đi...",
+          "effects": { "hp": -100 }
+        }
+      }
+    ]
+  }
 ]
