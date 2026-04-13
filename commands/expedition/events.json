@@ -452,5 +452,131 @@
         }
       }
     ]
+  },
+    {
+    "id": "cuc_han_thermal_vent",
+    "biomes": ["cuc_han"],
+    "baseWeight": 25,
+    "weightModifiers": [],
+    "conditions": { "minDepth": 1, "maxDepth": 4, "requiredFlags": [], "forbiddenFlags": [] },
+    "description": "Bạn phát hiện một khe nứt địa nhiệt nhỏ tỏa ra hơi ấm kỳ lạ giữa vùng băng giá. Tuy nhiên, luồng hơi này có mùi lưu huỳnh nồng nặc.",
+    "choices": [
+      {
+        "id": "vent_warm",
+        "label": "Sưởi ấm cơ thể (+30 Nhiệt)",
+        "style": "Success",
+        "successChance": 0.8,
+        "onSuccess": {
+          "description": "Hơi ấm giúp các khớp ngón tay bạn linh hoạt trở lại. Bạn cảm thấy dễ chịu hơn rất nhiều.",
+          "effects": { "temp": 30, "sanity": 5 }
+        },
+        "onFail": {
+          "description": "Khí độc từ khe nứt khiến bạn choáng váng. Bạn hít phải quá nhiều lưu huỳnh.",
+          "effects": { "temp": 15, "hp": -10, "sanity": -15 }
+        }
+      },
+      {
+        "id": "vent_ignore",
+        "label": "Tránh xa luồng khí",
+        "style": "Secondary",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Bạn không tin tưởng vào luồng khí lạ này và quyết định đi vòng qua.",
+          "effects": {}
+        }
+      }
+    ]
+  },
+  {
+    "id": "tu_dia_lost_scout",
+    "biomes": ["tu_dia"],
+    "baseWeight": 20,
+    "weightModifiers": [
+      { "flag": "entered_deadland", "multiplier": 1.5 }
+    ],
+    "conditions": { "minDepth": 6, "maxDepth": 12, "requiredFlags": ["entered_deadland"], "forbiddenFlags": [] },
+    "description": "Một bóng người bất động dựa lưng vào vách đá tím thẫm. Đó là một trinh sát từ đội viễn chinh trước. Trên tay anh ta vẫn nắm chặt một túi lương thực còn niêm phong.",
+    "choices": [
+      {
+        "id": "scout_loot",
+        "label": "Lấy túi lương thực (+1 Nhu yếu phẩm)",
+        "style": "Primary",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Bạn lấy đi hy vọng cuối cùng của người đã khuất. Balo của bạn nặng hơn, nhưng lòng bạn cũng nặng trĩu.",
+          "effects": { "supplies": 1, "sanity": -15, "setFlags": { "guilt_mark": true } }
+        }
+      },
+      {
+        "id": "scout_bury",
+        "label": "Cầu nguyện và chôn cất",
+        "style": "Secondary",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Hành động nhân đạo giữa Tử Địa giúp tâm hồn bạn thanh thản hơn đôi chút.",
+          "effects": { "sanity": 20, "temp": -10 }
+        }
+      }
+    ]
+  },
+  {
+    "id": "tu_dia_cyan_overgrowth",
+    "biomes": ["tu_dia"],
+    "baseWeight": 15,
+    "weightModifiers": [],
+    "conditions": { "minDepth": 8, "requiredFlags": [], "forbiddenFlags": [] },
+    "description": "Một bụi tinh thể Lục Lam mọc ký sinh trên xác một sinh vật lạ, tạo ra một cấu trúc sắc nhọn và đẹp đẽ đến mê hoặc. Chúng đang rung động theo nhịp tim của bạn.",
+    "choices": [
+      {
+        "id": "cyan_harvest_careful",
+        "label": "Chiết tách thận trọng",
+        "style": "Primary",
+        "successChance": 0.6,
+        "onSuccess": {
+          "description": "Bằng kỹ năng khéo léo, bạn tách được những mảnh tinh thể tinh khiết nhất.",
+          "effects": { "cyan": 12 }
+        },
+        "onFail": {
+          "description": "Tinh thể vỡ vụn và bắn vào da thịt bạn. Chúng bắt đầu bám rễ.",
+          "effects": { "hp": -15, "setFlags": { "cyan_infection": true } }
+        }
+      },
+      {
+        "id": "cyan_trade_energy",
+        "label": "Dùng Lục Lam để kích hoạt thiết bị lọc",
+        "style": "Success",
+        "successChance": 1.0,
+        "onSuccess": {
+          "description": "Bạn tiêu tốn một ít Lục Lam để sạc lại thiết bị bảo hộ cá nhân.",
+          "effects": { "cyan": -5, "temp": 20, "hp": 10 }
+        }
+      }
+    ]
+  },
+  {
+    "id": "special_void_echo",
+    "biomes": ["tu_dia"],
+    "baseWeight": 0,
+    "weightModifiers": [
+      { "flag": "guilt_mark", "add": 40 }
+    ],
+    "conditions": { "minDepth": 10, "requiredFlags": ["guilt_mark"], "forbiddenFlags": [] },
+    "description": "Bóng ma của người trinh sát dường như hiện về trong sương mù tím. Những lời chỉ trích về sự tham lam vang vọng khắp không gian.",
+    "choices": [
+      {
+        "id": "void_confront",
+        "label": "Đối mặt với bóng ma",
+        "style": "Danger",
+        "successChance": 0.4,
+        "onSuccess": {
+          "description": "Bạn vượt qua nỗi sợ hãi. Bóng ma tan biến, để lại một sự tĩnh lặng đến lạ thường.",
+          "effects": { "sanity": 30, "setFlags": { "guilt_mark": false } }
+        },
+        "onFail": {
+          "description": "Bạn hoảng loạn bỏ chạy và vấp ngã vào đống đá nhọn.",
+          "effects": { "sanity": -20, "hp": -20, "temp": -10 }
+        }
+      }
+    ]
   }
 ]
