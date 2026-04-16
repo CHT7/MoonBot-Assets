@@ -41,22 +41,26 @@ class EventManager {
 
     // Roll sự kiện
     rollEventForSession(session) {
-        const validEvents = this.events.filter(e => this.checkConditions(e, session));
-        if (validEvents.length === 0) return null;
-
-        let totalWeight = 0;
-        const weightedEvents = validEvents.map(e => {
-            const w = this.calculateDynamicWeight(e, session);
-            totalWeight += w;
-            return { event: e, weight: w };
-        }).filter(e => e.weight > 0);
-
+        const validEvents = this.events
+            .filter(e => this.checkConditions(e, session))
+            .map(e => ({
+                event: e,
+                weight: this.calculateDynamicWeight(e, session)
+            }))
+            .filter(e => e.weight > 0);
+    
+        if (!validEvents.length) return null;
+    
+        const totalWeight = validEvents.reduce((sum, e) => sum + e.weight, 0);
+    
         let random = Math.random() * totalWeight;
-        for (const item of weightedEvents) {
+    
+        for (const item of validEvents) {
             if (random < item.weight) return item.event;
             random -= item.weight;
         }
-        return weightedEvents[0]?.event;
+    
+        return validEvents[0].event;
     }
 
     // Thực thi lựa chọn và áp dụng thay đổi lên Session
@@ -67,7 +71,9 @@ class EventManager {
         if (!outcome) throw new Error(`Missing outcome for choice ${choiceData.id}`);
 
         const effects = outcome.effects || {};
-        
+        if (effects.setFlags?.entered_deadland) {
+            session.biome = 'tu_dia';
+        }
         if (effects.hp) session.modifyHP(effects.hp);
         if (effects.temp) session.modifyTemp(effects.temp);
         if (effects.sanity) session.modifySanity(effects.sanity);
