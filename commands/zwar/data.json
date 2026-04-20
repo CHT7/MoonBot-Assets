@@ -64,7 +64,7 @@
     },
     {
       "name": "zombie máu chiến",
-      "catch": "mày thích ăn đấm ko",
+      "catch": "mày thích ăn đấm không?",
       "rarity": "Bình Thường",
       "price": 350,
       "size": [
@@ -813,8 +813,8 @@
       ]
     },
     {
-      "name": "zombie Lộc admin",
-      "catch": "zombie Lộc admin",
+      "name": "zombie Tân admin",
+      "catch": "zombie Tân admin",
       "rarity": "Cực Phẩm",
       "price": 40000,
       "size": [
@@ -863,8 +863,8 @@
       ]
     },
     {
-      "name": "zombie Quân còi",
-      "catch": "zombie Quân còi",
+      "name": "zombie Sơn béo",
+      "catch": "zombie Sơn béo",
       "rarity": "Cực Phẩm",
       "price": 25000,
       "size": [
@@ -2513,7 +2513,7 @@
       ]
     },
     {
-      "name": "Zombie NYC của AD",
+      "name": "Zombie người yêu cũ",
       "catch": "Hic Hic :<",
       "rarity": "Siêu Bình Thường",
       "price": 200,
@@ -3163,8 +3163,8 @@
       ]
     },
     {
-      "name": "zombie Của Admin",
-      "catch": "Một Con zom luôn bị ăn cơm tró =))",
+      "name": "zombie Của J97",
+      "catch": "Be sol dauuu? ra day ta bieu",
       "rarity": "Cực Phẩm",
       "price": 9000,
       "size": [
@@ -3314,7 +3314,7 @@
     },
     {
       "name": "zombie bất cần đời",
-      "catch": "Cần hay ko ?:D",
+      "catch": "Cần hay không ?:D",
       "rarity": "Trung Bình",
       "price": 500,
       "size": [
@@ -3414,7 +3414,7 @@
     },
     {
       "name": "Ơ Kìa",
-      "catch": "Ơ kìa đứa ko có NY :>",
+      "catch": "Ơ kìa đứa không có người yêu :>",
       "rarity": "Siêu Bình Thường",
       "price": 200,
       "size": [
@@ -3763,8 +3763,8 @@
       ]
     },
     {
-      "name": "zombie ",
-      "catch": "admin Lộc mà thấy thì chết chắc :))",
+      "name": "zombie Sơn Siêu Bell",
+      "catch": "Béo hơn nhiều so với thế giới",
       "rarity": "Siêu Hiếm",
       "price": 45000,
       "size": [
@@ -3963,8 +3963,8 @@
       ]
     },
     {
-      "name": "zombie ADMIN",
-      "catch": "zombie ADMIN",
+      "name": "zombie TÂN",
+      "catch": "zombie TÂN",
       "rarity": "Cực Phẩm",
       "price": 100000.08,
       "size": [
