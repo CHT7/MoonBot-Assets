@@ -1,0 +1,30 @@
+[
+  {
+    "id": "badge_newbie",
+    "name": "🔰 Tân Binh",
+    "desc": "Gia nhập lực lượng tiêu diệt Zombie.",
+    "condition": { "type": "auto", "target": 0 },
+    "effect": { "type": "none", "value": 0, "text": "Không có hiệu ứng đặc biệt." }
+  },
+  {
+    "id": "badge_hunter_50",
+    "name": "⚔️ Thợ Săn Bậc Thầy",
+    "desc": "Tiêu diệt tổng cộng 50 Zombie.",
+    "condition": { "type": "total_caught", "target": 50 },
+    "effect": { "type": "cooldown_reduction", "value": 5, "text": "Giảm 5% thời gian hồi chiêu đi săn." }
+  },
+  {
+    "id": "badge_rich",
+    "name": "💎 Phú Hào",
+    "desc": "Tiêu dùng tổng cộng 100,000 MoonCoin trong Cửa hàng.",
+    "condition": { "type": "total_spent", "target": 100000 },
+    "effect": { "type": "bonus_money", "value": 10, "text": "Nhận thêm 10% tiền khi bán xác Zombie." }
+  },
+  {
+    "id": "badge_sniper",
+    "name": "🎯 Tay Súng Tinh Nhuệ",
+    "desc": "Sở hữu Súng Nhắm (AWM).",
+    "condition": { "type": "own_gun", "target": "Súng Nhắm (AWM)" },
+    "effect": { "type": "bonus_ammo", "value": 2, "text": "Tăng giới hạn đạn +2 viên cho mọi loại súng." }
+  }
+]
