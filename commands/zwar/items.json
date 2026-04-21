@@ -1,0 +1,30 @@
+[
+  {
+    "id": "rations",
+    "name": "Lương khô",
+    "price": 3000,
+    "icon": "🍱",
+    "desc": "Nạp năng lượng tức thì. Giảm 100% thời gian chờ đi săn (Cooldown)."
+  },
+  {
+    "id": "repair_kit",
+    "name": "Bộ sửa chữa",
+    "price": 5000,
+    "icon": "🛠️",
+    "desc": "Bảo trì vũ khí. Hồi phục 100% độ bền (số viên đạn) cho khẩu súng hiện tại."
+  },
+  {
+    "id": "radar",
+    "name": "Radar Tầm Nhiệt",
+    "price": 10000,
+    "icon": "📡",
+    "desc": "Dò tìm sóng não cao. Lượt săn tiếp theo chắc chắn gặp Zombie bậc [Hiếm] trở lên."
+  },
+  {
+    "id": "adrenaline",
+    "name": "Tiêm Adrenaline",
+    "price": 15000,
+    "icon": "💉",
+    "desc": "Tăng cường giác quan. Gấp đôi tỷ lệ bắt thành công trong lượt săn tiếp theo."
+  }
+]
