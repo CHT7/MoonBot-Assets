@@ -1,0 +1,38 @@
+[
+  {
+    "id": "boss_tanker",
+    "name": "Goliath Tanker",
+    "hp": 5000,
+    "icon": "👹",
+    "color": "#8B0000",
+    "rewards": {
+      "coins": 50000,
+      "items": ["repair_kit", "radar"]
+    },
+    "desc": "Một con quái vật khổng lồ với lớp da dày không thể xuyên thủng bằng súng thường."
+  },
+  {
+    "id": "boss_phantom",
+    "name": "Bóng Ma Tốc Độ",
+    "hp": 3000,
+    "icon": "👻",
+    "color": "#4B0082",
+    "rewards": {
+      "coins": 75000,
+      "items": ["adrenaline"]
+    },
+    "desc": "Nó di chuyển quá nhanh. Cần sự phối hợp của cả server!"
+  },
+  {
+    "id": "boss_overlord",
+    "name": "Zombie Chúa (Overlord)",
+    "hp": 15000,
+    "icon": "👑",
+    "color": "#B8860B",
+    "rewards": {
+      "coins": 200000,
+      "items": ["radar", "adrenaline", "rations"]
+    },
+    "desc": "Kẻ đứng đầu binh đoàn xác sống. Bầu trời như nhuốm màu vàng rực khi nó xuất hiện."
+  }
+]
