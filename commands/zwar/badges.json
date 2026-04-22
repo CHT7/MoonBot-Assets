@@ -15,18 +15,32 @@
     "effect": { "type": "cooldown_reduction", "value": 5, "text": "Giảm 5% thời gian hồi chiêu đi săn." }
   },
   {
+    "id": "badge_hunter_200",
+    "name": "🏹 Thợ Săn Chuyên Nghiệp",
+    "desc": "Tiêu diệt tổng cộng 200 Zombie.",
+    "condition": { "type": "total_caught", "target": 200 },
+    "effect": { "type": "cooldown_reduction", "value": 8, "text": "Giảm 8% thời gian hồi chiêu đi săn." }
+  },
+  {
     "id": "badge_hunter_500",
-    "name": "🏹 Thợ Săn Lão Luyện",
+    "name": "🔥 Thợ Săn Lão Luyện",
     "desc": "Tiêu diệt tổng cộng 500 Zombie.",
     "condition": { "type": "total_caught", "target": 500 },
-    "effect": { "type": "cooldown_reduction", "value": 10, "text": "Giảm 10% thời gian hồi chiêu đi săn." }
+    "effect": { "type": "cooldown_reduction", "value": 12, "text": "Giảm 12% thời gian hồi chiêu đi săn." }
+  },
+  {
+    "id": "badge_hunter_1000",
+    "name": "🔱 Thợ Săn Huyền Thoại",
+    "desc": "Tiêu diệt tổng cộng 1,000 Zombie.",
+    "condition": { "type": "total_caught", "target": 1000 },
+    "effect": { "type": "cooldown_reduction", "value": 15, "text": "Giảm 15% thời gian hồi chiêu đi săn." }
   },
   {
     "id": "badge_hunter_2000",
     "name": "💀 Đồ Tể Vùng Dịch",
     "desc": "Tiêu diệt tổng cộng 2,000 Zombie.",
     "condition": { "type": "total_caught", "target": 2000 },
-    "effect": { "type": "cooldown_reduction", "value": 20, "text": "Giảm 20% thời gian hồi chiêu đi săn." }
+    "effect": { "type": "cooldown_reduction", "value": 25, "text": "Giảm 25% thời gian hồi chiêu đi săn." }
   },
   // --- NHÓM PHÚ HÀO (Dựa trên totalSpent) ---
   {
@@ -39,16 +53,30 @@
   {
     "id": "badge_rich_2",
     "name": "💎 Phú Hào",
+    "desc": "Tiêu dùng 500,000 <:moon_coin:1493149625878581278> trong cửa hàng.",
+    "condition": { "type": "total_spent", "target": 500000 },
+    "effect": { "type": "bonus_money", "value": 10, "text": "Nhận thêm 10% tiền khi bán xác Zombie." }
+  },
+  {
+    "id": "badge_rich_3",
+    "name": "👑 Triệu Phú",
     "desc": "Tiêu dùng 1,000,000 <:moon_coin:1493149625878581278> trong cửa hàng.",
     "condition": { "type": "total_spent", "target": 1000000 },
     "effect": { "type": "bonus_money", "value": 15, "text": "Nhận thêm 15% tiền khi bán xác Zombie." }
   },
   {
-    "id": "badge_rich_3",
-    "name": "👑 Tài Phiệt",
+    "id": "badge_rich_4",
+    "name": "🏛️ Tỷ Phú Vùng Hoang",
+    "desc": "Tiêu dùng 5,000,000 <:moon_coin:1493149625878581278> trong cửa hàng.",
+    "condition": { "type": "total_spent", "target": 5000000 },
+    "effect": { "type": "bonus_money", "value": 25, "text": "Nhận thêm 25% tiền khi bán xác Zombie." }
+  },
+  {
+    "id": "badge_rich_5",
+    "name": "💳 Tài Phiệt Toàn Cầu",
     "desc": "Tiêu dùng 10,000,000 <:moon_coin:1493149625878581278> trong cửa hàng.",
     "condition": { "type": "total_spent", "target": 10000000 },
-    "effect": { "type": "bonus_money", "value": 30, "text": "Nhận thêm 30% tiền khi bán xác Zombie." }
+    "effect": { "type": "bonus_money", "value": 40, "text": "Nhận thêm 40% tiền khi bán xác Zombie." }
   },
   // --- NHÓM KHO ĐỒ (Dựa trên inventorySize) ---
   {
@@ -56,14 +84,21 @@
     "name": "📦 Người Thu Gom",
     "desc": "Nâng cấp sức chứa kho đồ lên 20 ô.",
     "condition": { "type": "inventory_size", "target": 20 },
-    "effect": { "type": "durability_boost", "value": 10, "text": "Tăng 10% độ bền cho vũ khí." }
+    "effect": { "type": "durability_boost", "value": 5, "text": "Tăng 5% độ bền cho vũ khí." }
   },
   {
     "id": "badge_hoarder_2",
     "name": "🏗️ Chủ Kho Hàng",
-    "desc": "Nâng cấp sức chứa kho đồ lên 50 ô.",
-    "condition": { "type": "inventory_size", "target": 50 },
-    "effect": { "type": "durability_boost", "value": 25, "text": "Tăng 25% độ bền cho vũ khí." }
+    "desc": "Nâng cấp sức chứa kho đồ lên 40 ô.",
+    "condition": { "type": "inventory_size", "target": 40 },
+    "effect": { "type": "durability_boost", "value": 15, "text": "Tăng 15% độ bền cho vũ khí." }
+  },
+  {
+    "id": "badge_hoarder_3",
+    "name": "🏭 Tổng Kho Quân Nhu",
+    "desc": "Nâng cấp sức chứa kho đồ lên 80 ô.",
+    "condition": { "type": "inventory_size", "target": 80 },
+    "effect": { "type": "durability_boost", "value": 30, "text": "Tăng 30% độ bền cho vũ khí." }
   },
   // --- NHÓM ĐẶC BIỆT ---
   {
