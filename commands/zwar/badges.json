@@ -6,25 +6,78 @@
     "condition": { "type": "auto", "target": 0 },
     "effect": { "type": "none", "value": 0, "text": "Không có hiệu ứng đặc biệt." }
   },
+  // --- NHÓM THỢ SĂN (Dựa trên totalCaught) ---
   {
     "id": "badge_hunter_50",
-    "name": "⚔️ Thợ Săn Bậc Thầy",
+    "name": "⚔️ Thợ Săn Tập Sự",
     "desc": "Tiêu diệt tổng cộng 50 Zombie.",
     "condition": { "type": "total_caught", "target": 50 },
     "effect": { "type": "cooldown_reduction", "value": 5, "text": "Giảm 5% thời gian hồi chiêu đi săn." }
   },
   {
-    "id": "badge_rich",
-    "name": "💎 Phú Hào",
-    "desc": "Tiêu dùng tổng cộng 100,000 MoonCoin trong Cửa hàng.",
-    "condition": { "type": "total_spent", "target": 100000 },
-    "effect": { "type": "bonus_money", "value": 10, "text": "Nhận thêm 10% tiền khi bán xác Zombie." }
+    "id": "badge_hunter_500",
+    "name": "🏹 Thợ Săn Lão Luyện",
+    "desc": "Tiêu diệt tổng cộng 500 Zombie.",
+    "condition": { "type": "total_caught", "target": 500 },
+    "effect": { "type": "cooldown_reduction", "value": 10, "text": "Giảm 10% thời gian hồi chiêu đi săn." }
   },
+  {
+    "id": "badge_hunter_2000",
+    "name": "💀 Đồ Tể Vùng Dịch",
+    "desc": "Tiêu diệt tổng cộng 2,000 Zombie.",
+    "condition": { "type": "total_caught", "target": 2000 },
+    "effect": { "type": "cooldown_reduction", "value": 20, "text": "Giảm 20% thời gian hồi chiêu đi săn." }
+  },
+  // --- NHÓM PHÚ HÀO (Dựa trên totalSpent) ---
+  {
+    "id": "badge_rich_1",
+    "name": "💰 Thương Nhân",
+    "desc": "Tiêu dùng 100,000 <:moon_coin:1493149625878581278> trong cửa hàng.",
+    "condition": { "type": "total_spent", "target": 100000 },
+    "effect": { "type": "bonus_money", "value": 5, "text": "Nhận thêm 5% tiền khi bán xác Zombie." }
+  },
+  {
+    "id": "badge_rich_2",
+    "name": "💎 Phú Hào",
+    "desc": "Tiêu dùng 1,000,000 <:moon_coin:1493149625878581278> trong cửa hàng.",
+    "condition": { "type": "total_spent", "target": 1000000 },
+    "effect": { "type": "bonus_money", "value": 15, "text": "Nhận thêm 15% tiền khi bán xác Zombie." }
+  },
+  {
+    "id": "badge_rich_3",
+    "name": "👑 Tài Phiệt",
+    "desc": "Tiêu dùng 10,000,000 <:moon_coin:1493149625878581278> trong cửa hàng.",
+    "condition": { "type": "total_spent", "target": 10000000 },
+    "effect": { "type": "bonus_money", "value": 30, "text": "Nhận thêm 30% tiền khi bán xác Zombie." }
+  },
+  // --- NHÓM KHO ĐỒ (Dựa trên inventorySize) ---
+  {
+    "id": "badge_hoarder_1",
+    "name": "📦 Người Thu Gom",
+    "desc": "Nâng cấp sức chứa kho đồ lên 20 ô.",
+    "condition": { "type": "inventory_size", "target": 20 },
+    "effect": { "type": "durability_boost", "value": 10, "text": "Tăng 10% độ bền cho vũ khí." }
+  },
+  {
+    "id": "badge_hoarder_2",
+    "name": "🏗️ Chủ Kho Hàng",
+    "desc": "Nâng cấp sức chứa kho đồ lên 50 ô.",
+    "condition": { "type": "inventory_size", "target": 50 },
+    "effect": { "type": "durability_boost", "value": 25, "text": "Tăng 25% độ bền cho vũ khí." }
+  },
+  // --- NHÓM ĐẶC BIỆT ---
   {
     "id": "badge_sniper",
     "name": "🎯 Tay Súng Tinh Nhuệ",
     "desc": "Sở hữu Súng Nhắm (AWM).",
     "condition": { "type": "own_gun", "target": "Súng Nhắm (AWM)" },
     "effect": { "type": "bonus_ammo", "value": 2, "text": "Tăng giới hạn đạn +2 viên cho mọi loại súng." }
+  },
+  {
+    "id": "badge_adrenaline_junkie",
+    "name": "⚡ Kẻ Cuồng Loạn",
+    "desc": "Kích hoạt Adrenaline 50 lần.",
+    "condition": { "type": "use_item", "target": "adrenaline", "count": 50 },
+    "effect": { "type": "speed_boost", "value": 10, "text": "Tăng 10% tỉ lệ gặp Zombie hiếm." }
   }
 ]
