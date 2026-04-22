@@ -6,7 +6,6 @@
     "condition": { "type": "auto", "target": 0 },
     "effect": { "type": "none", "value": 0, "text": "Không có hiệu ứng đặc biệt." }
   },
-  // --- NHÓM THỢ SĂN (Dựa trên totalCaught) ---
   {
     "id": "badge_hunter_50",
     "name": "⚔️ Thợ Săn Tập Sự",
@@ -42,7 +41,6 @@
     "condition": { "type": "total_caught", "target": 2000 },
     "effect": { "type": "cooldown_reduction", "value": 25, "text": "Giảm 25% thời gian hồi chiêu đi săn." }
   },
-  // --- NHÓM PHÚ HÀO (Dựa trên totalSpent) ---
   {
     "id": "badge_rich_1",
     "name": "💰 Thương Nhân",
@@ -78,7 +76,6 @@
     "condition": { "type": "total_spent", "target": 10000000 },
     "effect": { "type": "bonus_money", "value": 40, "text": "Nhận thêm 40% tiền khi bán xác Zombie." }
   },
-  // --- NHÓM KHO ĐỒ (Dựa trên inventorySize) ---
   {
     "id": "badge_hoarder_1",
     "name": "📦 Người Thu Gom",
@@ -100,7 +97,6 @@
     "condition": { "type": "inventory_size", "target": 80 },
     "effect": { "type": "durability_boost", "value": 30, "text": "Tăng 30% độ bền cho vũ khí." }
   },
-  // --- NHÓM ĐẶC BIỆT ---
   {
     "id": "badge_sniper",
     "name": "🎯 Tay Súng Tinh Nhuệ",
