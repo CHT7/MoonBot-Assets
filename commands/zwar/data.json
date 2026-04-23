@@ -1,6 +1,2014 @@
 {
   "Zombie": [
     {
+      "name": "Zombie Cô Hàng Tạp Hóa",
+      "catch": "Ghi nợ não mày vào sổ nha, khi nào có thì trả!",
+      "rarity": "Trung Bình",
+      "price": 620,
+      "size": [
+        150,
+        160
+      ],
+      "time": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Thợ Sửa Loa Kẹo Kéo",
+      "catch": "Để ta hát cho ngươi nghe bản nhạc cuối cùng... *Húuuu*",
+      "rarity": "Hiếm",
+      "price": 1100,
+      "size": [
+        165,
+        180
+      ],
+      "time": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Xe Đẩy Bánh Mì",
+      "catch": "Bánh mì não nóng giòn đây! Không ăn tao... ăn mày!",
+      "rarity": "Bình Thường",
+      "price": 320,
+      "size": [
+        170,
+        190
+      ],
+      "time": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Robot Hút Bụi Lỗi",
+      "catch": "Đang quét dọn... phát hiện vật thể chứa protein... tiến hành nhai.",
+      "rarity": "Hiếm",
+      "price": 1800,
+      "size": [
+        30,
+        40
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Ninja Lead (Final Boss Form)",
+      "catch": "Mày không thấy tao xi nhan trái rẽ phải à? Chết đi!",
+      "rarity": "Siêu Hiếm",
+      "price": 5500,
+      "size": [
+        160,
+        175
+      ],
+      "time": [
+        7,
+        8,
+        16,
+        17,
+        18
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Idol Tóp Tóp 'Vô Tri'",
+      "catch": "Gét gô! Nhảy một điệu rồi ta cho cắn một miếng nè.",
+      "rarity": "Trung Bình",
+      "price": 450,
+      "size": [
+        155,
+        170
+      ],
+      "time": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Kỹ Sư Bán Dẫn",
+      "catch": "Chip 2nm xong rồi, nhưng não tao thì cháy đen rồi...",
+      "rarity": "Quý",
+      "price": 3200,
+      "size": [
+        165,
+        175
+      ],
+      "time": [
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Grab-Cụt-Tay",
+      "catch": "Đặt đơn không nhận, giờ tao tới tận nhà giao... răng nè!",
+      "rarity": "Bình Thường",
+      "price": 400,
+      "size": [
+        160,
+        180
+      ],
+      "time": [
+        11,
+        12,
+        18,
+        19,
+        20
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Oan Hồn Gốc Đa Trấn Thủ",
+      "catch": "Đã hàng trăm năm rồi, mùi não người vẫn không đổi.",
+      "rarity": "Siêu Hiếm",
+      "price": 7200,
+      "size": [
+        200,
+        400
+      ],
+      "time": [
+        23,
+        0,
+        1,
+        2,
+        3
+      ],
+      "months": [
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Zombie Thợ Xăm Hư hỏng",
+      "catch": "Để tao xăm lên cổ mày một vết cắn vĩnh viễn nhé.",
+      "rarity": "Hiếm",
+      "price": 1600,
+      "size": [
+        170,
+        185
+      ],
+      "time": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Heo Quay Cúng Cô Hồn",
+      "catch": "Hôm qua cúng tao, hôm nay tao cúng lại mày.",
+      "rarity": "Quý",
+      "price": 2900,
+      "size": [
+        80,
+        100
+      ],
+      "time": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "months": [
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Zombie 'Ông Chú Viettel'",
+      "catch": "Nạp thẻ 500k để được sống sót thêm 5 phút nào cháu.",
+      "rarity": "Huyền Thoại",
+      "price": 55555,
+      "size": [
+        165,
+        175
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Trẻ Trâu Múa Quạt",
+      "catch": "Nhìn cái gì? Có tin tao múa quạt bay đầu mày không?",
+      "rarity": "Bình Thường",
+      "price": 250,
+      "size": [
+        150,
+        165
+      ],
+      "time": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Thiên Lôi Cháy Mạch",
+      "catch": "Sét đánh không chết, nhưng làm tao thèm thịt nướng.",
+      "rarity": "Nguyên Tố",
+      "price": 15000,
+      "size": [
+        180,
+        220
+      ],
+      "time": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Zombie CEO Đa Cấp",
+      "catch": "Thay đổi tư duy đi, làm zombie giàu nhanh lắm, tin tôi!",
+      "rarity": "Hiếm",
+      "price": 1950,
+      "size": [
+        170,
+        180
+      ],
+      "time": [
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        16,
+        17
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Livestream Giỏ Hàng",
+      "catch": "Mọi người ơi, chốt đơn não em đi, chỉ còn 10 giây cuối cùng!",
+      "rarity": "Trung Bình",
+      "price": 650,
+      "size": [
+        155,
+        175
+      ],
+      "time": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Check-in Phông Bạt",
+      "catch": "Chết cũng phải đẹp, đợi tí em chỉnh màu Lightroom rồi hãy cắn.",
+      "rarity": "Hiếm",
+      "price": 1400,
+      "size": [
+        160,
+        180
+      ],
+      "time": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        15,
+        16,
+        17
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie AI Lỗi Prompt",
+      "catch": "Tôi là một mô hình ngôn ngữ... n-não... n-não... (403 Forbidden)",
+      "rarity": "Siêu Hiếm",
+      "price": 4800,
+      "size": [
+        100,
+        200
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Trà Chanh Giã Não",
+      "catch": "Cần bao nhiêu ký não để giã ra được một ly này đây?",
+      "rarity": "Bình Thường",
+      "price": 350,
+      "size": [
+        150,
+        170
+      ],
+      "time": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Zombie Flex Đến Hơi Thở Cuối",
+      "catch": "Show cái nhẹ profile zombie 10 năm kinh nghiệm, 3 bằng đại học.",
+      "rarity": "Quý",
+      "price": 2800,
+      "size": [
+        170,
+        185
+      ],
+      "time": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Hệ Tư Tưởng Vô Tri",
+      "catch": "Nghệ cả củ, cắn một miếng là thấy kiếp nạn thứ 82 liền.",
+      "rarity": "Bình Thường",
+      "price": 420,
+      "size": [
+        155,
+        165
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Shiper 5 Sao",
+      "catch": "Đơn của bạn đang được giao bằng... ruột của tôi. Đánh giá 5 sao nhé!",
+      "rarity": "Trung Bình",
+      "price": 500,
+      "size": [
+        160,
+        180
+      ],
+      "time": [
+        10,
+        11,
+        12,
+        13,
+        17,
+        18,
+        19,
+        20
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Kols Hết Thời",
+      "catch": "Book em đi anh chị ơi, cắn nhẹ không đau, giá hời nhất thị trường.",
+      "rarity": "Quý",
+      "price": 2200,
+      "size": [
+        158,
+        168
+      ],
+      "time": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Hướng Nội Out Trình",
+      "catch": "Chỉ xuất hiện khi không có ai nhìn, nhưng cắn phát nào chết phát đó.",
+      "rarity": "Cực Hiếm",
+      "price": 9500,
+      "size": [
+        150,
+        160
+      ],
+      "time": [
+        2,
+        3,
+        4
+      ],
+      "months": [
+        1,
+        4,
+        7,
+        10
+      ]
+    },
+    {
+      "name": "Zombie Phóng Lợn 2K10",
+      "catch": "Hết xăng rồi, cho mượn tí máu đổ vô bình xăng cái coi!",
+      "rarity": "Trung Bình",
+      "price": 580,
+      "size": [
+        140,
+        160
+      ],
+      "time": [
+        22,
+        23,
+        0,
+        1,
+        2
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Toxic Trên Thread",
+      "catch": "Thread này để chửi, não này để nhai, ý kiến lên phường!",
+      "rarity": "Hiếm",
+      "price": 1300,
+      "size": [
+        165,
+        175
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Săn Sale 0 Đồng",
+      "catch": "Não này áp mã freeship được không shop?",
+      "rarity": "Bình Thường",
+      "price": 333,
+      "size": [
+        155,
+        165
+      ],
+      "time": [
+        0,
+        12
+      ],
+      "months": [
+        1,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Cụ Tổ Zombie (Lão Làng)",
+      "catch": "Ngày xưa tao bị nhiễm virus khi còn đang dùng Yahoo đấy cháu ạ.",
+      "rarity": "Huyền Thoại",
+      "price": 60000,
+      "size": [
+        150,
+        160
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1
+      ]
+    },
+    {
+      "name": "Zombie Gấu Bông Loopy",
+      "catch": "Vẻ mặt vô tội nhưng hàm răng thì cực tội lỗi.",
+      "rarity": "Siêu Hiếm",
+      "price": 5200,
+      "size": [
+        40,
+        60
+      ],
+      "time": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Trùm Cuối Data Center",
+      "catch": "Tất cả các ngươi chỉ là dữ liệu cho cơn đói của ta.",
+      "rarity": "Cực Phẩm",
+      "price": 88888,
+      "size": [
+        200,
+        250
+      ],
+      "time": [
+        0
+      ],
+      "months": [
+        12
+      ]
+    },
+    {
+      "name": "Zombie Thực Tập Sinh",
+      "catch": "Sửa xong đống bug này... tao mới yên nghỉ được...",
+      "rarity": "Bình Thường",
+      "price": 300,
+      "size": [
+        160,
+        170
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Corgi Nhiễm Virus",
+      "catch": "Chân ngắn thì sao? Tao cắn tới đầu gối mày là đủ rồi!",
+      "rarity": "Trung Bình",
+      "price": 550,
+      "size": [
+        30,
+        45
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Ninja Áo Chống Nắng",
+      "catch": "Tao bật xi nhan trái rồi... chuẩn bị ăn cắn bên phải nè!",
+      "rarity": "Hiếm",
+      "price": 1500,
+      "size": [
+        150,
+        160
+      ],
+      "time": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Zombie Game Thủ 0/10",
+      "catch": "Lỗi do mạng ping cao thôi, chứ não tao vẫn... ủa não tao đâu rồi?",
+      "rarity": "Bình Thường",
+      "price": 400,
+      "size": [
+        165,
+        175
+      ],
+      "time": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Sầu Riêng Răng Cưa",
+      "catch": "Vỏ tao có gai, ruột tao có răng, và mùi tao thì... hủy diệt.",
+      "rarity": "Siêu Hiếm",
+      "price": 4200,
+      "size": [
+        25,
+        40
+      ],
+      "time": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Cá Mập Cắn Cáp Undead",
+      "catch": "Cáp quang nhạt nhẽo quá, cho xin miếng thịt người đi...",
+      "rarity": "Cực Hiếm",
+      "price": 12000,
+      "size": [
+        400,
+        600
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Tủ Lạnh Nhai Xương",
+      "catch": "Thịt bỏ quên từ thời tiền sử đã tiến hóa thành tao đây.",
+      "rarity": "Trung Bình",
+      "price": 750,
+      "size": [
+        80,
+        120
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Gymer Cuồng Protein",
+      "catch": "Ê thằng kia! Bắp tay mày bao nhiêu cm? Cho cắn thử miếng coi!",
+      "rarity": "Hiếm",
+      "price": 1800,
+      "size": [
+        190,
+        210
+      ],
+      "time": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Chứng Thủ Đu Đỉnh",
+      "catch": "Thị trường sập rồi... Mày cho tao cắn một miếng để gỡ vốn đi...",
+      "rarity": "Siêu Bình Thường",
+      "price": 180,
+      "size": [
+        160,
+        170
+      ],
+      "time": [
+        9,
+        10,
+        11,
+        13,
+        14,
+        15
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Phi Hành Gia Ký Sinh",
+      "catch": "Bên ngoài vũ trụ lạnh lắm... não của mày thì thật ấm áp...",
+      "rarity": "Cực Phẩm",
+      "price": 45000,
+      "size": [
+        180,
+        200
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Gà Trống Cụt Đầu Báo Thù",
+      "catch": "Cục tác... Cục tác... Hôm qua mày ăn KFC đúng không???",
+      "rarity": "Trung Bình",
+      "price": 600,
+      "size": [
+        40,
+        60
+      ],
+      "time": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Cây Ăn Thịt Đột Biến",
+      "catch": "Quang hợp là dĩ vãng rồi, tao thích hút máu hơn.",
+      "rarity": "Siêu Hiếm",
+      "price": 3800,
+      "size": [
+        200,
+        350
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Bò Sữa Khát Máu",
+      "catch": "Sữa dâu hay sữa... máu?",
+      "rarity": "Bình Thường",
+      "price": 300,
+      "size": [
+        120,
+        150
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Hoàng Thượng Undead",
+      "catch": "Meow... Trả pate đây con sen!",
+      "rarity": "Trung Bình",
+      "price": 600,
+      "size": [
+        20,
+        40
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Hoa Hướng Dương Đột Biến",
+      "catch": "Tao không cần ánh mặt trời, tao cần não mày!",
+      "rarity": "Hiếm",
+      "price": 1200,
+      "size": [
+        50,
+        80
+      ],
+      "time": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "months": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "T-800 Hàng Shopee",
+      "catch": "I'll be back... n-nhưng mạng lag quá...",
+      "rarity": "Siêu Hiếm",
+      "price": 3500,
+      "size": [
+        180,
+        200
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Zombie Deadline",
+      "catch": "Sếp ơi... em chưa làm xong dự án...",
+      "rarity": "Trung Bình",
+      "price": 550,
+      "size": [
+        160,
+        175
+      ],
+      "time": [
+        21,
+        22,
+        23,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Thực Thể Glitch [404]",
+      "catch": "E R R O R. B r a i n  N o t  F o u n d.",
+      "rarity": "Cực Hiếm",
+      "price": 8000,
+      "size": [
+        10,
+        500
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Megalodon Nhiễm Khuẩn",
+      "catch": "Khu vực này cấm tắm gội dưới mọi hình thức.",
+      "rarity": "Cực Phẩm",
+      "price": 50000,
+      "size": [
+        800,
+        1200
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Zombie Bóp Đồng Đội",
+      "catch": "Xin lỗi anh em, pha đó em lag thiệt...",
+      "rarity": "Siêu Bình Thường",
+      "price": 150,
+      "size": [
+        150,
+        170
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Nộm Hình Nhân Bị Nguyền",
+      "catch": "Mày... đang... nhìn... đi... đâu... đấy?",
+      "rarity": "Cực Hiếm",
+      "price": 12000,
+      "size": [
+        100,
+        110
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "months": [
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Khủng Long Mất Mạng",
+      "catch": "Bấm Space để nhảy... Á đù không có mạng wifi.",
+      "rarity": "Hiếm",
+      "price": 2000,
+      "size": [
+        200,
+        250
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Nồi Lẩu Thập Cẩm Chạy Bằng Cơm",
+      "catch": "Nước dùng hôm nay hơi đặc, anh trai dùng thử không?",
+      "rarity": "Trung Bình",
+      "price": 700,
+      "size": [
+        40,
+        60
+      ],
+      "time": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Rương Kho Báu Giả Mạo",
+      "catch": "Mở ra đi, bên trong nhiều vàng lắm (Cắn cụt tay).",
+      "rarity": "Siêu Hiếm",
+      "price": 4000,
+      "size": [
+        60,
+        90
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Mây Đen Độc Tố",
+      "catch": "*Khụ khụ* Hình như có đứa vừa xì hơi?",
+      "rarity": "Nguyên Tố",
+      "price": 2500,
+      "size": [
+        300,
+        500
+      ],
+      "time": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
       "name": "zombie mặt cười",
       "catch": "zombie mặt cười",
       "rarity": "Bình Thường",
@@ -3966,7 +5974,7 @@
       "name": "zombie TÂN",
       "catch": "zombie TÂN",
       "rarity": "Cực Phẩm",
-      "price": 100000.08,
+      "price": 100000,
       "size": [
         29,
         31
@@ -4016,7 +6024,7 @@
       "name": "The Witch",
       "catch": "The Witch",
       "rarity": "Cực Phẩm",
-      "price": 100000.08,
+      "price": 100000,
       "size": [
         29,
         31
