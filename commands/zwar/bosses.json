@@ -1,14 +1,204 @@
 [
   {
-    "id": "best toss",
-    "name": "Boss test",
-    "hp": 500,
+    "id": "boss_tanker",
+    "name": "Goliath Tanker",
+    "hp": 5000,
     "icon": "👹",
     "color": "#8B0000",
     "rewards": {
-      "coins": 10,
-      "items": ["repair_kit", "radar"]
+      "coins": 50000,
+      "items": [
+        "repair_kit",
+        "radar"
+      ]
     },
-    "desc": "Nihao"
+    "desc": "Một con quái vật khổng lồ với lớp da dày không thể xuyên thủng bằng súng thường."
+  },
+  {
+    "id": "boss_phantom",
+    "name": "Bóng Ma Tốc Độ",
+    "hp": 3000,
+    "icon": "👻",
+    "color": "#4B0082",
+    "rewards": {
+      "coins": 75000,
+      "items": [
+        "adrenaline"
+      ]
+    },
+    "desc": "Nó di chuyển quá nhanh. Cần sự phối hợp của cả server!"
+  },
+  {
+    "id": "boss_overlord",
+    "name": "Zombie Chúa (Overlord)",
+    "hp": 15000,
+    "icon": "👑",
+    "color": "#B8860B",
+    "rewards": {
+      "coins": 200000,
+      "items": [
+        "radar",
+        "adrenaline",
+        "rations"
+      ]
+    },
+    "desc": "Kẻ đứng đầu binh đoàn xác sống. Bầu trời như nhuốm màu vàng rực khi nó xuất hiện."
+  },
+  {
+    "id": "boss_leaper",
+    "name": "Thạch Sùng Thủy Tổ",
+    "hp": 4000,
+    "icon": "🦎",
+    "color": "#2E8B57",
+    "rewards": {
+      "coins": 55000,
+      "items": [
+        "rations"
+      ]
+    },
+    "desc": "Nó di chuyển liên tục trên các bức tường. Rất khó để ngắm bắn trúng đầu!"
+  },
+  {
+    "id": "boss_acid_spitter",
+    "name": "Xác Sống Axit",
+    "hp": 6500,
+    "icon": "🤮",
+    "color": "#ADFF2F",
+    "rewards": {
+      "coins": 80000,
+      "items": [
+        "repair_kit"
+      ]
+    },
+    "desc": "Luồng axit của nó có thể làm hỏng vũ khí của bất kỳ ai đứng quá gần."
+  },
+  {
+    "id": "boss_stalker",
+    "name": "Sát Thủ Vô Hình",
+    "hp": 4500,
+    "icon": "👤",
+    "color": "#2F4F4F",
+    "rewards": {
+      "coins": 95000,
+      "items": [
+        "radar",
+        "adrenaline"
+      ]
+    },
+    "desc": "Nó ẩn mình trong bóng tối và chỉ hiện hình khi bắt đầu tấn công."
+  },
+  {
+    "id": "boss_siren",
+    "name": "Nữ Hoàng Tiếng Thét",
+    "hp": 12000,
+    "icon": "🧜‍♀️",
+    "color": "#DB7093",
+    "rewards": {
+      "coins": 180000,
+      "items": [
+        "adrenaline",
+        "rations"
+      ]
+    },
+    "desc": "Tiếng hét của nó làm tê liệt hệ thống thần kinh, khiến các thợ săn không kịp trở tay."
+  },
+  {
+    "id": "boss_juggernaut",
+    "name": "Kẻ Hủy Diệt Bọc Thép",
+    "hp": 25000,
+    "icon": "🚜",
+    "color": "#708090",
+    "rewards": {
+      "coins": 350000,
+      "items": [
+        "repair_kit",
+        "repair_kit",
+        "radar"
+      ]
+    },
+    "desc": "Một con quái vật mặc giáp chống bạo động. Súng thường chỉ như gãi ngứa cho nó."
+  },
+  {
+    "id": "boss_plague_doctor",
+    "name": "Bác Sĩ Tử Thần",
+    "hp": 18000,
+    "icon": "🎭",
+    "color": "#483D8B",
+    "rewards": {
+      "coins": 250000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "rations"
+      ]
+    },
+    "desc": "Hắn gieo rắc mầm bệnh cực độc. Càng đánh lâu, người chơi càng mất sức."
+  },
+  {
+    "id": "boss_cyber_z",
+    "name": "Xác Sống Cơ Khí",
+    "hp": 35000,
+    "icon": "🤖",
+    "color": "#00CED1",
+    "rewards": {
+      "coins": 500000,
+      "items": [
+        "radar",
+        "radar",
+        "repair_kit",
+        "adrenaline"
+      ]
+    },
+    "desc": "Sản phẩm lỗi của một thí nghiệm quân sự. Nó có radar quét ngược lại vị trí của bạn!"
+  },
+  {
+    "id": "boss_hive_mind",
+    "name": "Tổ Xác Sống ",
+    "hp": 50000,
+    "icon": "🧠",
+    "color": "#FF4500",
+    "rewards": {
+      "coins": 800000,
+      "items": [
+        "rations",
+        "rations",
+        "repair_kit",
+        "repair_kit",
+        "adrenaline"
+      ]
+    },
+    "desc": "Một khối thịt khổng lồ liên kết hàng ngàn con zombie. Cả server phải dồn lực mới có thể hạ gục."
+  },
+  {
+    "id": "boss_abomination",
+    "name": "Thực Thể Biến Dạng",
+    "hp": 8000,
+    "icon": "☣️",
+    "color": "#9ACD32",
+    "rewards": {
+      "coins": 110000,
+      "items": [
+        "radar"
+      ]
+    },
+    "desc": "Nó liên tục hồi phục mô tế bào. Hãy kết liễu nó thật nhanh trước khi nó lớn hơn."
+  },
+  {
+    "id": "boss_titan_z",
+    "name": "Bạo Quân Titan",
+    "hp": 100000,
+    "icon": "🌋",
+    "color": "#FF0000",
+    "rewards": {
+      "coins": 2000000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "radar",
+        "repair_kit",
+        "rations"
+      ]
+    },
+    "desc": "Cơn ác mộng cuối cùng. Khi nó xuất hiện, mặt đất sẽ rung chuyển theo mỗi bước chân."
   }
 ]
