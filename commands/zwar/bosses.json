@@ -200,5 +200,415 @@
       ]
     },
     "desc": "Cơn ác mộng cuối cùng. Khi nó xuất hiện, mặt đất sẽ rung chuyển theo mỗi bước chân."
+  },
+  {
+    "id": "boss_fallen_guardian",
+    "name": "Vệ Binh Sa Ngã",
+    "hp": 15000,
+    "icon": "🛡️",
+    "color": "#4A4A4A",
+    "rewards": {
+      "coins": 95000,
+      "items": [
+        "repair_kit",
+        "repair_kit"
+      ]
+    },
+    "desc": "Từng là người bảo vệ thành phố, giờ đây hắn lù lù xuất hiện trong bộ giáp nát bấy, thanh gươm gỉ sét lê trên mặt đường tạo ra những tiếng rít kinh hoàng."
+  },
+  {
+    "id": "boss_swamp_terror",
+    "name": "Nỗi Kinh Hoàng Đầm Lầy",
+    "hp": 28000,
+    "icon": "🐊",
+    "color": "#2E8B57",
+    "rewards": {
+      "coins": 185000,
+      "items": [
+        "rations",
+        "radar"
+      ]
+    },
+    "desc": "Một sinh vật nửa người nửa bò sát, cơ thể phủ đầy rêu phong và nhớt thối. Hắn thường ẩn mình dưới làn nước đục và chỉ lộ ra đôi mắt đỏ ngầu khi săn mồi."
+  },
+  {
+    "id": "boss_sculptor_of_flesh",
+    "name": "Nghệ Nhân Điêu Khắc Xác",
+    "hp": 42000,
+    "icon": "✂️",
+    "color": "#800000",
+    "rewards": {
+      "coins": 420000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "repair_kit"
+      ]
+    },
+    "desc": "Một gã điên rồ với thân hình gầy gộc, mặc chiếc tạp dề đẫm máu. Hắn coi các bộ phận cơ thể là tác phẩm nghệ thuật và luôn tìm kiếm 'nguyên liệu' mới từ người chơi."
+  },
+  {
+    "id": "boss_nuclear_monstrosity",
+    "name": "Quái Thai Phóng Xạ",
+    "hp": 65000,
+    "icon": "☢️",
+    "color": "#ADFF2F",
+    "rewards": {
+      "coins": 850000,
+      "items": [
+        "radar",
+        "radar",
+        "adrenaline",
+        "repair_kit"
+      ]
+    },
+    "desc": "Thân hình khổng lồ phát ra ánh sáng xanh neon ma mị. Những khối u trên lưng hắn liên tục phồng rộp và vỡ ra, giải phóng những làn khói độc hại vào không khí."
+  },
+  {
+    "id": "boss_iron_colossus",
+    "name": "Pháo Đài Thép Di Động",
+    "hp": 95000,
+    "icon": "🏗️",
+    "color": "#708090",
+    "rewards": {
+      "coins": 1350000,
+      "items": [
+        "repair_kit",
+        "repair_kit",
+        "repair_kit",
+        "radar"
+      ]
+    },
+    "desc": "Một sự kết hợp kỳ dị giữa xác sống và máy móc công nghiệp. Đôi tay hắn là những mũi khoan khổng lồ, mỗi bước đi làm rung chuyển cả mặt đất."
+  },
+  {
+    "id": "boss_blood_countess",
+    "name": "Nữ Bá Tước Huyết Tộc",
+    "hp": 55000,
+    "icon": "🍷",
+    "color": "#DC143C",
+    "rewards": {
+      "coins": 620000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "rations"
+      ]
+    },
+    "desc": "Ả diện bộ váy dạ hội rách rưới, bay lơ lửng trên mặt đất với vẻ ngoài quý phái nhưng đầy chết chóc. Ánh nhìn của ả có thể khiến tim bất cứ ai ngừng đập."
+  },
+  {
+    "id": "boss_harvester_of_souls",
+    "name": "Kẻ Thu Hoạch Linh Hồn",
+    "hp": 130000,
+    "icon": "🕯️",
+    "color": "#483D8B",
+    "rewards": {
+      "coins": 2200000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "repair_kit",
+        "repair_kit",
+        "radar",
+        "rations"
+      ]
+    },
+    "desc": "Một thực thể đen kịt, cao lớn với chiếc mũ trùm đầu che khuất khuôn mặt. Hắn kéo theo một chiếc xe chở đầy lồng sắt chứa những linh hồn đau khổ."
+  },
+  {
+    "id": "boss_primeval_titan",
+    "name": "Bạo Chúa Tiền Sử",
+    "hp": 200000,
+    "icon": "🌋",
+    "color": "#D2691E",
+    "rewards": {
+      "coins": 5000000,
+      "items": [
+        "repair_kit",
+        "repair_kit",
+        "repair_kit",
+        "adrenaline",
+        "adrenaline",
+        "radar",
+        "radar"
+      ]
+    },
+    "desc": "Sinh vật cổ đại bị đánh thức bởi đại dịch. Với kích thước ngang ngửa một tòa nhà, lớp da của hắn cứng như đá nham thạch và hơi thở nóng rực lửa."
+  },
+  {
+    "id": "boss_urban_stalker",
+    "name": "Kẻ Săn Đuổi Đô Thị",
+    "hp": 18000,
+    "icon": "👣",
+    "color": "#2F4F4F",
+    "rewards": {
+      "coins": 110000,
+      "items": [
+        "radar",
+        "adrenaline"
+      ]
+    },
+    "desc": "Một bóng đen cao lêu nghêu với những chi dài bất thường, lẩn khuất giữa các tòa nhà cao tầng. Hắn không phát ra tiếng động, chỉ có hơi thở lạnh lẽo phả vào gáy con mồi."
+  },
+  {
+    "id": "boss_sewer_abyss",
+    "name": "Quái Vật Vực Thẳm Cống Ngầm",
+    "hp": 35000,
+    "icon": "🐙",
+    "color": "#483C32",
+    "rewards": {
+      "coins": 250000,
+      "items": [
+        "repair_kit",
+        "rations"
+      ]
+    },
+    "desc": "Tập hợp từ hàng ngàn xác chết bị thối rữa dưới lòng cống, sinh vật này là một khối thịt nhầy nhụa bốc mùi xú uế, với vô số những cánh tay chực chờ kéo nạn nhân xuống vũng bùn đen."
+  },
+  {
+    "id": "boss_failed_chimera",
+    "name": "Thực Thể Lai Lỗi",
+    "hp": 48000,
+    "icon": "🧬",
+    "color": "#9400D3",
+    "rewards": {
+      "coins": 550000,
+      "items": [
+        "adrenaline",
+        "repair_kit",
+        "radar"
+      ]
+    },
+    "desc": "Sản phẩm của một thí nghiệm ghép tạng điên rồ. Hắn có ba cái đầu liên tục gầm thét lẫn nhau, thân hình chắp vá bởi những lớp da từ nhiều loài sinh vật khác nhau."
+  },
+  {
+    "id": "boss_cinder_wraith",
+    "name": "Oán Hồn Tro Bụi",
+    "hp": 62000,
+    "icon": "🔥",
+    "color": "#FF4500",
+    "rewards": {
+      "coins": 920000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "repair_kit"
+      ]
+    },
+    "desc": "Thân xác hắn luôn âm ỉ cháy như một hòn than khổng lồ. Mỗi bước đi để lại những dấu chân cháy sém trên mặt đất, và tro bụi nóng bỏng luôn bay bao quanh hắn như một cơn bão nhỏ."
+  },
+  {
+    "id": "boss_storm_bringer",
+    "name": "Kẻ Triệu Hồi Lôi Đình",
+    "hp": 85000,
+    "icon": "⚡",
+    "color": "#1E90FF",
+    "rewards": {
+      "coins": 1500000,
+      "items": [
+        "radar",
+        "radar",
+        "repair_kit",
+        "adrenaline"
+      ]
+    },
+    "desc": "Một xác sống bị sét đánh trúng nhưng không chết, trái lại còn tích tụ dòng điện hàng triệu vôn. Những tia chớp xanh lét liên tục phóng ra từ hốc mắt và các đầu ngón tay của hắn."
+  },
+  {
+    "id": "boss_shattered_executioner",
+    "name": "Đao Phủ Vụn Vỡ",
+    "hp": 110000,
+    "icon": "🪓",
+    "color": "#8B0000",
+    "rewards": {
+      "coins": 2800000,
+      "items": [
+        "repair_kit",
+        "repair_kit",
+        "adrenaline",
+        "adrenaline",
+        "rations"
+      ]
+    },
+    "desc": "Tên đao phủ khổng lồ với chiếc rìu gãy nát dính chặt vào tay. Khuôn mặt hắn bị che lấp bởi những mảnh kim loại đóng đinh trực tiếp vào hộp sọ, tạo nên vẻ ngoài vô cùng tàn bạo."
+  },
+  {
+    "id": "boss_void_empress",
+    "name": "Nữ Hoàng Hư Vô",
+    "hp": 155000,
+    "icon": "🦋",
+    "color": "#4B0082",
+    "rewards": {
+      "coins": 4500000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "repair_kit",
+        "repair_kit",
+        "radar",
+        "rations"
+      ]
+    },
+    "desc": "Ả mang vẻ đẹp ma mị với đôi cánh tím thẫm như màn đêm. Xung quanh ả, không gian như bị bóp méo, nuốt chửng mọi ánh sáng và âm thanh, chỉ còn lại sự im lặng đáng sợ của cái chết."
+  },
+  {
+    "id": "boss_ancient_glacier",
+    "name": "Cổ Long Băng Giá",
+    "hp": 250000,
+    "icon": "❄️",
+    "color": "#F0FFFF",
+    "rewards": {
+      "coins": 8000000,
+      "items": [
+        "repair_kit",
+        "repair_kit",
+        "repair_kit",
+        "adrenaline",
+        "adrenaline",
+        "radar",
+        "radar",
+        "rations"
+      ]
+    },
+    "desc": "Sinh vật huyền thoại bị đóng băng hàng kỷ nguyên giờ đã thức dậy dưới hình dạng xác sống. Lớp vảy của nó là những tảng băng vĩnh cửu không thể bị phá vỡ, tỏa ra luồng khí hàn cực độ."
+  },
+  {
+    "id": "boss_bio_hazard_cocoon",
+    "name": "Kén Độc Sinh Học",
+    "hp": 16000,
+    "icon": "🥚",
+    "color": "#98FB98",
+    "rewards": {
+      "coins": 90000,
+      "items": [
+        "rations",
+        "repair_kit"
+      ]
+    },
+    "desc": "Một cái kén khổng lồ treo lơ lửng, lớp màng trong suốt để lộ một sinh vật đang co giật bên trong. Nó liên tục rỉ ra chất dịch xanh loét làm mục nát mọi thứ xung quanh."
+  },
+  {
+    "id": "boss_haunted_scarecrow",
+    "name": "Bù Nhìn Ám Ảnh",
+    "hp": 32000,
+    "icon": "🌾",
+    "color": "#DAA520",
+    "rewards": {
+      "coins": 220000,
+      "items": [
+        "radar",
+        "adrenaline"
+      ]
+    },
+    "desc": "Thân hình làm bằng rơm khô nhưng đôi mắt lại cháy rực ánh lửa ma mị. Hắn đứng bất động giữa cánh đồng chết, chỉ chờ đợi tiếng bước chân để vung lưỡi hái tử thần."
+  },
+  {
+    "id": "boss_tectonic_crusher",
+    "name": "Kẻ Nghiền Nát Địa Tầng",
+    "hp": 52000,
+    "icon": "🧱",
+    "color": "#5D4037",
+    "rewards": {
+      "coins": 580000,
+      "items": [
+        "repair_kit",
+        "repair_kit",
+        "adrenaline"
+      ]
+    },
+    "desc": "Một thực thể khổng lồ cấu thành từ những tảng đá và bê tông vụn của thành phố. Mỗi khi hắn đấm xuống đất, những vết nứt sâu thẳm lại hiện ra nuốt chửng mọi thứ."
+  },
+  {
+    "id": "boss_nebula_parasite",
+    "name": "Ký Sinh Trùng Tinh Vân",
+    "hp": 68000,
+    "icon": "🌌",
+    "color": "#00008B",
+    "rewards": {
+      "coins": 980000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "radar"
+      ]
+    },
+    "desc": "Sinh vật đến từ ngoài vũ trụ, cơ thể lấp lánh như những vì sao nhưng ẩn chứa mầm bệnh đáng sợ. Những xúc tu ánh sáng của nó vươn dài như muốn hút cạn sinh khí của hành tinh."
+  },
+  {
+    "id": "boss_scrap_metal_hydra",
+    "name": "Mãng Xà Phế Liệu",
+    "hp": 88000,
+    "icon": "🐉",
+    "color": "#BDBDBD",
+    "rewards": {
+      "coins": 1600000,
+      "items": [
+        "repair_kit",
+        "repair_kit",
+        "radar",
+        "adrenaline"
+      ]
+    },
+    "desc": "Con quái vật nhiều đầu được tạo ra từ rác thải kim loại và dây điện chằng chịt. Mỗi cái đầu là một động cơ gầm rú, phun ra những tia lửa điện và dầu đen nóng bỏng."
+  },
+  {
+    "id": "boss_midnight_specter",
+    "name": "Bóng Ma Nửa Đêm",
+    "hp": 125000,
+    "icon": "🕯️",
+    "color": "#1A1A1B",
+    "rewards": {
+      "coins": 3200000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "repair_kit",
+        "repair_kit",
+        "rations"
+      ]
+    },
+    "desc": "Một bóng hình mờ ảo không có hình dạng cố định, thường xuất hiện cùng với màn sương dày đặc. Hắn di chuyển qua các vật thể rắn như thể chúng không tồn tại."
+  },
+  {
+    "id": "boss_abyssal_leviathan",
+    "name": "Thủy Quái Vực Thẳm",
+    "hp": 165000,
+    "icon": "🐋",
+    "color": "#008B8B",
+    "rewards": {
+      "coins": 5500000,
+      "items": [
+        "adrenaline",
+        "adrenaline",
+        "repair_kit",
+        "repair_kit",
+        "radar",
+        "rations"
+      ]
+    },
+    "desc": "Vua của các vùng biển ô nhiễm, cơ thể to lớn phủ đầy những mụn cóc độc hại và những mảnh tàu đắm. Tiếng gầm của nó vang vọng từ đáy đại dương lạnh lẽo."
+  },
+  {
+    "id": "boss_solar_flare_sovereign",
+    "name": "Chúa Tể Bão Mặt Trời",
+    "hp": 300000,
+    "icon": "☀️",
+    "color": "#FF8C00",
+    "rewards": {
+      "coins": 10000000,
+      "items": [
+        "repair_kit",
+        "repair_kit",
+        "repair_kit",
+        "adrenaline",
+        "adrenaline",
+        "radar",
+        "radar",
+        "rations",
+        "rations"
+      ]
+    },
+    "desc": "Thực thể tối cao mang sức mạnh của các vì sao. Toàn thân hắn rực cháy với nhiệt độ hàng triệu độ C, biến mọi chiến trường trở thành một hỏa ngục không lối thoát."
   }
 ]
