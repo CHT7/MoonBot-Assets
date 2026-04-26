@@ -2,28 +2,28 @@
   {
     "id": "rations",
     "name": "Lương khô",
-    "price": 3000,
+    "price": 1500,
     "icon": "🍱",
     "desc": "Nạp năng lượng tức thì. Giảm 100% thời gian chờ đi săn."
   },
   {
     "id": "repair_kit",
     "name": "Bộ sửa chữa",
-    "price": 5000,
+    "price": 3500,
     "icon": "🛠️",
     "desc": "Bảo trì vũ khí. Hồi phục 100% độ bền (số viên đạn) cho khẩu súng hiện tại."
   },
   {
     "id": "radar",
     "name": "Radar Tầm Nhiệt",
-    "price": 10000,
+    "price": 7500,
     "icon": "📡",
     "desc": "Dò tìm sóng não cao. Lượt săn tiếp theo chắc chắn gặp Zombie bậc [Hiếm] trở lên."
   },
   {
     "id": "adrenaline",
     "name": "Tiêm Adrenaline",
-    "price": 15000,
+    "price": 10000,
     "icon": "💉",
     "desc": "Tăng cường tế bào. Kích thước và Giá trị bán của Zombie trong lượt săn tới được x2."
   }
