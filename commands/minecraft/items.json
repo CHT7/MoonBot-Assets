@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Cúp Gỗ",
+    "price": 500,
+    "durability": 30,
+    "countdown": 10,
+    "levelReq": 1,
+    "luckBonus": 0.0,
+    "image": "https://i.imgur.com/IODc9Jo.png"
+  },
+  {
+    "name": "Cúp Đá",
+    "price": 15000,
+    "durability": 80,
+    "countdown": 9,
+    "levelReq": 5,
+    "luckBonus": 0.05,
+    "image": "https://i.imgur.com/XHTNRGF.png"
+  },
+  {
+    "name": "Cúp Sắt",
+    "price": 85000,
+    "durability": 150,
+    "countdown": 8,
+    "levelReq": 15,
+    "luckBonus": 0.15,
+    "image": "https://i.imgur.com/Rrlr2ZB.png"
+  },
+  {
+    "name": "Cúp Vàng",
+    "price": 350000,
+    "durability": 300,
+    "countdown": 6,
+    "levelReq": 30,
+    "luckBonus": 0.30,
+    "image": "https://i.imgur.com/yPedwZX.png"
+  },
+  {
+    "name": "Cúp Kim Cương",
+    "price": 1200000,
+    "durability": 600,
+    "countdown": 4,
+    "levelReq": 50,
+    "luckBonus": 0.60,
+    "image": "https://i.imgur.com/qA8hott.png"
+  },
+  {
+    "name": "Cúp Netherite",
+    "price": 5000000,
+    "durability": 1200,
+    "countdown": 3,
+    "levelReq": 80,
+    "luckBonus": 1.0,
+    "image": "https://i.imgur.com/k1skyAb.png"
+  }
+]
