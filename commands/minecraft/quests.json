@@ -1,0 +1,1492 @@
+[
+  {
+    "id": "q_mine_5",
+    "name": "Nhát Cuốc Đầu Tiên",
+    "desc": "Đào 5 quặng bất kỳ",
+    "type": "mine",
+    "target": 5,
+    "reward": 217,
+    "xp": 49,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_10",
+    "name": "Tập Sự Đào Mỏ",
+    "desc": "Đào 10 quặng bất kỳ",
+    "type": "mine",
+    "target": 10,
+    "reward": 449,
+    "xp": 101,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_15",
+    "name": "Học Việc Hầm Mỏ",
+    "desc": "Đào 15 quặng bất kỳ",
+    "type": "mine",
+    "target": 15,
+    "reward": 687,
+    "xp": 155,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_25",
+    "name": "Bắt Đầu Khai Thác",
+    "desc": "Đào 25 quặng bất kỳ",
+    "type": "mine",
+    "target": 25,
+    "reward": 1175,
+    "xp": 264,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_40",
+    "name": "Người Mới Cầm Cuốc",
+    "desc": "Đào 40 quặng bất kỳ",
+    "type": "mine",
+    "target": 40,
+    "reward": 1924,
+    "xp": 433,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_50",
+    "name": "Ngày Khai Thác",
+    "desc": "Đào 50 quặng bất kỳ",
+    "type": "mine",
+    "target": 50,
+    "reward": 2432,
+    "xp": 547,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_65",
+    "name": "Buổi Sáng Trong Hầm",
+    "desc": "Đào 65 quặng bất kỳ",
+    "type": "mine",
+    "target": 65,
+    "reward": 3203,
+    "xp": 721,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_75",
+    "name": "Dấu Chân Thợ Mỏ",
+    "desc": "Đào 75 quặng bất kỳ",
+    "type": "mine",
+    "target": 75,
+    "reward": 3723,
+    "xp": 838,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_90",
+    "name": "Kiên Trì Đào Bới",
+    "desc": "Đào 90 quặng bất kỳ",
+    "type": "mine",
+    "target": 90,
+    "reward": 4508,
+    "xp": 1014,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_100",
+    "name": "Thợ Mỏ Nhập Môn",
+    "desc": "Đào 100 quặng bất kỳ",
+    "type": "mine",
+    "target": 100,
+    "reward": 5036,
+    "xp": 1133,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_125",
+    "name": "Cuốc Đá Bền Bỉ",
+    "desc": "Đào 125 quặng bất kỳ",
+    "type": "mine",
+    "target": 125,
+    "reward": 6365,
+    "xp": 1432,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_150",
+    "name": "Đào Sâu Hơn Nữa",
+    "desc": "Đào 150 quặng bất kỳ",
+    "type": "mine",
+    "target": 150,
+    "reward": 7708,
+    "xp": 1734,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_175",
+    "name": "Tay Cuốc Vững Vàng",
+    "desc": "Đào 175 quặng bất kỳ",
+    "type": "mine",
+    "target": 175,
+    "reward": 9063,
+    "xp": 2039,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_200",
+    "name": "Người Khai Khoáng Trẻ",
+    "desc": "Đào 200 quặng bất kỳ",
+    "type": "mine",
+    "target": 200,
+    "reward": 10427,
+    "xp": 2346,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_mine_250",
+    "name": "Cuốc Sắt Bền Bỉ",
+    "desc": "Đào 250 quặng bất kỳ",
+    "type": "mine",
+    "target": 250,
+    "reward": 23277,
+    "xp": 3007,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_300",
+    "name": "Thợ Siêng Năng",
+    "desc": "Đào 300 quặng bất kỳ",
+    "type": "mine",
+    "target": 300,
+    "reward": 28551,
+    "xp": 3688,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_350",
+    "name": "Đào Không Ngơi Nghỉ",
+    "desc": "Đào 350 quặng bất kỳ",
+    "type": "mine",
+    "target": 350,
+    "reward": 33931,
+    "xp": 4383,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_400",
+    "name": "Sâu Trong Lòng Đất",
+    "desc": "Đào 400 quặng bất kỳ",
+    "type": "mine",
+    "target": 400,
+    "reward": 39405,
+    "xp": 5090,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_450",
+    "name": "Đào Sâu Vào Lòng Đất",
+    "desc": "Đào 450 quặng bất kỳ",
+    "type": "mine",
+    "target": 450,
+    "reward": 44961,
+    "xp": 5808,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_500",
+    "name": "Bậc Thợ Mỏ Trung Cấp",
+    "desc": "Đào 500 quặng bất kỳ",
+    "type": "mine",
+    "target": 500,
+    "reward": 50593,
+    "xp": 6535,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_600",
+    "name": "Thợ Mỏ Chuyên Cần",
+    "desc": "Đào 600 quặng bất kỳ",
+    "type": "mine",
+    "target": 600,
+    "reward": 62054,
+    "xp": 8015,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_700",
+    "name": "Cuốc Vàng Sáng Loáng",
+    "desc": "Đào 700 quặng bất kỳ",
+    "type": "mine",
+    "target": 700,
+    "reward": 73748,
+    "xp": 9526,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_800",
+    "name": "Không Ngừng Khai Thác",
+    "desc": "Đào 800 quặng bất kỳ",
+    "type": "mine",
+    "target": 800,
+    "reward": 85645,
+    "xp": 11062,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_900",
+    "name": "Người Đào Bới Không Mệt",
+    "desc": "Đào 900 quặng bất kỳ",
+    "type": "mine",
+    "target": 900,
+    "reward": 97722,
+    "xp": 12622,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_1000",
+    "name": "Tay Nghề Vững Chắc",
+    "desc": "Đào 1000 quặng bất kỳ",
+    "type": "mine",
+    "target": 1000,
+    "reward": 109962,
+    "xp": 14203,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_mine_1100",
+    "name": "Bậc Thầy Cầm Cuốc",
+    "desc": "Đào 1100 quặng bất kỳ",
+    "type": "mine",
+    "target": 1100,
+    "reward": 297802,
+    "xp": 28325,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_mine_1200",
+    "name": "Bậc Thầy Khai Khoáng",
+    "desc": "Đào 1200 quặng bất kỳ",
+    "type": "mine",
+    "target": 1200,
+    "reward": 331153,
+    "xp": 31388,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_mine_1350",
+    "name": "Hành Trình Không Dừng",
+    "desc": "Đào 1350 quặng bất kỳ",
+    "type": "mine",
+    "target": 1350,
+    "reward": 382327,
+    "xp": 36068,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_mine_1500",
+    "name": "Cuốc Vàng Không Nghỉ",
+    "desc": "Đào 1500 quặng bất kỳ",
+    "type": "mine",
+    "target": 1500,
+    "reward": 434770,
+    "xp": 40842,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_mine_1650",
+    "name": "Đào Xuyên Đêm",
+    "desc": "Đào 1650 quặng bất kỳ",
+    "type": "mine",
+    "target": 1650,
+    "reward": 488381,
+    "xp": 45704,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_mine_1800",
+    "name": "Thợ Mỏ Lão Luyện",
+    "desc": "Đào 1800 quặng bất kỳ",
+    "type": "mine",
+    "target": 1800,
+    "reward": 543076,
+    "xp": 50646,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_mine_2000",
+    "name": "Huyền Thoại Hầm Mỏ",
+    "desc": "Đào 2000 quặng bất kỳ",
+    "type": "mine",
+    "target": 2000,
+    "reward": 617568,
+    "xp": 57351,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_mine_2250",
+    "name": "Người Chinh Phục Hầm Sâu",
+    "desc": "Đào 2250 quặng bất kỳ",
+    "type": "mine",
+    "target": 2250,
+    "reward": 713002,
+    "xp": 65902,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_mine_2500",
+    "name": "Vô Địch Khai Khoáng",
+    "desc": "Đào 2500 quặng bất kỳ",
+    "type": "mine",
+    "target": 2500,
+    "reward": 810802,
+    "xp": 74626,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_mine_3000",
+    "name": "Vĩnh Cửu Trong Hầm Mỏ",
+    "desc": "Đào 3000 quặng bất kỳ",
+    "type": "mine",
+    "target": 3000,
+    "reward": 3517854,
+    "xp": 200853,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_mine_3500",
+    "name": "Linh Hồn Của Đá",
+    "desc": "Đào 3500 quặng bất kỳ",
+    "type": "mine",
+    "target": 3500,
+    "reward": 4278585,
+    "xp": 241666,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_mine_4000",
+    "name": "Đế Vương Khai Khoáng",
+    "desc": "Đào 4000 quặng bất kỳ",
+    "type": "mine",
+    "target": 4000,
+    "reward": 5069323,
+    "xp": 283665,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_mine_4500",
+    "name": "Tối Thượng Thợ Mỏ",
+    "desc": "Đào 4500 quặng bất kỳ",
+    "type": "mine",
+    "target": 4500,
+    "reward": 5887266,
+    "xp": 326730,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_mine_5000",
+    "name": "Huyền Thoại Thợ Mỏ",
+    "desc": "Đào 5000 quặng bất kỳ",
+    "type": "mine",
+    "target": 5000,
+    "reward": 6730164,
+    "xp": 370764,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_mine_6000",
+    "name": "Vượt Giới Hạn Khai Thác",
+    "desc": "Đào 6000 quặng bất kỳ",
+    "type": "mine",
+    "target": 6000,
+    "reward": 8483711,
+    "xp": 461440,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_mine_7000",
+    "name": "Bậc Thầy Vĩnh Hằng",
+    "desc": "Đào 7000 quặng bất kỳ",
+    "type": "mine",
+    "target": 7000,
+    "reward": 10318303,
+    "xp": 555203,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_mine_7500",
+    "name": "Linh Hồn Của Hầm Sâu",
+    "desc": "Đào 7500 quặng bất kỳ",
+    "type": "mine",
+    "target": 7500,
+    "reward": 11263194,
+    "xp": 603125,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_mine_8500",
+    "name": "Chúa Tể Hầm Mỏ",
+    "desc": "Đào 8500 quặng bất kỳ",
+    "type": "mine",
+    "target": 8500,
+    "reward": 13203705,
+    "xp": 700868,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_mine_10000",
+    "name": "Siêu Việt Khai Khoáng",
+    "desc": "Đào 10000 quặng bất kỳ",
+    "type": "mine",
+    "target": 10000,
+    "reward": 16230570,
+    "xp": 851792,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_300",
+    "name": "Đồng Xu Đầu Tiên",
+    "desc": "Kiếm được 300 tiền từ bán quặng",
+    "type": "earn",
+    "target": 300,
+    "reward": 126,
+    "xp": 30,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_500",
+    "name": "Túi Tiền Nhỏ",
+    "desc": "Kiếm được 500 tiền từ bán quặng",
+    "type": "earn",
+    "target": 500,
+    "reward": 210,
+    "xp": 50,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_800",
+    "name": "Bắt Đầu Buôn Bán",
+    "desc": "Kiếm được 800 tiền từ bán quặng",
+    "type": "earn",
+    "target": 800,
+    "reward": 336,
+    "xp": 80,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_1200",
+    "name": "Người Bán Hàng Mới",
+    "desc": "Kiếm được 1,200 tiền từ bán quặng",
+    "type": "earn",
+    "target": 1200,
+    "reward": 504,
+    "xp": 120,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_2000",
+    "name": "Tích Tiểu Thành Đại",
+    "desc": "Kiếm được 2,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 2000,
+    "reward": 840,
+    "xp": 200,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_3000",
+    "name": "Sạp Hàng Nhỏ",
+    "desc": "Kiếm được 3,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 3000,
+    "reward": 1260,
+    "xp": 300,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_5000",
+    "name": "Buôn Bán Nhỏ Lẻ",
+    "desc": "Kiếm được 5,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 5000,
+    "reward": 2100,
+    "xp": 500,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_7500",
+    "name": "Cửa Hàng Mở Rộng",
+    "desc": "Kiếm được 7,500 tiền từ bán quặng",
+    "type": "earn",
+    "target": 7500,
+    "reward": 3150,
+    "xp": 750,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_10000",
+    "name": "Người Bán Hàng Chăm Chỉ",
+    "desc": "Kiếm được 10,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 10000,
+    "reward": 4200,
+    "xp": 1000,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_15000",
+    "name": "Quầy Hàng Đông Khách",
+    "desc": "Kiếm được 15,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 15000,
+    "reward": 6300,
+    "xp": 1500,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_20000",
+    "name": "Khởi Nghiệp Thành Công",
+    "desc": "Kiếm được 20,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 20000,
+    "reward": 8400,
+    "xp": 2000,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_earn_30000",
+    "name": "Thương Nhân Mới Nổi",
+    "desc": "Kiếm được 30,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 30000,
+    "reward": 12000,
+    "xp": 2850,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_40000",
+    "name": "Cửa Hiệu Phát Triển",
+    "desc": "Kiếm được 40,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 40000,
+    "reward": 16000,
+    "xp": 3800,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_55000",
+    "name": "Dòng Tiền Đầu Tiên",
+    "desc": "Kiếm được 55,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 55000,
+    "reward": 22000,
+    "xp": 5225,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_70000",
+    "name": "Mở Rộng Kinh Doanh",
+    "desc": "Kiếm được 70,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 70000,
+    "reward": 28000,
+    "xp": 6650,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_85000",
+    "name": "Doanh Thu Ổn Định",
+    "desc": "Kiếm được 85,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 85000,
+    "reward": 34000,
+    "xp": 8075,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_100000",
+    "name": "Đại Lý Khoáng Sản",
+    "desc": "Kiếm được 100,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 100000,
+    "reward": 40000,
+    "xp": 9500,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_125000",
+    "name": "Thương Gia Có Tiếng",
+    "desc": "Kiếm được 125,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 125000,
+    "reward": 50000,
+    "xp": 11875,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_150000",
+    "name": "Buôn Bán Sầm Uất",
+    "desc": "Kiếm được 150,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 150000,
+    "reward": 60000,
+    "xp": 14250,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_175000",
+    "name": "Chuỗi Cửa Hàng",
+    "desc": "Kiếm được 175,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 175000,
+    "reward": 70000,
+    "xp": 16625,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_200000",
+    "name": "Doanh Nhân Thành Đạt",
+    "desc": "Kiếm được 200,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 200000,
+    "reward": 80000,
+    "xp": 19000,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_earn_250000",
+    "name": "Tài Phiệt Khoáng Sản",
+    "desc": "Kiếm được 250,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 250000,
+    "reward": 110000,
+    "xp": 22500,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_earn_300000",
+    "name": "Đế Chế Thương Mại Nhỏ",
+    "desc": "Kiếm được 300,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 300000,
+    "reward": 132000,
+    "xp": 27000,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_earn_375000",
+    "name": "Ông Trùm Buôn Bán",
+    "desc": "Kiếm được 375,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 375000,
+    "reward": 165000,
+    "xp": 33750,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_earn_450000",
+    "name": "Vua Giao Dịch",
+    "desc": "Kiếm được 450,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 450000,
+    "reward": 198000,
+    "xp": 40500,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_earn_550000",
+    "name": "Đế Chế Thương Mại",
+    "desc": "Kiếm được 550,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 550000,
+    "reward": 242000,
+    "xp": 49500,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_earn_650000",
+    "name": "Trùm Tài Chính Mỏ",
+    "desc": "Kiếm được 650,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 650000,
+    "reward": 286000,
+    "xp": 58500,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_earn_750000",
+    "name": "Vua Buôn Bán",
+    "desc": "Kiếm được 750,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 750000,
+    "reward": 330000,
+    "xp": 67500,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_earn_850000",
+    "name": "Tập Đoàn Khoáng Sản",
+    "desc": "Kiếm được 850,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 850000,
+    "reward": 374000,
+    "xp": 76500,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_earn_1000000",
+    "name": "Triệu Phú Hầm Mỏ",
+    "desc": "Kiếm được 1,000,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 1000000,
+    "reward": 440000,
+    "xp": 90000,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_earn_1250000",
+    "name": "Đại Gia Khoáng Sản",
+    "desc": "Kiếm được 1,250,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 1250000,
+    "reward": 575000,
+    "xp": 106250,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_1500000",
+    "name": "Tỷ Phú Tương Lai",
+    "desc": "Kiếm được 1,500,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 1500000,
+    "reward": 690000,
+    "xp": 127500,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_2000000",
+    "name": "Tỷ Phú Hầm Mỏ",
+    "desc": "Kiếm được 2,000,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 2000000,
+    "reward": 920000,
+    "xp": 170000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_2500000",
+    "name": "Đế Vương Tài Chính",
+    "desc": "Kiếm được 2,500,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 2500000,
+    "reward": 1150000,
+    "xp": 212500,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_3000000",
+    "name": "Trùm Tài Phiệt",
+    "desc": "Kiếm được 3,000,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 3000000,
+    "reward": 1380000,
+    "xp": 255000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_3500000",
+    "name": "Thống Trị Thị Trường",
+    "desc": "Kiếm được 3,500,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 3500000,
+    "reward": 1610000,
+    "xp": 297500,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_4000000",
+    "name": "Vua Của Mọi Vua",
+    "desc": "Kiếm được 4,000,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 4000000,
+    "reward": 1840000,
+    "xp": 340000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_5000000",
+    "name": "Bậc Thầy Tài Chính",
+    "desc": "Kiếm được 5,000,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 5000000,
+    "reward": 2300000,
+    "xp": 425000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_6000000",
+    "name": "Đế Chế Vô Song",
+    "desc": "Kiếm được 6,000,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 6000000,
+    "reward": 2760000,
+    "xp": 510000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_7500000",
+    "name": "Huyền Thoại Thương Mại",
+    "desc": "Kiếm được 7,500,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 7500000,
+    "reward": 3450000,
+    "xp": 637500,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_earn_10000000",
+    "name": "Vĩnh Cửu Phú Quý",
+    "desc": "Kiếm được 10,000,000 tiền từ bán quặng",
+    "type": "earn",
+    "target": 10000000,
+    "reward": 4600000,
+    "xp": 850000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_rare_1",
+    "name": "May Mắn Lần Đầu",
+    "desc": "Tìm 1 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 1,
+    "reward": 550,
+    "xp": 140,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_rare_2",
+    "name": "Vận May Khởi Đầu",
+    "desc": "Tìm 2 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 2,
+    "reward": 1100,
+    "xp": 280,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_rare_3",
+    "name": "Ánh Sáng Lấp Lánh",
+    "desc": "Tìm 3 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 3,
+    "reward": 1650,
+    "xp": 420,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_rare_5",
+    "name": "Săn Tìm May Mắn",
+    "desc": "Tìm 5 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 5,
+    "reward": 2750,
+    "xp": 700,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_rare_8",
+    "name": "Dấu Hiệu Của Vận May",
+    "desc": "Tìm 8 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 8,
+    "reward": 4400,
+    "xp": 1120,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_rare_10",
+    "name": "Người Có Duyên Với Đá Quý",
+    "desc": "Tìm 10 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 10,
+    "reward": 5500,
+    "xp": 1400,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_rare_12",
+    "name": "Tia Hy Vọng Hiếm Có",
+    "desc": "Tìm 12 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 12,
+    "reward": 6600,
+    "xp": 1680,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_rare_15",
+    "name": "Săn Báu Vật",
+    "desc": "Tìm 15 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 15,
+    "reward": 15750,
+    "xp": 2175,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_rare_20",
+    "name": "Thợ Săn Khoáng Quý",
+    "desc": "Tìm 20 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 20,
+    "reward": 21000,
+    "xp": 2900,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_rare_25",
+    "name": "Mắt Tinh Tường",
+    "desc": "Tìm 25 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 25,
+    "reward": 26250,
+    "xp": 3625,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_rare_30",
+    "name": "Kho Báu Tích Lũy",
+    "desc": "Tìm 30 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 30,
+    "reward": 31500,
+    "xp": 4350,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_rare_40",
+    "name": "Người Tìm Kho Báu",
+    "desc": "Tìm 40 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 40,
+    "reward": 42000,
+    "xp": 5800,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_rare_50",
+    "name": "Chuyên Gia Săn Hiếm",
+    "desc": "Tìm 50 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 50,
+    "reward": 52500,
+    "xp": 7250,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_rare_60",
+    "name": "Bộ Sưu Tập Quý Giá",
+    "desc": "Tìm 60 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 60,
+    "reward": 63000,
+    "xp": 8700,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_rare_75",
+    "name": "Thợ Săn Khoáng Sản Sử Thi",
+    "desc": "Tìm 75 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 75,
+    "reward": 81000,
+    "xp": 11250,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_rare_90",
+    "name": "Kẻ Truy Tìm Vận May",
+    "desc": "Tìm 90 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 90,
+    "reward": 97200,
+    "xp": 13500,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_rare_100",
+    "name": "Kho Tàng Vô Tận",
+    "desc": "Tìm 100 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 100,
+    "reward": 108000,
+    "xp": 15000,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_rare_125",
+    "name": "Người Sở Hữu Vận Mệnh",
+    "desc": "Tìm 125 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 125,
+    "reward": 135000,
+    "xp": 18750,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_rare_150",
+    "name": "Báu Vật Không Giới Hạn",
+    "desc": "Tìm 150 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 150,
+    "reward": 162000,
+    "xp": 22500,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_rare_175",
+    "name": "Đỉnh Cao Săn Hiếm",
+    "desc": "Tìm 175 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 175,
+    "reward": 189000,
+    "xp": 26250,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_rare_200",
+    "name": "Bậc Thầy Vận May",
+    "desc": "Tìm 200 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 200,
+    "reward": 216000,
+    "xp": 30000,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_rare_250",
+    "name": "Kẻ Săn Tìm Tối Thượng",
+    "desc": "Tìm 250 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 250,
+    "reward": 825000,
+    "xp": 45000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_rare_300",
+    "name": "Bậc Thầy Vận May Tuyệt Đối",
+    "desc": "Tìm 300 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 300,
+    "reward": 990000,
+    "xp": 54000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_rare_375",
+    "name": "Kho Báu Vô Song",
+    "desc": "Tìm 375 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 375,
+    "reward": 1237500,
+    "xp": 67500,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_rare_450",
+    "name": "Huyền Thoại Săn Hiếm",
+    "desc": "Tìm 450 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 450,
+    "reward": 1485000,
+    "xp": 81000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_rare_550",
+    "name": "Người Được Số Phận Ưu Ái",
+    "desc": "Tìm 550 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 550,
+    "reward": 1815000,
+    "xp": 99000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_rare_650",
+    "name": "Định Mệnh Của Báu Vật",
+    "desc": "Tìm 650 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 650,
+    "reward": 2145000,
+    "xp": 117000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_rare_800",
+    "name": "Chúa Tể Vận May",
+    "desc": "Tìm 800 quặng Hiếm trở lên",
+    "type": "rare",
+    "target": 800,
+    "reward": 2640000,
+    "xp": 144000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_legendary_1",
+    "name": "Chạm Đến Huyền Thoại",
+    "desc": "Tìm 1 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 1,
+    "reward": 32000,
+    "xp": 2700,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_legendary_2",
+    "name": "Vận May Đỉnh Cao",
+    "desc": "Tìm 2 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 2,
+    "reward": 64000,
+    "xp": 5400,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_legendary_3",
+    "name": "Người Mang Ánh Sáng Vàng",
+    "desc": "Tìm 3 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 3,
+    "reward": 96000,
+    "xp": 8100,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_legendary_4",
+    "name": "Người Mang Vận May",
+    "desc": "Tìm 4 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 4,
+    "reward": 124000,
+    "xp": 10400,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_legendary_5",
+    "name": "Tia Sét Huyền Thoại",
+    "desc": "Tìm 5 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 5,
+    "reward": 155000,
+    "xp": 13000,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_legendary_6",
+    "name": "Bộ Sưu Tập Huyền Thoại",
+    "desc": "Tìm 6 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 6,
+    "reward": 186000,
+    "xp": 15600,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_legendary_8",
+    "name": "Kẻ Săn Tìm Vĩ Đại",
+    "desc": "Tìm 8 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 8,
+    "reward": 248000,
+    "xp": 20800,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_legendary_10",
+    "name": "Bậc Thầy Huyền Thoại",
+    "desc": "Tìm 10 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 10,
+    "reward": 310000,
+    "xp": 26000,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_legendary_12",
+    "name": "Người Viết Nên Huyền Thoại",
+    "desc": "Tìm 12 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 12,
+    "reward": 372000,
+    "xp": 31200,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_legendary_15",
+    "name": "Người Bảo Hộ Huyền Thoại",
+    "desc": "Tìm 15 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 15,
+    "reward": 795000,
+    "xp": 45000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_legendary_18",
+    "name": "Sứ Giả Của Thần Thoại",
+    "desc": "Tìm 18 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 18,
+    "reward": 954000,
+    "xp": 54000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_legendary_20",
+    "name": "Chủ Nhân Bộ Sưu Tập",
+    "desc": "Tìm 20 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 20,
+    "reward": 1060000,
+    "xp": 60000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_legendary_25",
+    "name": "Hóa Thân Huyền Thoại",
+    "desc": "Tìm 25 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 25,
+    "reward": 1325000,
+    "xp": 75000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_legendary_30",
+    "name": "Đấng Tối Cao Của Mỏ Quý",
+    "desc": "Tìm 30 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 30,
+    "reward": 1590000,
+    "xp": 90000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_legendary_40",
+    "name": "Huyền Thoại Sống",
+    "desc": "Tìm 40 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 40,
+    "reward": 2120000,
+    "xp": 120000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_legendary_50",
+    "name": "Vị Thần Khai Khoáng",
+    "desc": "Tìm 50 quặng Huyền Thoại trở lên",
+    "type": "legendary",
+    "target": 50,
+    "reward": 2650000,
+    "xp": 150000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_visit_1",
+    "name": "Bước Chân Đầu Tiên",
+    "desc": "Ghé thăm 1 địa điểm khác nhau",
+    "type": "visit",
+    "target": 1,
+    "reward": 450,
+    "xp": 115,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_visit_2",
+    "name": "Khởi Hành Khám Phá",
+    "desc": "Ghé thăm 2 địa điểm khác nhau",
+    "type": "visit",
+    "target": 2,
+    "reward": 900,
+    "xp": 230,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_visit_3",
+    "name": "Thám Hiểm Sơ Khởi",
+    "desc": "Ghé thăm 3 địa điểm khác nhau",
+    "type": "visit",
+    "target": 3,
+    "reward": 1350,
+    "xp": 345,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_visit_4",
+    "name": "Người Lữ Hành Trẻ",
+    "desc": "Ghé thăm 4 địa điểm khác nhau",
+    "type": "visit",
+    "target": 4,
+    "reward": 1800,
+    "xp": 460,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_visit_5",
+    "name": "Dấu Chân Khắp Nơi",
+    "desc": "Ghé thăm 5 địa điểm khác nhau",
+    "type": "visit",
+    "target": 5,
+    "reward": 2250,
+    "xp": 575,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_visit_6",
+    "name": "Nhà Thám Hiểm Tập Sự",
+    "desc": "Ghé thăm 6 địa điểm khác nhau",
+    "type": "visit",
+    "target": 6,
+    "reward": 16200,
+    "xp": 1860,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_visit_7",
+    "name": "Vượt Qua Ranh Giới",
+    "desc": "Ghé thăm 7 địa điểm khác nhau",
+    "type": "visit",
+    "target": 7,
+    "reward": 18900,
+    "xp": 2170,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_visit_8",
+    "name": "Khám Phá Vùng Đất Mới",
+    "desc": "Ghé thăm 8 địa điểm khác nhau",
+    "type": "visit",
+    "target": 8,
+    "reward": 21600,
+    "xp": 2480,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_visit_9",
+    "name": "Người Đi Khắp Thế Gian",
+    "desc": "Ghé thăm 9 địa điểm khác nhau",
+    "type": "visit",
+    "target": 9,
+    "reward": 24300,
+    "xp": 2790,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_visit_10",
+    "name": "Bản Đồ Mở Rộng",
+    "desc": "Ghé thăm 10 địa điểm khác nhau",
+    "type": "visit",
+    "target": 10,
+    "reward": 27000,
+    "xp": 3100,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_visit_11",
+    "name": "Người Vẽ Bản Đồ",
+    "desc": "Ghé thăm 11 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 11,
+    "reward": 74800,
+    "xp": 7150,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_visit_12",
+    "name": "Chinh Phục Mọi Vùng Đất",
+    "desc": "Ghé thăm 12 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 12,
+    "reward": 81600,
+    "xp": 7800,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_visit_13",
+    "name": "Lữ Khách Không Mệt Mỏi",
+    "desc": "Ghé thăm 13 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 13,
+    "reward": 88400,
+    "xp": 8450,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_visit_14",
+    "name": "Dấu Ấn Khắp Thế Giới",
+    "desc": "Ghé thăm 14 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 14,
+    "reward": 95200,
+    "xp": 9100,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_visit_15",
+    "name": "Người Đặt Chân Mọi Nơi",
+    "desc": "Ghé thăm 15 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 15,
+    "reward": 102000,
+    "xp": 9750,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_visit_16",
+    "name": "Người Chinh Phục Toàn Cảnh",
+    "desc": "Ghé thăm 16 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 16,
+    "reward": 448000,
+    "xp": 27200,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_visit_18",
+    "name": "Huyền Thoại Du Hành",
+    "desc": "Ghé thăm 18 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 18,
+    "reward": 504000,
+    "xp": 30600,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_visit_20",
+    "name": "Bậc Thầy Địa Lý",
+    "desc": "Ghé thăm 20 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 20,
+    "reward": 560000,
+    "xp": 34000,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_visit_22",
+    "name": "Người Không Biên Giới",
+    "desc": "Ghé thăm 22 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 22,
+    "reward": 616000,
+    "xp": 37400,
+    "difficulty": "expert"
+  },
+  {
+    "id": "q_visit_25",
+    "name": "Vị Thần Du Hành",
+    "desc": "Ghé thăm 25 địa điểm khác nhau (có thể quay lại địa điểm cũ nếu cần)",
+    "type": "visit",
+    "target": 25,
+    "reward": 700000,
+    "xp": 42500,
+    "difficulty": "expert"
+  }
+]
