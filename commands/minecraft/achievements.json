@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "miner_1",
+    "name": "Nhát Cuốc Đầu Tiên",
+    "desc": "Đào được quặng đầu tiên trong đời",
+    "requirement": {
+      "type": "mined_total",
+      "value": 1
+    },
+    "rewards": {
+      "money": 50,
+      "xp": 20,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_10",
+    "name": "Mới Vào Nghề",
+    "desc": "Đào được 10 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 10
+    },
+    "rewards": {
+      "money": 200,
+      "xp": 50,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_25",
+    "name": "Cuốc Còn Mới Toanh",
+    "desc": "Đào được 25 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 25
+    },
+    "rewards": {
+      "money": 450,
+      "xp": 90,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_50",
+    "name": "Học Việc Khai Khoáng",
+    "desc": "Đào được 50 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 50
+    },
+    "rewards": {
+      "money": 800,
+      "xp": 150,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_75",
+    "name": "Quen Tay Với Cuốc",
+    "desc": "Đào được 75 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 75
+    },
+    "rewards": {
+      "money": 1150,
+      "xp": 220,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_100",
+    "name": "Thợ Mỏ Tập Sự",
+    "desc": "Đào được 100 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 100
+    },
+    "rewards": {
+      "money": 1500,
+      "xp": 300,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_150",
+    "name": "Bàn Tay Chai Sạn",
+    "desc": "Đào được 150 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 150
+    },
+    "rewards": {
+      "money": 2300,
+      "xp": 430,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_250",
+    "name": "Tay Cuốc Vững Vàng",
+    "desc": "Đào được 250 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 250
+    },
+    "rewards": {
+      "money": 3500,
+      "xp": 650,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_400",
+    "name": "Người Không Biết Mệt",
+    "desc": "Đào được 400 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 400
+    },
+    "rewards": {
+      "money": 5300,
+      "xp": 950,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_500",
+    "name": "Thợ Mỏ Chăm Chỉ",
+    "desc": "Đào được 500 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 500
+    },
+    "rewards": {
+      "money": 7000,
+      "xp": 1200,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_750",
+    "name": "Đào Sâu Không Ngừng",
+    "desc": "Đào được 750 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 750
+    },
+    "rewards": {
+      "money": 10500,
+      "xp": 1800,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_1000",
+    "name": "Thợ Mỏ Chuyên Nghiệp",
+    "desc": "Đào được 1,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 1000
+    },
+    "rewards": {
+      "money": 15000,
+      "xp": 2500,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_1500",
+    "name": "Cuốc Sắt Bền Bỉ",
+    "desc": "Đào được 1,500 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 1500
+    },
+    "rewards": {
+      "money": 22000,
+      "xp": 3700,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_2000",
+    "name": "Người Bạn Của Đá",
+    "desc": "Đào được 2,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 2000
+    },
+    "rewards": {
+      "money": 29000,
+      "xp": 4700,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_2500",
+    "name": "Bậc Thầy Cầm Cuốc",
+    "desc": "Đào được 2,500 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 2500
+    },
+    "rewards": {
+      "money": 38000,
+      "xp": 5800,
+      "item_id": "pickaxe_iron_reinforced"
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_3500",
+    "name": "Linh Hồn Hầm Mỏ Trẻ",
+    "desc": "Đào được 3,500 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 3500
+    },
+    "rewards": {
+      "money": 55000,
+      "xp": 8200,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_5000",
+    "name": "Huyền Thoại Thợ Mỏ",
+    "desc": "Đào được 5,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 5000
+    },
+    "rewards": {
+      "money": 80000,
+      "xp": 11000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_7000",
+    "name": "Kẻ Đào Bới Không Ngơi",
+    "desc": "Đào được 7,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 7000
+    },
+    "rewards": {
+      "money": 115000,
+      "xp": 15500,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_10000",
+    "name": "Vua Đào Khoáng",
+    "desc": "Đào được 10,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 10000
+    },
+    "rewards": {
+      "money": 175000,
+      "xp": 22000,
+      "item_id": "pickaxe_diamond_blessed"
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_15000",
+    "name": "Người Khai Phá Vĩ Đại",
+    "desc": "Đào được 15,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 15000
+    },
+    "rewards": {
+      "money": 270000,
+      "xp": 32000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_20000",
+    "name": "Linh Hồn Của Hầm Sâu",
+    "desc": "Đào được 20,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 20000
+    },
+    "rewards": {
+      "money": 400000,
+      "xp": 45000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_27500",
+    "name": "Chiến Binh Của Đá",
+    "desc": "Đào được 27,500 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 27500
+    },
+    "rewards": {
+      "money": 560000,
+      "xp": 60000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_35000",
+    "name": "Bậc Thầy Vĩnh Hằng",
+    "desc": "Đào được 35,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 35000
+    },
+    "rewards": {
+      "money": 750000,
+      "xp": 78000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_42500",
+    "name": "Người Không Bao Giờ Dừng",
+    "desc": "Đào được 42,500 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 42500
+    },
+    "rewards": {
+      "money": 1010000,
+      "xp": 100000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_50000",
+    "name": "Huyền Thoại Bất Tử",
+    "desc": "Đào được 50,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 50000
+    },
+    "rewards": {
+      "money": 1300000,
+      "xp": 125000,
+      "item_id": "pickaxe_mythical_eternal"
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_62500",
+    "name": "Đế Vương Khai Khoáng",
+    "desc": "Đào được 62,500 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 62500
+    },
+    "rewards": {
+      "money": 1680000,
+      "xp": 155000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_75000",
+    "name": "Chúa Tể Hầm Mỏ",
+    "desc": "Đào được 75,000 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 75000
+    },
+    "rewards": {
+      "money": 2100000,
+      "xp": 190000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_87500",
+    "name": "Vượt Qua Giới Hạn",
+    "desc": "Đào được 87,500 quặng",
+    "requirement": {
+      "type": "mined_total",
+      "value": 87500
+    },
+    "rewards": {
+      "money": 2620000,
+      "xp": 230000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "miner_100000",
+    "name": "Đấng Sáng Thế Của Đá",
+    "desc": "Đào được 100,000 quặng — cột mốc vĩ đại",
+    "requirement": {
+      "type": "mined_total",
+      "value": 100000
+    },
+    "rewards": {
+      "money": 3200000,
+      "xp": 280000,
+      "item_id": "title_stone_god"
+    },
+    "category": "miner"
+  },
+  {
+    "id": "bestsingle_1000",
+    "name": "Cú Đào May Mắn",
+    "desc": "Đào trúng 1 quặng trị giá từ 1,000 tiền trở lên",
+    "requirement": {
+      "type": "best_single_mine",
+      "value": 1000
+    },
+    "rewards": {
+      "money": 600,
+      "xp": 150,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "bestsingle_5000",
+    "name": "Đòn Trúng Đậm",
+    "desc": "Đào trúng 1 quặng trị giá từ 5,000 tiền trở lên",
+    "requirement": {
+      "type": "best_single_mine",
+      "value": 5000
+    },
+    "rewards": {
+      "money": 2800,
+      "xp": 550,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "bestsingle_20000",
+    "name": "Cú Nổ Hũ Nhỏ",
+    "desc": "Đào trúng 1 quặng trị giá từ 20,000 tiền trở lên",
+    "requirement": {
+      "type": "best_single_mine",
+      "value": 20000
+    },
+    "rewards": {
+      "money": 11000,
+      "xp": 2000,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "bestsingle_100000",
+    "name": "Trúng Lớn",
+    "desc": "Đào trúng 1 quặng trị giá từ 100,000 tiền trở lên",
+    "requirement": {
+      "type": "best_single_mine",
+      "value": 100000
+    },
+    "rewards": {
+      "money": 50000,
+      "xp": 7500,
+      "item_id": null
+    },
+    "category": "miner"
+  },
+  {
+    "id": "bestsingle_500000",
+    "name": "Cơn Mưa Vàng",
+    "desc": "Đào trúng 1 quặng trị giá từ 500,000 tiền trở lên",
+    "requirement": {
+      "type": "best_single_mine",
+      "value": 500000
+    },
+    "rewards": {
+      "money": 230000,
+      "xp": 25000,
+      "item_id": "title_jackpot"
+    },
+    "category": "miner"
+  },
+  {
+    "id": "bestsingle_2000000",
+    "name": "Khoảnh Khắc Định Mệnh",
+    "desc": "Đào trúng 1 quặng trị giá từ 2,000,000 tiền trở lên",
+    "requirement": {
+      "type": "best_single_mine",
+      "value": 2000000
+    },
+    "rewards": {
+      "money": 900000,
+      "xp": 75000,
+      "item_id": "title_fateful_strike"
+    },
+    "category": "miner"
+  },
+  {
+    "id": "wealth_500",
+    "name": "Xu Lẻ Đầu Tiên",
+    "desc": "Kiếm được 500 tiền từ bán quặng",
+    "requirement": {
+      "type": "money_earned",
+      "value": 500
+    },
+    "rewards": {
+      "money": 150,
+      "xp": 30,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_1000",
+    "name": "Đồng Xu Đầu Tiên",
+    "desc": "Kiếm được 1,000 tiền từ bán quặng",
+    "requirement": {
+      "type": "money_earned",
+      "value": 1000
+    },
+    "rewards": {
+      "money": 300,
+      "xp": 60,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_2500",
+    "name": "Túi Tiền Nhỏ",
+    "desc": "Kiếm được 2,500 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 2500
+    },
+    "rewards": {
+      "money": 650,
+      "xp": 120,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_5000",
+    "name": "Người Bán Hàng Nhỏ",
+    "desc": "Kiếm được 5,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 5000
+    },
+    "rewards": {
+      "money": 1200,
+      "xp": 220,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_10000",
+    "name": "Nhà Buôn Nhỏ",
+    "desc": "Kiếm được 10,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 10000
+    },
+    "rewards": {
+      "money": 2500,
+      "xp": 450,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_25000",
+    "name": "Sạp Hàng Phát Triển",
+    "desc": "Kiếm được 25,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 25000
+    },
+    "rewards": {
+      "money": 5800,
+      "xp": 950,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_50000",
+    "name": "Thương Nhân Triển Vọng",
+    "desc": "Kiếm được 50,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 50000
+    },
+    "rewards": {
+      "money": 11000,
+      "xp": 1800,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_75000",
+    "name": "Cửa Hiệu Đông Khách",
+    "desc": "Kiếm được 75,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 75000
+    },
+    "rewards": {
+      "money": 16500,
+      "xp": 2700,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_100000",
+    "name": "Thương Nhân Lành Nghề",
+    "desc": "Kiếm được 100,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 100000
+    },
+    "rewards": {
+      "money": 22000,
+      "xp": 3500,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_175000",
+    "name": "Doanh Nhân Thành Đạt",
+    "desc": "Kiếm được 175,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 175000
+    },
+    "rewards": {
+      "money": 38000,
+      "xp": 5800,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_250000",
+    "name": "Đại Lý Khoáng Sản",
+    "desc": "Kiếm được 250,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 250000
+    },
+    "rewards": {
+      "money": 55000,
+      "xp": 8000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_375000",
+    "name": "Ông Trùm Buôn Bán Nhỏ",
+    "desc": "Kiếm được 375,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 375000
+    },
+    "rewards": {
+      "money": 82000,
+      "xp": 11500,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_500000",
+    "name": "Tài Phiệt Mỏ Quý",
+    "desc": "Kiếm được 500,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 500000
+    },
+    "rewards": {
+      "money": 110000,
+      "xp": 15000,
+      "item_id": "title_tycoon"
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_750000",
+    "name": "Đế Chế Thương Mại",
+    "desc": "Kiếm được 750,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 750000
+    },
+    "rewards": {
+      "money": 165000,
+      "xp": 21000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_1000000",
+    "name": "Đại Gia Khoáng Sản",
+    "desc": "Kiếm được 1,000,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 1000000
+    },
+    "rewards": {
+      "money": 220000,
+      "xp": 28000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_1750000",
+    "name": "Vua Giao Dịch",
+    "desc": "Kiếm được 1,750,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 1750000
+    },
+    "rewards": {
+      "money": 385000,
+      "xp": 44000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_2500000",
+    "name": "Triệu Phú Minecraft",
+    "desc": "Kiếm được 2,500,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 2500000
+    },
+    "rewards": {
+      "money": 550000,
+      "xp": 60000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_3750000",
+    "name": "Trùm Tài Chính Mỏ",
+    "desc": "Kiếm được 3,750,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 3750000
+    },
+    "rewards": {
+      "money": 825000,
+      "xp": 85000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_5000000",
+    "name": "Tỷ Phú Hầm Mỏ",
+    "desc": "Kiếm được 5,000,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 5000000
+    },
+    "rewards": {
+      "money": 1100000,
+      "xp": 105000,
+      "item_id": "title_billionaire"
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_7500000",
+    "name": "Đế Vương Của Đồng Tiền",
+    "desc": "Kiếm được 7,500,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 7500000
+    },
+    "rewards": {
+      "money": 1650000,
+      "xp": 145000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_10000000",
+    "name": "Đế Vương Tài Chính",
+    "desc": "Kiếm được 10,000,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 10000000
+    },
+    "rewards": {
+      "money": 2200000,
+      "xp": 180000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_17500000",
+    "name": "Bậc Thầy Tài Chính",
+    "desc": "Kiếm được 17,500,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 17500000
+    },
+    "rewards": {
+      "money": 3850000,
+      "xp": 270000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_25000000",
+    "name": "Thống Trị Thị Trường",
+    "desc": "Kiếm được 25,000,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 25000000
+    },
+    "rewards": {
+      "money": 5500000,
+      "xp": 350000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_37500000",
+    "name": "Huyền Thoại Thương Mại",
+    "desc": "Kiếm được 37,500,000 tiền",
+    "requirement": {
+      "type": "money_earned",
+      "value": 37500000
+    },
+    "rewards": {
+      "money": 8250000,
+      "xp": 480000,
+      "item_id": null
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "wealth_50000000",
+    "name": "Tay Chơi Giàu Có Nhất",
+    "desc": "Kiếm được 50,000,000 tiền — cột mốc huyền thoại",
+    "requirement": {
+      "type": "money_earned",
+      "value": 50000000
+    },
+    "rewards": {
+      "money": 11000000,
+      "xp": 600000,
+      "item_id": "title_richest"
+    },
+    "category": "wealth"
+  },
+  {
+    "id": "rare_1",
+    "name": "Kẻ May Mắn",
+    "desc": "Tìm thấy quặng Huyền Thoại hoặc Thần Thoại đầu tiên",
+    "requirement": {
+      "type": "rare_found",
+      "value": 1
+    },
+    "rewards": {
+      "money": 5000,
+      "xp": 1000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_3",
+    "name": "Tia Sáng Đầu Tiên",
+    "desc": "Tìm thấy 3 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 3
+    },
+    "rewards": {
+      "money": 11000,
+      "xp": 2100,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_5",
+    "name": "Ánh Sáng Của Vận Mệnh",
+    "desc": "Tìm thấy 5 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 5
+    },
+    "rewards": {
+      "money": 20000,
+      "xp": 3500,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_8",
+    "name": "Người Có Duyên May",
+    "desc": "Tìm thấy 8 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 8
+    },
+    "rewards": {
+      "money": 32000,
+      "xp": 5300,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_10",
+    "name": "Thợ Săn Huyền Thoại",
+    "desc": "Tìm thấy 10 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 10
+    },
+    "rewards": {
+      "money": 45000,
+      "xp": 7000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_15",
+    "name": "Kẻ Truy Tìm Vận May",
+    "desc": "Tìm thấy 15 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 15
+    },
+    "rewards": {
+      "money": 72000,
+      "xp": 10500,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_25",
+    "name": "Người Được Số Phận Chọn",
+    "desc": "Tìm thấy 25 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 25
+    },
+    "rewards": {
+      "money": 120000,
+      "xp": 16000,
+      "item_id": "title_chosen_one"
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_35",
+    "name": "Báu Vật Không Giới Hạn",
+    "desc": "Tìm thấy 35 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 35
+    },
+    "rewards": {
+      "money": 180000,
+      "xp": 22500,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_50",
+    "name": "Bậc Thầy Vận May",
+    "desc": "Tìm thấy 50 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 50
+    },
+    "rewards": {
+      "money": 280000,
+      "xp": 32000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_75",
+    "name": "Kẻ Săn Tìm Tối Thượng",
+    "desc": "Tìm thấy 75 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 75
+    },
+    "rewards": {
+      "money": 450000,
+      "xp": 48000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_100",
+    "name": "Huyền Thoại Sống",
+    "desc": "Tìm thấy 100 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 100
+    },
+    "rewards": {
+      "money": 650000,
+      "xp": 68000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_175",
+    "name": "Định Mệnh Của Báu Vật",
+    "desc": "Tìm thấy 175 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 175
+    },
+    "rewards": {
+      "money": 1150000,
+      "xp": 105000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_250",
+    "name": "Vị Thần Của Sự May Mắn",
+    "desc": "Tìm thấy 250 quặng Huyền Thoại+",
+    "requirement": {
+      "type": "rare_found",
+      "value": 250
+    },
+    "rewards": {
+      "money": 1700000,
+      "xp": 150000,
+      "item_id": "title_god_of_luck"
+    },
+    "category": "rare"
+  },
+  {
+    "id": "rare_500",
+    "name": "Đấng Tối Cao Của Mỏ Quý",
+    "desc": "Tìm thấy 500 quặng Huyền Thoại+ — gần như bất khả thi",
+    "requirement": {
+      "type": "rare_found",
+      "value": 500
+    },
+    "rewards": {
+      "money": 3800000,
+      "xp": 320000,
+      "item_id": "title_supreme_being"
+    },
+    "category": "rare"
+  },
+  {
+    "id": "mythical_1",
+    "name": "Người Khám Phá Thần Thoại",
+    "desc": "Đào được quặng Thần Thoại đầu tiên",
+    "requirement": {
+      "type": "mythical_found",
+      "value": 1
+    },
+    "rewards": {
+      "money": 8000,
+      "xp": 1500,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "mythical_2",
+    "name": "Bước Đầu Của Huyền Thoại",
+    "desc": "Đào được 2 quặng Thần Thoại",
+    "requirement": {
+      "type": "mythical_found",
+      "value": 2
+    },
+    "rewards": {
+      "money": 18000,
+      "xp": 3200,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "mythical_3",
+    "name": "Hóa Thân Thần Thoại",
+    "desc": "Đào được 3 quặng Thần Thoại",
+    "requirement": {
+      "type": "mythical_found",
+      "value": 3
+    },
+    "rewards": {
+      "money": 35000,
+      "xp": 6000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "mythical_5",
+    "name": "Người Mang Ánh Sáng Thần",
+    "desc": "Đào được 5 quặng Thần Thoại",
+    "requirement": {
+      "type": "mythical_found",
+      "value": 5
+    },
+    "rewards": {
+      "money": 65000,
+      "xp": 11000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "mythical_10",
+    "name": "Sứ Giả Của Thần Thoại",
+    "desc": "Đào được 10 quặng Thần Thoại",
+    "requirement": {
+      "type": "mythical_found",
+      "value": 10
+    },
+    "rewards": {
+      "money": 140000,
+      "xp": 20000,
+      "item_id": "title_mythbringer"
+    },
+    "category": "rare"
+  },
+  {
+    "id": "mythical_20",
+    "name": "Hóa Thân Của Vận Mệnh",
+    "desc": "Đào được 20 quặng Thần Thoại",
+    "requirement": {
+      "type": "mythical_found",
+      "value": 20
+    },
+    "rewards": {
+      "money": 310000,
+      "xp": 38000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "mythical_35",
+    "name": "Vị Thần Khai Khoáng",
+    "desc": "Đào được 35 quặng Thần Thoại",
+    "requirement": {
+      "type": "mythical_found",
+      "value": 35
+    },
+    "rewards": {
+      "money": 580000,
+      "xp": 62000,
+      "item_id": "title_mining_deity"
+    },
+    "category": "rare"
+  },
+  {
+    "id": "streak_2",
+    "name": "Khởi Đầu Vận May",
+    "desc": "Đào 2 quặng Legendary+ liên tiếp",
+    "requirement": {
+      "type": "legendary_streak",
+      "value": 2
+    },
+    "rewards": {
+      "money": 5000,
+      "xp": 900,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "streak_3",
+    "name": "Vận May Liên Hoàn",
+    "desc": "Đào 3 quặng Legendary+ liên tiếp",
+    "requirement": {
+      "type": "legendary_streak",
+      "value": 3
+    },
+    "rewards": {
+      "money": 12000,
+      "xp": 2000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "streak_5",
+    "name": "Vận May Đỉnh Cao",
+    "desc": "Đào 5 quặng Legendary+ liên tiếp",
+    "requirement": {
+      "type": "legendary_streak",
+      "value": 5
+    },
+    "rewards": {
+      "money": 30000,
+      "xp": 4500,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "streak_7",
+    "name": "Chuỗi Không Thể Tin",
+    "desc": "Đào 7 quặng Legendary+ liên tiếp",
+    "requirement": {
+      "type": "legendary_streak",
+      "value": 7
+    },
+    "rewards": {
+      "money": 60000,
+      "xp": 8000,
+      "item_id": null
+    },
+    "category": "rare"
+  },
+  {
+    "id": "streak_10",
+    "name": "Cơn Mưa Huyền Thoại",
+    "desc": "Đào 10 quặng Legendary+ liên tiếp",
+    "requirement": {
+      "type": "legendary_streak",
+      "value": 10
+    },
+    "rewards": {
+      "money": 100000,
+      "xp": 12000,
+      "item_id": "title_streak_master"
+    },
+    "category": "rare"
+  },
+  {
+    "id": "streak_15",
+    "name": "Định Mệnh Hội Tụ",
+    "desc": "Đào 15 quặng Legendary+ liên tiếp",
+    "requirement": {
+      "type": "legendary_streak",
+      "value": 15
+    },
+    "rewards": {
+      "money": 220000,
+      "xp": 24000,
+      "item_id": "title_destiny_aligned"
+    },
+    "category": "rare"
+  },
+  {
+    "id": "level_3",
+    "name": "Những Bước Đầu Tiên",
+    "desc": "Đạt Level 3",
+    "requirement": {
+      "type": "level_reached",
+      "value": 3
+    },
+    "rewards": {
+      "money": 400,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_5",
+    "name": "Bước Chân Khởi Đầu",
+    "desc": "Đạt Level 5",
+    "requirement": {
+      "type": "level_reached",
+      "value": 5
+    },
+    "rewards": {
+      "money": 1000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_8",
+    "name": "Tự Tin Dần Lên",
+    "desc": "Đạt Level 8",
+    "requirement": {
+      "type": "level_reached",
+      "value": 8
+    },
+    "rewards": {
+      "money": 1800,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_10",
+    "name": "Tân Binh Tự Tin",
+    "desc": "Đạt Level 10",
+    "requirement": {
+      "type": "level_reached",
+      "value": 10
+    },
+    "rewards": {
+      "money": 2500,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_15",
+    "name": "Người Mới Trưởng Thành",
+    "desc": "Đạt Level 15",
+    "requirement": {
+      "type": "level_reached",
+      "value": 15
+    },
+    "rewards": {
+      "money": 4200,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_20",
+    "name": "Chiến Binh Hầm Mỏ",
+    "desc": "Đạt Level 20",
+    "requirement": {
+      "type": "level_reached",
+      "value": 20
+    },
+    "rewards": {
+      "money": 6000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_25",
+    "name": "Tay Mỏ Có Kinh Nghiệm",
+    "desc": "Đạt Level 25",
+    "requirement": {
+      "type": "level_reached",
+      "value": 25
+    },
+    "rewards": {
+      "money": 9500,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_30",
+    "name": "Người Trưởng Thành",
+    "desc": "Đạt Level 30",
+    "requirement": {
+      "type": "level_reached",
+      "value": 30
+    },
+    "rewards": {
+      "money": 14000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_35",
+    "name": "Vững Vàng Trên Đường Đi",
+    "desc": "Đạt Level 35",
+    "requirement": {
+      "type": "level_reached",
+      "value": 35
+    },
+    "rewards": {
+      "money": 20000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_40",
+    "name": "Thợ Mỏ Kỳ Cựu",
+    "desc": "Đạt Level 40",
+    "requirement": {
+      "type": "level_reached",
+      "value": 40
+    },
+    "rewards": {
+      "money": 28000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_45",
+    "name": "Sắp Chạm Đỉnh Cao",
+    "desc": "Đạt Level 45",
+    "requirement": {
+      "type": "level_reached",
+      "value": 45
+    },
+    "rewards": {
+      "money": 40000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_50",
+    "name": "Bậc Thầy Khai Khoáng",
+    "desc": "Đạt Level 50",
+    "requirement": {
+      "type": "level_reached",
+      "value": 50
+    },
+    "rewards": {
+      "money": 55000,
+      "xp": 0,
+      "item_id": "title_veteran"
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_55",
+    "name": "Vượt Qua Nửa Chặng",
+    "desc": "Đạt Level 55",
+    "requirement": {
+      "type": "level_reached",
+      "value": 55
+    },
+    "rewards": {
+      "money": 75000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_60",
+    "name": "Huyền Thoại Mới Nổi",
+    "desc": "Đạt Level 60",
+    "requirement": {
+      "type": "level_reached",
+      "value": 60
+    },
+    "rewards": {
+      "money": 100000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_65",
+    "name": "Chiến Binh Lão Luyện",
+    "desc": "Đạt Level 65",
+    "requirement": {
+      "type": "level_reached",
+      "value": 65
+    },
+    "rewards": {
+      "money": 135000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_70",
+    "name": "Chiến Binh Vĩ Đại",
+    "desc": "Đạt Level 70",
+    "requirement": {
+      "type": "level_reached",
+      "value": 70
+    },
+    "rewards": {
+      "money": 180000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_75",
+    "name": "Đỉnh Cao Sắp Đến",
+    "desc": "Đạt Level 75",
+    "requirement": {
+      "type": "level_reached",
+      "value": 75
+    },
+    "rewards": {
+      "money": 240000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_80",
+    "name": "Bậc Thầy Tối Thượng",
+    "desc": "Đạt Level 80",
+    "requirement": {
+      "type": "level_reached",
+      "value": 80
+    },
+    "rewards": {
+      "money": 320000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_85",
+    "name": "Vượt Qua Giới Hạn Bản Thân",
+    "desc": "Đạt Level 85",
+    "requirement": {
+      "type": "level_reached",
+      "value": 85
+    },
+    "rewards": {
+      "money": 420000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_90",
+    "name": "Huyền Thoại Sống Động",
+    "desc": "Đạt Level 90",
+    "requirement": {
+      "type": "level_reached",
+      "value": 90
+    },
+    "rewards": {
+      "money": 550000,
+      "xp": 0,
+      "item_id": "title_living_legend"
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_95",
+    "name": "Chỉ Còn Một Bước Nữa",
+    "desc": "Đạt Level 95",
+    "requirement": {
+      "type": "level_reached",
+      "value": 95
+    },
+    "rewards": {
+      "money": 710000,
+      "xp": 0,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "level_100",
+    "name": "Đỉnh Cao Vinh Quang",
+    "desc": "Đạt Level 100 — cột mốc tối thượng",
+    "requirement": {
+      "type": "level_reached",
+      "value": 100
+    },
+    "rewards": {
+      "money": 900000,
+      "xp": 0,
+      "item_id": "title_apex"
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "prestige_1",
+    "name": "Tái Sinh Lần Đầu",
+    "desc": "Thực hiện Prestige lần đầu tiên",
+    "requirement": {
+      "type": "prestige_count",
+      "value": 1
+    },
+    "rewards": {
+      "money": 25000,
+      "xp": 3000,
+      "item_id": "title_reborn"
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "prestige_2",
+    "name": "Vòng Lặp Thứ Hai",
+    "desc": "Thực hiện Prestige 2 lần",
+    "requirement": {
+      "type": "prestige_count",
+      "value": 2
+    },
+    "rewards": {
+      "money": 55000,
+      "xp": 5800,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "prestige_3",
+    "name": "Vòng Lặp Vĩnh Cửu",
+    "desc": "Thực hiện Prestige 3 lần",
+    "requirement": {
+      "type": "prestige_count",
+      "value": 3
+    },
+    "rewards": {
+      "money": 90000,
+      "xp": 9000,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "prestige_4",
+    "name": "Người Không Sợ Bắt Đầu Lại",
+    "desc": "Thực hiện Prestige 4 lần",
+    "requirement": {
+      "type": "prestige_count",
+      "value": 4
+    },
+    "rewards": {
+      "money": 140000,
+      "xp": 14000,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "prestige_5",
+    "name": "Bậc Thầy Tái Sinh",
+    "desc": "Thực hiện Prestige 5 lần",
+    "requirement": {
+      "type": "prestige_count",
+      "value": 5
+    },
+    "rewards": {
+      "money": 200000,
+      "xp": 20000,
+      "item_id": "title_eternal_cycle"
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "prestige_7",
+    "name": "Vòng Xoay Số Phận",
+    "desc": "Thực hiện Prestige 7 lần",
+    "requirement": {
+      "type": "prestige_count",
+      "value": 7
+    },
+    "rewards": {
+      "money": 320000,
+      "xp": 30000,
+      "item_id": null
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "prestige_10",
+    "name": "Vị Thần Của Vòng Lặp",
+    "desc": "Thực hiện Prestige 10 lần",
+    "requirement": {
+      "type": "prestige_count",
+      "value": 10
+    },
+    "rewards": {
+      "money": 500000,
+      "xp": 45000,
+      "item_id": "title_cycle_god"
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "prestige_15",
+    "name": "Vĩnh Hằng Tái Sinh",
+    "desc": "Thực hiện Prestige 15 lần",
+    "requirement": {
+      "type": "prestige_count",
+      "value": 15
+    },
+    "rewards": {
+      "money": 850000,
+      "xp": 72000,
+      "item_id": "title_infinite_rebirth"
+    },
+    "category": "milestone"
+  },
+  {
+    "id": "social_visit_2",
+    "name": "Khởi Hành Khám Phá",
+    "desc": "Ghé thăm 2 địa điểm khác nhau",
+    "requirement": {
+      "type": "locations_visited",
+      "value": 2
+    },
+    "rewards": {
+      "money": 1000,
+      "xp": 200,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_visit_3",
+    "name": "Bước Chân Đầu Tiên",
+    "desc": "Ghé thăm 3 địa điểm khác nhau",
+    "requirement": {
+      "type": "locations_visited",
+      "value": 3
+    },
+    "rewards": {
+      "money": 2000,
+      "xp": 400,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_visit_5",
+    "name": "Nhà Thám Hiểm",
+    "desc": "Đã đến thăm tất cả địa điểm cơ bản (5 nơi)",
+    "requirement": {
+      "type": "locations_visited",
+      "value": 5
+    },
+    "rewards": {
+      "money": 5000,
+      "xp": 900,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_visit_8",
+    "name": "Dấu Chân Khắp Nơi",
+    "desc": "Ghé thăm 8 địa điểm khác nhau",
+    "requirement": {
+      "type": "locations_visited",
+      "value": 8
+    },
+    "rewards": {
+      "money": 11500,
+      "xp": 1900,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_visit_10",
+    "name": "Người Vẽ Bản Đồ",
+    "desc": "Ghé thăm 10 địa điểm khác nhau",
+    "requirement": {
+      "type": "locations_visited",
+      "value": 10
+    },
+    "rewards": {
+      "money": 18000,
+      "xp": 2800,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_visit_13",
+    "name": "Lữ Khách Không Mệt Mỏi",
+    "desc": "Ghé thăm 13 địa điểm khác nhau",
+    "requirement": {
+      "type": "locations_visited",
+      "value": 13
+    },
+    "rewards": {
+      "money": 30000,
+      "xp": 4500,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_visit_15",
+    "name": "Người Chinh Phục Toàn Cảnh",
+    "desc": "Ghé thăm 15 địa điểm khác nhau",
+    "requirement": {
+      "type": "locations_visited",
+      "value": 15
+    },
+    "rewards": {
+      "money": 45000,
+      "xp": 6500,
+      "item_id": "title_cartographer"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_visit_18",
+    "name": "Huyền Thoại Du Hành",
+    "desc": "Ghé thăm toàn bộ 18 địa điểm trong game",
+    "requirement": {
+      "type": "locations_visited",
+      "value": 18
+    },
+    "rewards": {
+      "money": 90000,
+      "xp": 12000,
+      "item_id": "title_world_traveler"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_bag_1",
+    "name": "Kho Báu Đầy",
+    "desc": "Lấp đầy túi đồ một lần",
+    "requirement": {
+      "type": "bag_full_count",
+      "value": 1
+    },
+    "rewards": {
+      "money": 1500,
+      "xp": 300,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_bag_5",
+    "name": "Người Tích Trữ Trẻ",
+    "desc": "Lấp đầy túi đồ 5 lần",
+    "requirement": {
+      "type": "bag_full_count",
+      "value": 5
+    },
+    "rewards": {
+      "money": 5500,
+      "xp": 1000,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_bag_10",
+    "name": "Người Tích Trữ",
+    "desc": "Lấp đầy túi đồ 10 lần",
+    "requirement": {
+      "type": "bag_full_count",
+      "value": 10
+    },
+    "rewards": {
+      "money": 10000,
+      "xp": 1800,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_bag_25",
+    "name": "Kho Báu Khó Lấp Đầy",
+    "desc": "Lấp đầy túi đồ 25 lần",
+    "requirement": {
+      "type": "bag_full_count",
+      "value": 25
+    },
+    "rewards": {
+      "money": 22000,
+      "xp": 3500,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_bag_50",
+    "name": "Kho Báu Không Đáy",
+    "desc": "Lấp đầy túi đồ 50 lần",
+    "requirement": {
+      "type": "bag_full_count",
+      "value": 50
+    },
+    "rewards": {
+      "money": 40000,
+      "xp": 6000,
+      "item_id": "item_bag_expander"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_bag_100",
+    "name": "Người Tích Trữ Tối Thượng",
+    "desc": "Lấp đầy túi đồ 100 lần",
+    "requirement": {
+      "type": "bag_full_count",
+      "value": 100
+    },
+    "rewards": {
+      "money": 75000,
+      "xp": 11000,
+      "item_id": "title_hoarder"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_pickaxe_owned_2",
+    "name": "Người Sắm Sửa",
+    "desc": "Sở hữu 2 loại cuốc khác nhau cùng lúc",
+    "requirement": {
+      "type": "pickaxes_owned",
+      "value": 2
+    },
+    "rewards": {
+      "money": 3500,
+      "xp": 600,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_pickaxe_owned_3",
+    "name": "Bộ Sưu Tập Cuốc",
+    "desc": "Sở hữu 3 loại cuốc khác nhau cùng lúc",
+    "requirement": {
+      "type": "pickaxes_owned",
+      "value": 3
+    },
+    "rewards": {
+      "money": 8000,
+      "xp": 1200,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_pickaxe_owned_4",
+    "name": "Tủ Đồ Đa Dạng",
+    "desc": "Sở hữu 4 loại cuốc khác nhau cùng lúc",
+    "requirement": {
+      "type": "pickaxes_owned",
+      "value": 4
+    },
+    "rewards": {
+      "money": 15000,
+      "xp": 2300,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_pickaxe_owned_5",
+    "name": "Nhà Sưu Tầm Công Cụ",
+    "desc": "Sở hữu 5 loại cuốc khác nhau cùng lúc",
+    "requirement": {
+      "type": "pickaxes_owned",
+      "value": 5
+    },
+    "rewards": {
+      "money": 25000,
+      "xp": 4000,
+      "item_id": "title_collector"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_pickaxe_owned_7",
+    "name": "Kho Vũ Khí Khổng Lồ",
+    "desc": "Sở hữu 7 loại cuốc khác nhau cùng lúc",
+    "requirement": {
+      "type": "pickaxes_owned",
+      "value": 7
+    },
+    "rewards": {
+      "money": 48000,
+      "xp": 7000,
+      "item_id": "title_arsenal_master"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_quest_5",
+    "name": "Người Mới Nhận Nhiệm Vụ",
+    "desc": "Hoàn thành 5 nhiệm vụ",
+    "requirement": {
+      "type": "quests_completed",
+      "value": 5
+    },
+    "rewards": {
+      "money": 2800,
+      "xp": 450,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_quest_10",
+    "name": "Người Hoàn Thành Nhiệm Vụ",
+    "desc": "Hoàn thành 10 nhiệm vụ",
+    "requirement": {
+      "type": "quests_completed",
+      "value": 10
+    },
+    "rewards": {
+      "money": 6000,
+      "xp": 1000,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_quest_25",
+    "name": "Tay Săn Nhiệm Vụ",
+    "desc": "Hoàn thành 25 nhiệm vụ",
+    "requirement": {
+      "type": "quests_completed",
+      "value": 25
+    },
+    "rewards": {
+      "money": 17000,
+      "xp": 2700,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_quest_50",
+    "name": "Bậc Thầy Nhiệm Vụ",
+    "desc": "Hoàn thành 50 nhiệm vụ",
+    "requirement": {
+      "type": "quests_completed",
+      "value": 50
+    },
+    "rewards": {
+      "money": 35000,
+      "xp": 5500,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_quest_75",
+    "name": "Người Không Bỏ Cuộc",
+    "desc": "Hoàn thành 75 nhiệm vụ",
+    "requirement": {
+      "type": "quests_completed",
+      "value": 75
+    },
+    "rewards": {
+      "money": 62000,
+      "xp": 9200,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_quest_100",
+    "name": "Huyền Thoại Nhiệm Vụ",
+    "desc": "Hoàn thành 100 nhiệm vụ — kiên trì đến cùng",
+    "requirement": {
+      "type": "quests_completed",
+      "value": 100
+    },
+    "rewards": {
+      "money": 90000,
+      "xp": 13000,
+      "item_id": "title_questmaster"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_quest_150",
+    "name": "Vĩnh Cửu Với Nhiệm Vụ",
+    "desc": "Hoàn thành 150 nhiệm vụ",
+    "requirement": {
+      "type": "quests_completed",
+      "value": 150
+    },
+    "rewards": {
+      "money": 145000,
+      "xp": 20000,
+      "item_id": "title_eternal_questmaster"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_inventory_30",
+    "name": "Túi Đồ Mở Rộng",
+    "desc": "Nâng cấp túi đồ lên 30 ô chứa",
+    "requirement": {
+      "type": "inventory_size",
+      "value": 30
+    },
+    "rewards": {
+      "money": 8000,
+      "xp": 1200,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_inventory_50",
+    "name": "Người Mang Vác Giỏi",
+    "desc": "Nâng cấp túi đồ lên 50 ô chứa",
+    "requirement": {
+      "type": "inventory_size",
+      "value": 50
+    },
+    "rewards": {
+      "money": 25000,
+      "xp": 3500,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_inventory_75",
+    "name": "Kho Hàng Di Động",
+    "desc": "Nâng cấp túi đồ lên 75 ô chứa",
+    "requirement": {
+      "type": "inventory_size",
+      "value": 75
+    },
+    "rewards": {
+      "money": 60000,
+      "xp": 8000,
+      "item_id": "title_packmule"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_inventory_100",
+    "name": "Kho Báu Không Giới Hạn",
+    "desc": "Nâng cấp túi đồ lên 100 ô chứa",
+    "requirement": {
+      "type": "inventory_size",
+      "value": 100
+    },
+    "rewards": {
+      "money": 120000,
+      "xp": 15000,
+      "item_id": "title_infinite_carrier"
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_pickaxe_price_5k",
+    "name": "Đầu Tư Đúng Đắn",
+    "desc": "Sở hữu một chiếc cuốc trị giá từ 5,000 tiền trở lên",
+    "requirement": {
+      "type": "pickaxe_max_price",
+      "value": 5000
+    },
+    "rewards": {
+      "money": 1500,
+      "xp": 300,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_pickaxe_price_50k",
+    "name": "Vũ Khí Đáng Giá",
+    "desc": "Sở hữu một chiếc cuốc trị giá từ 50,000 tiền trở lên",
+    "requirement": {
+      "type": "pickaxe_max_price",
+      "value": 50000
+    },
+    "rewards": {
+      "money": 14000,
+      "xp": 2200,
+      "item_id": null
+    },
+    "category": "social"
+  },
+  {
+    "id": "social_pickaxe_price_250k",
+    "name": "Công Cụ Của Nhà Vô Địch",
+    "desc": "Sở hữu một chiếc cuốc trị giá từ 250,000 tiền trở lên",
+    "requirement": {
+      "type": "pickaxe_max_price",
+      "value": 250000
+    },
+    "rewards": {
+      "money": 65000,
+      "xp": 9500,
+      "item_id": "title_elite_equipped"
+    },
+    "category": "social"
+  }
+]
