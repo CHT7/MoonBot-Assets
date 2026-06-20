@@ -15,7 +15,7 @@
     "countdown": 9.0,
     "levelReq": 2,
     "luckBonus": 0.3,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Leather_Wrapped_Wooden_Pickaxe.png"
   },
   {
     "name": "Cúp Gỗ Sồi Tối",
@@ -24,7 +24,7 @@
     "countdown": 9.5,
     "levelReq": 3,
     "luckBonus": 0.2,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dark_Oak_Pickaxe.png"
   },
   {
     "name": "Cúp Đá",
@@ -42,7 +42,7 @@
     "countdown": 8.5,
     "levelReq": 6,
     "luckBonus": 0.7,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Mossy_Stone_Pickaxe.png"
   },
   {
     "name": "Cúp Đá Bọc Sắt",
@@ -51,7 +51,7 @@
     "countdown": 7.5,
     "levelReq": 7,
     "luckBonus": 0.5,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Iron_Bound_Stone_Pickaxe.png"
   },
   {
     "name": "Cúp Đá Khảm Lapis",
@@ -60,7 +60,7 @@
     "countdown": 9.0,
     "levelReq": 8,
     "luckBonus": 1.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Lapis_Inlaid_Stone_Pickaxe.png"
   },
   {
     "name": "Cúp Đồng",
@@ -78,7 +78,7 @@
     "countdown": 9.5,
     "levelReq": 12,
     "luckBonus": 1.8,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Lucky_Oxidized_Copper_Pickaxe.png"
   },
   {
     "name": "Cúp Đồng Đánh Bóng",
@@ -87,7 +87,7 @@
     "countdown": 7.0,
     "levelReq": 13,
     "luckBonus": 1.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Polished_Copper_Pickaxe.png"
   },
   {
     "name": "Cúp Sắt",
@@ -105,7 +105,7 @@
     "countdown": 7.5,
     "levelReq": 16,
     "luckBonus": 1.3,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Coal_Inlaid_Iron_Pickaxe.png"
   },
   {
     "name": "Cúp Sắt Được Tôi Luyện Bởi Lửa Blaze",
@@ -114,7 +114,7 @@
     "countdown": 6.5,
     "levelReq": 18,
     "luckBonus": 1.4,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Blaze_Forged_Iron_Pickaxe.png"
   },
   {
     "name": "Cúp Sắt Nạm Thạch Anh",
@@ -123,7 +123,7 @@
     "countdown": 8.0,
     "levelReq": 19,
     "luckBonus": 2.6,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Quartz_Studded_Iron_Pickaxe.png"
   },
   {
     "name": "Cúp Vàng",
@@ -141,7 +141,7 @@
     "countdown": 5.5,
     "levelReq": 31,
     "luckBonus": 2.8,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Iron_Bound_Golden_Pickaxe.png"
   },
   {
     "name": "Cúp Vàng Cống Nạp Piglin",
@@ -150,7 +150,7 @@
     "countdown": 5.0,
     "levelReq": 33,
     "luckBonus": 3.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Piglin_Tribute_Golden_Pickaxe.png"
   },
   {
     "name": "Cúp Vàng Khảm Ngọc Lục Bảo",
@@ -159,7 +159,7 @@
     "countdown": 6.0,
     "levelReq": 35,
     "luckBonus": 5.5,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Emerald_Inlaid_Golden_Pickaxe.png"
   },
   {
     "name": "Cúp Kim Cương",
@@ -177,7 +177,7 @@
     "countdown": 3.8,
     "levelReq": 51,
     "luckBonus": 7.2,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Lapis_Inlaid_Diamond_Pickaxe.png"
   },
   {
     "name": "Cúp Kim Cương Bọc Đồng",
@@ -186,7 +186,7 @@
     "countdown": 3.6,
     "levelReq": 55,
     "luckBonus": 5.8,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Copper_Bound_Diamond_Pickaxe.png"
   },
   {
     "name": "Cúp Kim Cương Khảm Hắc Diện Thạch",
@@ -195,7 +195,7 @@
     "countdown": 4.2,
     "levelReq": 58,
     "luckBonus": 9.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Obsidian_Inlaid_Diamond_Pickaxe.png"
   },
   {
     "name": "Cúp Netherite",
@@ -213,7 +213,7 @@
     "countdown": 2.2,
     "levelReq": 85,
     "luckBonus": 11.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Soul_Sand_Forged_Netherite_Pickaxe.png"
   },
   {
     "name": "Cúp Netherite Khảm Mảnh Vỡ Cổ Đại",
@@ -222,7 +222,7 @@
     "countdown": 3.0,
     "levelReq": 88,
     "luckBonus": 17.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris_Inlaid_Netherite_Pickaxe.png"
   },
   {
     "name": "Cúp Netherite Khảm Kim Cương Toàn Phần",
@@ -231,7 +231,7 @@
     "countdown": 2.5,
     "levelReq": 100,
     "luckBonus": 20.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Full_Diamond_Inlaid_Netherite_Pickaxe.png"
   },
   {
     "name": "Cúp Netherite Lát Vàng Cống Nạp",
@@ -240,7 +240,7 @@
     "countdown": 2.0,
     "levelReq": 108,
     "luckBonus": 24.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Gilded_Tribute_Netherite_Pickaxe.png"
   },
   {
     "name": "Cúp Netherite Khảm Sao Nether",
@@ -249,7 +249,7 @@
     "countdown": 2.2,
     "levelReq": 120,
     "luckBonus": 35.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Star_Inlaid_Netherite_Pickaxe.png"
   },
   {
     "name": "Cúp Netherite Khảm Trứng Rồng",
@@ -258,7 +258,7 @@
     "countdown": 1.8,
     "levelReq": 140,
     "luckBonus": 50.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dragon_Egg_Inlaid_Netherite_Pickaxe.png"
   },
   {
     "name": "Cúp Netherite Đính Vỏ Shulker (Huyền Thoại)",
@@ -267,6 +267,6 @@
     "countdown": 1.5,
     "levelReq": 160,
     "luckBonus": 65.0,
-    "image": "chưa có ảnh"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Legendary_Shulker_Shell_Netherite_Pickaxe.png"
   }
 ]
