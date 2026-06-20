@@ -6,7 +6,7 @@
     "countdown": 10,
     "levelReq": 1,
     "luckBonus": 0.0,
-    "image": "https://i.imgur.com/IODc9Jo.png"
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Wooden_Pickaxe.png"
   },
   {
     "name": "Cúp Đá",
@@ -14,8 +14,8 @@
     "durability": 80,
     "countdown": 9,
     "levelReq": 5,
-    "luckBonus": 0.05,
-    "image": "https://i.imgur.com/XHTNRGF.png"
+    "luckBonus": 0.6,
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Stone_Pickaxe.png"
   },
   {
     "name": "Cúp Sắt",
@@ -23,8 +23,8 @@
     "durability": 150,
     "countdown": 8,
     "levelReq": 15,
-    "luckBonus": 0.15,
-    "image": "https://i.imgur.com/Rrlr2ZB.png"
+    "luckBonus": 1.6,
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Iron_Pickaxe.png"
   },
   {
     "name": "Cúp Vàng",
@@ -32,8 +32,8 @@
     "durability": 300,
     "countdown": 6,
     "levelReq": 30,
-    "luckBonus": 0.30,
-    "image": "https://i.imgur.com/yPedwZX.png"
+    "luckBonus": 3.5,
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Golden_Pickaxe.png"
   },
   {
     "name": "Cúp Kim Cương",
@@ -41,8 +41,8 @@
     "durability": 600,
     "countdown": 4,
     "levelReq": 50,
-    "luckBonus": 0.60,
-    "image": "https://i.imgur.com/qA8hott.png"
+    "luckBonus": 6.5,
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Diamond_Pickaxe.png"
   },
   {
     "name": "Cúp Netherite",
@@ -50,7 +50,70 @@
     "durability": 1200,
     "countdown": 3,
     "levelReq": 80,
-    "luckBonus": 1.0,
-    "image": "https://i.imgur.com/k1skyAb.png"
+    "luckBonus": 12.0,
+    "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Netherite_Pickaxe.png"
+  },
+  {
+    "name": "Cúp Netherite Nạm Kim Cương",
+    "price": 18000000,
+    "durability": 2000,
+    "countdown": 2.5,
+    "levelReq": 95,
+    "luckBonus": 18.0,
+    "image": "chưa có ảnh"
+  },
+  {
+    "name": "Cúp RGB Streamer (Flex)",
+    "price": 25000000,
+    "durability": 1300,
+    "countdown": 3.0,
+    "levelReq": 100,
+    "luckBonus": 18.0,
+    "image": "chưa có ảnh"
+  },
+  {
+    "name": "Cúp Tia Chớp (Không Có LuckBonus)",
+    "price": 32000000,
+    "durability": 900,
+    "countdown": 1.0,
+    "levelReq": 105,
+    "luckBonus": 0.0,
+    "image": "chưa có ảnh"
+  },
+  {
+    "name": "Cúp Netherite Khảm Ngọc Lục Bảo (May Mắn)",
+    "price": 48000000,
+    "durability": 1500,
+    "countdown": 3.5,
+    "levelReq": 115,
+    "luckBonus": 30.0,
+    "image": "chưa có ảnh"
+  },
+  {
+    "name": "Cúp Titan Bất Hoại",
+    "price": 70000000,
+    "durability": 8000,
+    "countdown": 3.0,
+    "levelReq": 125,
+    "luckBonus": 20.0,
+    "image": "chưa có ảnh"
+  },
+  {
+    "name": "Cúp Hắc Long May Mắn",
+    "price": 130000000,
+    "durability": 700,
+    "countdown": 4.5,
+    "levelReq": 135,
+    "luckBonus": 55.0,
+    "image": "chưa có ảnh"
+  },
+  {
+    "name": "Cúp Admin Bug Test (???)",
+    "price": 350000000,
+    "durability": 99999,
+    "countdown": 0.5,
+    "levelReq": 160,
+    "luckBonus": 80.0,
+    "image": "chưa có ảnh"
   }
 ]
