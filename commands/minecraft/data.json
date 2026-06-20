@@ -86,7 +86,30 @@
             "size": 40,
             "sell": 150,
             "image": "https://i.imgur.com/Gl4ylvn.jpg"
+          },
+          {
+            "ID": 10,
+            "name": "Bí Ngô",
+            "category": "Uncommon",
+            "size": 22,
+            "sell": 430,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 11,
+            "name": "Quả Táo",
+            "category": "Common",
+            "size": 40,
+            "sell": 125,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Mọi thợ mỏ vĩ đại đều bắt đầu từ một nhát cuốc đầu tiên...\"",
+          "\"Nơi đây, hành trình của bạn chính thức bắt đầu.\"",
+          "\"Đất đai quen thuộc, nhưng kho báu vẫn còn ẩn giấu.\"",
+          "\"Không có khởi đầu nào là quá nhỏ bé.\"",
+          "\"Hít một hơi thật sâu — cuộc phiêu lưu đang chờ phía trước.\""
         ]
       },
       {
@@ -125,7 +148,30 @@
             "size": 22,
             "sell": 540,
             "image": "https://i.imgur.com/Gl4ylvn.jpg"
+          },
+          {
+            "ID": 4,
+            "name": "Dưa Hấu",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 560,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 5,
+            "name": "Bánh Mì",
+            "category": "Common",
+            "size": 38,
+            "sell": 190,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Ngôi làng này từng có người ở... giờ chỉ còn lại tiếng gió.\"",
+          "\"Những căn nhà bỏ hoang vẫn cất giữ vài bí mật cuối cùng.\"",
+          "\"Nông trại xưa giờ chỉ còn cỏ dại và ký ức.\"",
+          "\"Ai đó đã rời đi vội vã, để lại tất cả phía sau.\"",
+          "\"Trong đổ nát, đôi khi vẫn có thứ đáng giá.\""
         ]
       },
       {
@@ -188,7 +234,30 @@
             "size": 10,
             "sell": 2200,
             "image": "https://i.imgur.com/SwFyJrl.png"
+          },
+          {
+            "ID": 7,
+            "name": "Thuốc Nổ TNT",
+            "category": "Rare",
+            "size": 10,
+            "sell": 2300,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 8,
+            "name": "Nấm Nâu",
+            "category": "Common",
+            "size": 36,
+            "sell": 230,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Càng đi sâu, không khí càng lạnh và im ắng.\"",
+          "\"Tiếng cuốc vang vọng khắp những bức tường đá.\"",
+          "\"Hang động không bao giờ tiết lộ hết những gì nó giấu.\"",
+          "\"Một bước sai có thể dẫn đến vực sâu không đáy.\"",
+          "\"Ánh đuốc là người bạn duy nhất của bạn nơi đây.\""
         ]
       },
       {
@@ -235,7 +304,30 @@
             "size": 6,
             "sell": 10000,
             "image": "https://i.imgur.com/FzmWr8X.png"
+          },
+          {
+            "ID": 5,
+            "name": "Xương",
+            "category": "Common",
+            "size": 36,
+            "sell": 310,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 6,
+            "name": "Mũi Tên Linh Hồn",
+            "category": "Rare",
+            "size": 10,
+            "sell": 3200,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Những bộ xương xưa cũ vẫn canh giữ kho báu của chúng.\"",
+          "\"Không khí nơi đây nặng nề mùi của hàng thế kỷ.\"",
+          "\"Ai dám bước vào hầm mộ đều phải trả giá hoặc được thưởng.\"",
+          "\"Tiếng bước chân bạn là âm thanh duy nhất phá vỡ sự tĩnh lặng chết chóc.\"",
+          "\"Người xưa chôn cất của cải cùng họ — giờ chúng thuộc về bạn.\""
         ]
       },
       {
@@ -274,7 +366,30 @@
             "size": 38,
             "sell": 350,
             "image": "https://i.imgur.com/TF2q5Zp.jpg"
+          },
+          {
+            "ID": 4,
+            "name": "Mảnh Gốm Khảo Cổ",
+            "category": "Rare",
+            "size": 10,
+            "sell": 1300,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 5,
+            "name": "Muối Sa Mạc",
+            "category": "Common",
+            "size": 38,
+            "sell": 380,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Cát nóng bỏng chân, nhưng kho báu thì luôn mát lạnh.\"",
+          "\"Gió sa mạc xóa đi mọi dấu vết, trừ lòng kiên trì.\"",
+          "\"Dưới lớp cát kia là cả một nền văn minh đã mất.\"",
+          "\"Mặt trời gay gắt không làm chùn bước thợ mỏ thực thụ.\"",
+          "\"Ốc đảo còn xa, nhưng kho báu thì ở ngay đây.\""
         ]
       },
       {
@@ -321,7 +436,30 @@
             "size": 6,
             "sell": 15000,
             "image": "https://i.imgur.com/8UzxUUu.png"
+          },
+          {
+            "ID": 5,
+            "name": "Nấm Đỏ Khổng Lồ",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 1450,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 6,
+            "name": "Súp Bí Ẩn",
+            "category": "Common",
+            "size": 36,
+            "sell": 470,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Không có quái vật nào dám bén mảng đến vùng đất nấm này.\"",
+          "\"Nấm khổng lồ vươn cao như những tòa tháp tự nhiên.\"",
+          "\"Đất đai nơi đây mềm mại và đầy màu sắc kỳ lạ.\"",
+          "\"Một vùng đất an toàn hiếm hoi giữa thế giới hiểm nguy.\"",
+          "\"Mùi nấm ẩm lan tỏa khắp không gian tĩnh lặng.\""
         ]
       },
       {
@@ -376,7 +514,30 @@
             "size": 38,
             "sell": 720,
             "image": "https://i.imgur.com/XKv8I3a.png"
+          },
+          {
+            "ID": 6,
+            "name": "Cá Tuyết",
+            "category": "Common",
+            "size": 36,
+            "sell": 780,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 7,
+            "name": "Lông Vũ Cánh Cụt",
+            "category": "Uncommon",
+            "size": 18,
+            "sell": 2400,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Băng giá bao phủ tất cả, nhưng kho báu vẫn lấp lánh dưới đó.\"",
+          "\"Hơi thở bạn hóa thành sương trong cái lạnh cắt da.\"",
+          "\"Dưới lớp băng dày là một thế giới đóng băng thời gian.\"",
+          "\"Chỉ những thợ mỏ gan dạ nhất mới dám đến vùng cực này.\"",
+          "\"Tuyết rơi không ngừng, che phủ mọi dấu chân trước đó.\""
         ]
       },
       {
@@ -463,13 +624,36 @@
             "size": 36,
             "sell": 1000,
             "image": "https://i.imgur.com/mFcEPJU.jpg"
+          },
+          {
+            "ID": 10,
+            "name": "Trai Ngọc Cổ",
+            "category": "Epic",
+            "size": 6,
+            "sell": 38000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 11,
+            "name": "San Hô Cổ",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 3300,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Những công trình cổ xưa giờ đã chìm sâu dưới đại dương.\"",
+          "\"Áp lực nước nơi đây đủ sức nghiền nát mọi thứ yếu đuối.\"",
+          "\"Kho báu chìm đắm cùng những con tàu đã mất từ lâu.\"",
+          "\"Ánh sáng mặt trời không bao giờ chạm tới nơi này.\"",
+          "\"Biển cả luôn giữ kín những bí mật sâu thẳm nhất.\""
         ]
       },
       {
         "ID": 8,
         "name": "Tàn Tích Cổ Đại",
-        "levelReq": 40,
+        "levelReq": 38,
         "creature": [
           {
             "ID": 0,
@@ -510,13 +694,152 @@
             "size": 38,
             "sell": 1500,
             "image": "https://i.imgur.com/TF2q5Zp.jpg"
+          },
+          {
+            "ID": 5,
+            "name": "Bản Đồ Kho Báu Rách",
+            "category": "Epic",
+            "size": 6,
+            "sell": 42000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 6,
+            "name": "Bụi Thời Gian",
+            "category": "Common",
+            "size": 36,
+            "sell": 1550,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Những bức tường đá này đã chứng kiến hàng nghìn năm lịch sử.\"",
+          "\"Nền văn minh cổ đại để lại nhiều hơn là chỉ đống đổ nát.\"",
+          "\"Mỗi viên gạch nơi đây đều mang một câu chuyện riêng.\"",
+          "\"Thời gian không thể xóa nhòa giá trị của những gì còn sót lại.\"",
+          "\"Bụi bặm phủ đầy, nhưng kho báu thì vẫn nguyên vẹn.\""
         ]
       },
       {
         "ID": 9,
+        "name": "Dinh Thự Rừng",
+        "levelReq": 41,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Gỗ Sồi Tối",
+            "category": "Common",
+            "size": 36,
+            "sell": 1700,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Thảm Dệt Cổ",
+            "category": "Common",
+            "size": 34,
+            "sell": 1650,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Rìu Vindicator Gãy",
+            "category": "Uncommon",
+            "size": 18,
+            "sell": 5200,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Bản Đồ Khám Phá",
+            "category": "Uncommon",
+            "size": 18,
+            "sell": 4900,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 4,
+            "name": "Bùa Triệu Hồi Vex",
+            "category": "Rare",
+            "size": 10,
+            "sell": 16500,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 5,
+            "name": "Tổng Hộ Mệnh",
+            "category": "Epic",
+            "size": 4,
+            "sell": 58000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Illager canh giữ dinh thự này, nhưng không phải thợ mỏ nào cũng sợ hãi.\"",
+          "\"Những hành lang tối tăm dẫn đến vô số căn phòng bí ẩn.\"",
+          "\"Tổng Hộ Mệnh từng cứu sống biết bao thám hiểm gia liều lĩnh.\"",
+          "\"Dinh thự đồ sộ này ẩn chứa nhiều hơn những gì mắt thường thấy.\"",
+          "\"Tiếng rìu Vindicator vang vọng đâu đó trong bóng tối.\""
+        ]
+      },
+      {
+        "ID": 10,
+        "name": "Vùng Tăm Tối",
+        "levelReq": 44,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Khối Sculk",
+            "category": "Common",
+            "size": 34,
+            "sell": 2100,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Cảm Biến Sculk",
+            "category": "Uncommon",
+            "size": 18,
+            "sell": 6700,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Chuông Hét Sculk",
+            "category": "Rare",
+            "size": 10,
+            "sell": 22000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Mảnh Giáp Đồng",
+            "category": "Epic",
+            "size": 5,
+            "sell": 78000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 4,
+            "name": "Vảy Da Warden",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 620000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Im lặng là sự sống còn — Warden có thể nghe thấy mọi tiếng động.\"",
+          "\"Sculk lan rộng như một sinh vật sống, nuốt chửng mọi âm thanh.\"",
+          "\"Không ai dám gây tiếng ồn nơi vực thẳm tăm tối này.\"",
+          "\"Một bước đi sai lầm, và bóng tối sẽ thức giấc.\"",
+          "\"Những kẻ liều lĩnh nhất mới dám tìm kho báu giữa lòng Vùng Tăm Tối.\""
+        ]
+      },
+      {
+        "ID": 11,
         "name": "Tọa Độ Vô Cực",
-        "levelReq": 45,
+        "levelReq": 47,
         "creature": [
           {
             "ID": 0,
@@ -533,13 +856,36 @@
             "size": 22,
             "sell": 5400,
             "image": "https://i.imgur.com/XKv8I3a.png"
+          },
+          {
+            "ID": 2,
+            "name": "Mảnh Vỡ Không Gian",
+            "category": "Rare",
+            "size": 10,
+            "sell": 24000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Tín Hiệu Lỗi",
+            "category": "Uncommon",
+            "size": 18,
+            "sell": 7300,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Không gian nơi đây dường như không tuân theo quy luật nào.\"",
+          "\"Tọa độ vô tận, ranh giới của thế giới đã biết.\"",
+          "\"Một cảm giác kỳ lạ len lỏi khi bạn đứng giữa hư không.\"",
+          "\"Đây là nơi bản đồ kết thúc và điều chưa biết bắt đầu.\"",
+          "\"Tín hiệu nhiễu loạn — thế giới đang cố nói điều gì đó.\""
         ]
       }
     ]
   },
   {
-    "location": "Nether And The End",
+    "location": "Nether",
     "area": [
       {
         "ID": 0,
@@ -585,7 +931,30 @@
             "size": 14,
             "sell": 21000,
             "image": "https://i.imgur.com/2lk1JeN.png"
+          },
+          {
+            "ID": 5,
+            "name": "Bột Lửa Blaze",
+            "category": "Uncommon",
+            "size": 18,
+            "sell": 7900,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 6,
+            "name": "TNT Nether",
+            "category": "Rare",
+            "size": 10,
+            "sell": 24500,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Pháo đài cổ xưa này từng là sào huyệt của lũ Blaze.\"",
+          "\"Gạch Nether đỏ thẫm nhuốm màu của vô số trận chiến.\"",
+          "\"Tiếng gầm rú vọng lại từ những hành lang lửa.\"",
+          "\"Không phải ai cũng sống sót để rời khỏi pháo đài này.\"",
+          "\"Sức nóng nơi đây đủ để nung chảy cả lòng can đảm.\""
         ]
       },
       {
@@ -632,7 +1001,30 @@
             "size": 12,
             "sell": 30000,
             "image": "https://i.imgur.com/pHRTy2l.png"
+          },
+          {
+            "ID": 5,
+            "name": "Nấm Cuồng Đỏ",
+            "category": "Common",
+            "size": 34,
+            "sell": 3300,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 6,
+            "name": "Dây Leo Vặn Xoắn",
+            "category": "Uncommon",
+            "size": 18,
+            "sell": 9600,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Đầm lầy quái dị này không thuộc về bất kỳ chiều không gian nào khác.\"",
+          "\"Hơi nóng và độ ẩm hòa quyện tạo nên bầu không khí ngột ngạt.\"",
+          "\"Dây leo vặn xoắn bò khắp nơi như đang sống động.\"",
+          "\"Mảnh Vỡ Cổ Đại ẩn mình đâu đó dưới lớp bùn nóng.\"",
+          "\"Một nơi mà ranh giới giữa sự sống và cái chết thật mong manh.\""
         ]
       },
       {
@@ -687,7 +1079,30 @@
             "size": 14,
             "sell": 33000,
             "image": "https://i.imgur.com/pHRTy2l.png"
+          },
+          {
+            "ID": 6,
+            "name": "Quả Mọng Sáng",
+            "category": "Common",
+            "size": 34,
+            "sell": 4000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 7,
+            "name": "Nấm Khổng Lồ Nether",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 12000,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Khu rừng này chỉ tồn tại trong những giấc mơ tồi tệ nhất.\"",
+          "\"Nấm khổng lồ vươn cao, che khuất cả ánh lửa Nether.\"",
+          "\"Quả mọng sáng là nguồn sáng hiếm hoi giữa bóng tối đỏ thẫm.\"",
+          "\"Không có sinh vật bình thường nào dám trú ngụ nơi đây.\"",
+          "\"Mỗi bước chân đều có thể đánh thức một cơn ác mộng.\""
         ]
       },
       {
@@ -742,7 +1157,30 @@
             "size": 38,
             "sell": 4500,
             "image": "https://i.imgur.com/gLYYk05.png"
+          },
+          {
+            "ID": 6,
+            "name": "Bia Mộ Quỷ",
+            "category": "Rare",
+            "size": 10,
+            "sell": 46000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 7,
+            "name": "Rune Cổ Nether",
+            "category": "Epic",
+            "size": 5,
+            "sell": 165000,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Tàn tích này cổ xưa hơn cả chính pháo đài Nether.\"",
+          "\"Rune cổ khắc trên đá kể về một nền văn minh đã diệt vong.\"",
+          "\"Obsidian đen tuyền phản chiếu ánh lửa vĩnh cửu.\"",
+          "\"Bia mộ quỷ canh giữ những bí mật không ai dám khám phá.\"",
+          "\"Mỗi viên Mảnh Vỡ Cổ Đại nơi đây đều đáng giá một gia tài.\""
         ]
       },
       {
@@ -789,7 +1227,30 @@
             "size": 14,
             "sell": 50000,
             "image": "https://i.imgur.com/pHRTy2l.png"
+          },
+          {
+            "ID": 5,
+            "name": "Quả Cầu Lửa Ghast",
+            "category": "Rare",
+            "size": 10,
+            "sell": 58000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 6,
+            "name": "Nham Thạch Cô Đặc",
+            "category": "Common",
+            "size": 34,
+            "sell": 6200,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Dòng sông dung nham chảy mãi không ngừng, không bao giờ nguội lạnh.\"",
+          "\"Một bước sai lầm nơi đây sẽ là bước cuối cùng của bạn.\"",
+          "\"Ghast gào thét từ xa, ném quả cầu lửa vào bất kỳ ai cả gan tiến lại.\"",
+          "\"Hơi nóng bốc lên làm méo mó cả không gian phía trước.\"",
+          "\"Vàng và báu vật lấp lánh ngay bên bờ vực tử thần.\""
         ]
       },
       {
@@ -844,7 +1305,30 @@
             "size": 20,
             "sell": 21600,
             "image": "https://i.imgur.com/hZ6cxrU.jpg"
+          },
+          {
+            "ID": 6,
+            "name": "Vàng Cống Nạp Piglin",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 22000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 7,
+            "name": "Yên Cương Lợn Quỷ",
+            "category": "Rare",
+            "size": 10,
+            "sell": 73000,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Lũ Piglin canh giữ vàng của chúng một cách điên cuồng.\"",
+          "\"Pháo đài Heo đầy rẫy bẫy và kho báu bị lãng quên.\"",
+          "\"Đổi vàng lấy sự an toàn — đó là luật lệ ở đây.\"",
+          "\"Hoglin gầm rú đâu đó trong những hành lang tối.\"",
+          "\"Không có gì miễn phí trong lãnh địa của loài Piglin.\""
         ]
       },
       {
@@ -923,13 +1407,195 @@
             "size": 20,
             "sell": 26500,
             "image": "https://i.imgur.com/hZ6cxrU.jpg"
+          },
+          {
+            "ID": 9,
+            "name": "Tinh Thể Máu",
+            "category": "Epic",
+            "size": 5,
+            "sell": 330000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 10,
+            "name": "TNT Hắc Ám",
+            "category": "Rare",
+            "size": 10,
+            "sell": 92000,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Gỗ Thẫm nhuốm màu đỏ như máu dưới ánh lửa Nether.\"",
+          "\"Khu rừng này được đặt tên không phải vì màu sắc ngẫu nhiên.\"",
+          "\"Tinh Thể Máu chỉ xuất hiện ở nơi nguy hiểm bậc nhất này.\"",
+          "\"Không khí đặc quánh mùi lưu huỳnh và một thứ gì đó tanh nồng.\"",
+          "\"Chỉ những thợ mỏ dày dạn nhất mới dám bước vào Rừng Máu.\""
         ]
       },
       {
         "ID": 7,
-        "name": "World Edge – The Void",
+        "name": "Lò Magma Vĩnh Cửu",
+        "levelReq": 85,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Bazan Nung Chảy",
+            "category": "Common",
+            "size": 34,
+            "sell": 9800,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Khối TNT Tăng Cường",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 31000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Lõi Magma Cube",
+            "category": "Rare",
+            "size": 10,
+            "sell": 105000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Tinh Thể Hắc Hỏa",
+            "category": "Epic",
+            "size": 5,
+            "sell": 370000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 4,
+            "name": "Vương Miện Vua Lửa",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 1950000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 5,
+            "name": "Tinh Hoa Lửa Vĩnh Cửu",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 14500000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Ngọn lửa nơi đây đã cháy từ thuở khai thiên lập địa, chưa từng tắt.\"",
+          "\"Tinh Hoa Lửa Vĩnh Cửu là phần thưởng cho kẻ dám đối mặt với địa ngục.\"",
+          "\"Magma Cube không ngừng sinh sôi trong lò lửa bất tận này.\"",
+          "\"Vương Miện Vua Lửa từng thuộc về một bạo chúa đã bị thiêu rụi.\"",
+          "\"Đây là tận cùng của Nether — nơi lửa và quyền lực hòa làm một.\""
+        ]
+      }
+    ]
+  },
+  {
+    "location": "The End",
+    "area": [
+      {
+        "ID": 0,
+        "name": "Đảo Trung Tâm",
         "levelReq": 90,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Kết Thúc",
+            "category": "Common",
+            "size": 34,
+            "sell": 12000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Trụ Obsidian Vỡ",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 38000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Vảy Rồng Ender",
+            "category": "Rare",
+            "size": 10,
+            "sell": 135000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Mắt Ender",
+            "category": "Epic",
+            "size": 5,
+            "sell": 420000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Đảo Trung Tâm — nơi Ender Dragon từng ngự trị tối cao.\"",
+          "\"Đá Kết Thúc trải dài đến tận chân trời tím nhạt.\"",
+          "\"Endermen dõi theo từng bước chân của kẻ xâm nhập.\"",
+          "\"Trụ Obsidian sừng sững như những cột chống đỡ bầu trời.\"",
+          "\"Mắt Ender phát sáng yếu ớt giữa không gian tĩnh mịch.\""
+        ]
+      },
+      {
+        "ID": 1,
+        "name": "Thành Phố Tận Thế",
+        "levelReq": 95,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Gạch Purpur",
+            "category": "Common",
+            "size": 34,
+            "sell": 15000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Mảnh Vỏ Shulker",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 48000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Cánh Elytra Rách",
+            "category": "Rare",
+            "size": 10,
+            "sell": 170000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Lõi Shulker",
+            "category": "Epic",
+            "size": 5,
+            "sell": 520000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Thành Phố Tận Thế đứng sừng sững giữa hư không, im lìm và bí ẩn.\"",
+          "\"Shulker ẩn mình trong từng góc tối, chờ đợi kẻ bất cẩn.\"",
+          "\"Gạch Purpur tím thẫm lấp lánh dưới ánh sáng kỳ lạ.\"",
+          "\"Cánh Elytra rách nát kể về một chuyến bay không trọn vẹn.\"",
+          "\"Không ai biết ai đã xây nên thành phố cô độc này.\""
+        ]
+      },
+      {
+        "ID": 2,
+        "name": "Quần Đảo Hư Vô",
+        "levelReq": 100,
         "creature": [
           {
             "ID": 0,
@@ -954,7 +1620,394 @@
             "size": 3,
             "sell": 1750000,
             "image": "https://i.imgur.com/8o1Hfzf.png"
+          },
+          {
+            "ID": 3,
+            "name": "Đất Hư Vô",
+            "category": "Common",
+            "size": 34,
+            "sell": 19000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 4,
+            "name": "Cây Chorus Con",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 60000,
+            "image": "chưa có ảnh"
           }
+        ],
+        "footers": [
+          "\"Những hòn đảo trôi nổi giữa hư vô, kết nối bởi cây Chorus kỳ lạ.\"",
+          "\"Một bước hụt chân nơi đây là rơi mãi mãi vào khoảng không.\"",
+          "\"Cây Chorus dịch chuyển bạn đến nơi không ngờ tới nhất.\"",
+          "\"Hư Vô tĩnh lặng đến rợn người, không một tiếng động nào tồn tại.\"",
+          "\"Trái Chorus Fruit là báu vật quý hiếm bậc nhất nơi vùng đất chết.\""
+        ]
+      },
+      {
+        "ID": 3,
+        "name": "Vực Thẳm Tận Cùng",
+        "levelReq": 105,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Bụi Hư Không",
+            "category": "Common",
+            "size": 34,
+            "sell": 22000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Tinh Thể Hư Vô",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 70000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Mảnh Trứng Rồng",
+            "category": "Rare",
+            "size": 10,
+            "sell": 250000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Lõi Hỗn Mang",
+            "category": "Epic",
+            "size": 5,
+            "sell": 800000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 4,
+            "name": "Vương Trượng Tận Thế",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 3200000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 5,
+            "name": "Trứng Rồng Nguyên Vẹn",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 22000000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Đây là nơi tận cùng của The End — không còn gì xa hơn nữa.\"",
+          "\"Trứng Rồng Nguyên Vẹn là báu vật huyền thoại mà ít ai từng chạm tới.\"",
+          "\"Lõi Hỗn Mang rung động với năng lượng không thể kiểm soát.\"",
+          "\"Vương Trượng Tận Thế từng thuộc về kẻ thống trị cả chiều không gian này.\"",
+          "\"Vượt qua nơi này, chỉ còn huyền thoại Far Lands phía trước.\""
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Vùng Đất Tận Cùng",
+    "area": [
+      {
+        "ID": 0,
+        "name": "Vết Nứt Không Gian",
+        "levelReq": 110,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Khối Lỗi Render",
+            "category": "Common",
+            "size": 34,
+            "sell": 28000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Mảnh Texture Vỡ",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 88000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Dữ Liệu Chunk Hỏng",
+            "category": "Rare",
+            "size": 10,
+            "sell": 310000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Thế giới ở đây bắt đầu vỡ vụn thành từng mảnh pixel.\"",
+          "\"Một vết nứt kỳ lạ chia cắt không gian thành những lớp chồng chéo.\"",
+          "\"Không có quy luật vật lý nào còn đúng nơi đây.\"",
+          "\"Dữ liệu chunk lỗi tạo ra những hình thù không thể giải thích.\"",
+          "\"Bạn đang đứng ở rìa của chính sự tồn tại.\""
+        ]
+      },
+      {
+        "ID": 1,
+        "name": "Vực Sâu Glitch",
+        "levelReq": 120,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Pixel Trôi Dạt",
+            "category": "Common",
+            "size": 34,
+            "sell": 42000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Mảnh Code Lỗi",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 130000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Hằng Số Vô Cực",
+            "category": "Rare",
+            "size": 10,
+            "sell": 460000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Vực Toạ Độ Âm",
+            "category": "Epic",
+            "size": 5,
+            "sell": 1500000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Càng đi sâu, thực tại càng trở nên méo mó và khó đoán.\"",
+          "\"Pixel trôi dạt lơ lửng như bụi trong không trung kỹ thuật số.\"",
+          "\"Hằng Số Vô Cực thách thức mọi giới hạn đã biết của thế giới.\"",
+          "\"Một vực thẳm không đáy, nơi mã nguồn của thế giới bắt đầu sụp đổ.\"",
+          "\"Không ai biết điều gì thực sự nằm ở cuối Vực Sâu Glitch.\""
+        ]
+      },
+      {
+        "ID": 2,
+        "name": "Lõi Far Lands",
+        "levelReq": 130,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Địa Hình Vỡ Vụn",
+            "category": "Common",
+            "size": 34,
+            "sell": 62000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Núi Răng Cưa Lỗi",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 195000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Mảnh Seed Gốc",
+            "category": "Rare",
+            "size": 10,
+            "sell": 690000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Thuật Toán Sinh Thế Giới",
+            "category": "Epic",
+            "size": 5,
+            "sell": 2300000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 4,
+            "name": "Biên Giới Thực Tại",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 9800000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 5,
+            "name": "Dữ Liệu Thế Giới Nguyên Thủy",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 68000000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Far Lands — huyền thoại về rìa thế giới mà ít ai từng đặt chân tới.\"",
+          "\"Dữ Liệu Nguyên Thủy chứa bí mật về sự khởi sinh của vạn vật.\"",
+          "\"Địa hình nơi đây vỡ vụn thành những hình khối không thể tin nổi.\"",
+          "\"Biên Giới Thực Tại — ranh giới cuối cùng giữa trật tự và hỗn loạn.\"",
+          "\"Đứng tại Lõi Far Lands, bạn đang chạm vào chính nền móng của thế giới.\""
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Thiên Đường",
+    "area": [
+      {
+        "ID": 0,
+        "name": "Đảo Mây",
+        "levelReq": 140,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Mây Đặc",
+            "category": "Common",
+            "size": 34,
+            "sell": 95000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Lông Vũ Thiên Thần",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 300000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Pha Lê Mây",
+            "category": "Rare",
+            "size": 10,
+            "sell": 1050000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Những hòn đảo mây bồng bềnh trôi giữa bầu trời vô tận.\"",
+          "\"Không khí nơi đây trong lành đến lạ, như chưa từng bị vấy bẩn.\"",
+          "\"Lông Vũ Thiên Thần nhẹ nhàng rơi xuống từ độ cao không tưởng.\"",
+          "\"Đứng giữa Đảo Mây, mọi ưu phiền dưới mặt đất dường như tan biến.\"",
+          "\"Đây là phần thưởng cho những ai đã đi qua mọi thử thách trần gian.\""
+        ]
+      },
+      {
+        "ID": 1,
+        "name": "Thánh Địa Ánh Sáng",
+        "levelReq": 150,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Cẩm Thạch Thánh",
+            "category": "Common",
+            "size": 34,
+            "sell": 145000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Ngọc Ánh Sáng",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 460000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Vàng Thiên Đường",
+            "category": "Rare",
+            "size": 10,
+            "sell": 1650000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Lông Vũ Tổng Lãnh Thiên Thần",
+            "category": "Epic",
+            "size": 5,
+            "sell": 5400000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Ánh sáng nơi đây đến từ một cội nguồn thiêng liêng hơn mặt trời.\"",
+          "\"Vàng Thiên Đường tỏa sáng dịu dàng, không hề chói lóa.\"",
+          "\"Một sự tĩnh lặng thánh thiện bao trùm khắp Thánh Địa.\"",
+          "\"Lông Vũ Tổng Lãnh Thiên Thần chỉ rơi xuống cho kẻ xứng đáng.\"",
+          "\"Nơi đây, ranh giới giữa con người và thần thánh trở nên mong manh.\""
+        ]
+      },
+      {
+        "ID": 2,
+        "name": "Ngai Vàng Vĩnh Cửu",
+        "levelReq": 160,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Bậc Thang Vàng",
+            "category": "Common",
+            "size": 34,
+            "sell": 220000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 1,
+            "name": "Rèm Lụa Thiên Giới",
+            "category": "Uncommon",
+            "size": 16,
+            "sell": 700000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 2,
+            "name": "Ngọc Bích Vĩnh Hằng",
+            "category": "Rare",
+            "size": 10,
+            "sell": 2500000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 3,
+            "name": "Vương Trang Thiên Sứ",
+            "category": "Epic",
+            "size": 5,
+            "sell": 8200000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 4,
+            "name": "Vương Miện Ánh Sáng",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 34000000,
+            "image": "chưa có ảnh"
+          },
+          {
+            "ID": 5,
+            "name": "Trái Tim Vĩnh Hằng",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 250000000,
+            "image": "chưa có ảnh"
+          }
+        ],
+        "footers": [
+          "\"Ngai Vàng Vĩnh Cửu — đích đến cuối cùng của mọi thợ mỏ vĩ đại.\"",
+          "\"Trái Tim Vĩnh Hằng đập những nhịp đập cuối cùng của một kỷ nguyên.\"",
+          "\"Không ngôn từ nào diễn tả được vinh quang trước ngai vàng này.\"",
+          "\"Vương Miện Ánh Sáng chỉ dành cho kẻ đã chinh phục mọi chiều không gian.\"",
+          "\"Đây là đỉnh cao tuyệt đối — nhưng huyền thoại thì không bao giờ kết thúc.\""
         ]
       }
     ]
