@@ -13,7 +13,7 @@
             "category": "Common",
             "size": 38,
             "sell": 100,
-            "image": "https://i.imgur.com/PwM03Lx.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
             "footer": "Lớp đất quen thuộc dưới chân mọi thợ mỏ. \"Hành trình ngàn dặm bắt đầu từ một khối đất.\""
           },
           {
@@ -22,7 +22,7 @@
             "category": "Common",
             "size": 38,
             "sell": 100,
-            "image": "https://i.imgur.com/XKv8I3a.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Stone.png",
             "footer": "Loại đá phổ biến nhất, tạo nên phần lớn lớp vỏ thế giới. \"Không hào nhoáng, nhưng luôn ở đó.\""
           },
           {
@@ -31,7 +31,7 @@
             "category": "Common",
             "size": 38,
             "sell": 100,
-            "image": "https://i.imgur.com/M3053jJ.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sand.png",
             "footer": "Vật liệu quen thuộc ven sông, biển và sa mạc. \"Mỗi hạt cát đều có thể là khởi đầu của thủy tinh.\""
           },
           {
@@ -40,7 +40,7 @@
             "category": "Common",
             "size": 38,
             "sell": 100,
-            "image": "https://i.imgur.com/Gl4ylvn.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Gravel.png",
             "footer": "Thường rơi ra khi đào đất hoặc đá cuội. \"Nhỏ bé nhưng không hề vô dụng.\""
           },
           {
@@ -49,7 +49,7 @@
             "category": "Common",
             "size": 38,
             "sell": 100,
-            "image": "https://i.imgur.com/wnXtrIt.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Podzol.png",
             "footer": "Loại đất đặc trưng của rừng taiga. \"Một dấu hiệu cho biết bạn đang ở gần rừng thông.\""
           },
           {
@@ -58,7 +58,7 @@
             "category": "Common",
             "size": 38,
             "sell": 100,
-            "image": "https://i.imgur.com/Sr32pdv.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Granite.png",
             "footer": "Loại đá biến thể với vân hồng đặc trưng. \"Cứng cáp và đáng tin cậy như chính nó trông vậy.\""
           },
           {
@@ -67,16 +67,16 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 320,
-            "image": "https://i.imgur.com/gu5UyYZ.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Oak_log.png",
             "footer": "Nguyên liệu xây dựng cơ bản nhất của mọi thợ thủ công. \"Không có gỗ, chẳng có cuốc nào ra đời.\""
           },
           {
             "ID": 7,
-            "name": "Đá Phiến Sét",
+            "name": "Phiến Đá Mịn",
             "category": "Uncommon",
             "size": 20,
             "sell": 320,
-            "image": "https://i.imgur.com/vMYKIGG.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Smooth_Stone_Slab.png",
             "footer": "Hình thành nhiều ở các tầng đất sâu. \"Một lớp đá lặng lẽ nhưng đầy giá trị xây dựng.\""
           },
           {
@@ -85,7 +85,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 320,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Pumpkin.png",
             "footer": "Loại quả to mọc ngoài đồng, dùng làm đèn lồng Halloween. \"Đặt lên đầu, bạn sẽ chẳng còn sợ Enderman nữa.\""
           },
           {
@@ -94,7 +94,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 320,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Apple.png",
             "footer": "Đôi khi rơi ra khi chặt lá sồi hoặc lá vân sam đậm. \"Một bữa ăn nhẹ giữa hành trình đào bới.\""
           },
           {
@@ -103,7 +103,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 1100,
-            "image": "https://i.imgur.com/d9gedJU.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Lapis_Lazuli.png",
             "footer": "Khoáng thạch quý hiếm hình thành trong các túi đất sét. \"Sắc xanh của nó từng khiến bao thợ mỏ phải dừng cuốc.\""
           }
         ]
@@ -119,7 +119,7 @@
             "category": "Common",
             "size": 38,
             "sell": 220,
-            "image": "https://i.imgur.com/PwM03Lx.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
             "footer": "Nền đất quen thuộc của những cánh đồng bỏ hoang. \"Người dân làng đã đi đâu, không ai biết.\""
           },
           {
@@ -128,7 +128,7 @@
             "category": "Common",
             "size": 38,
             "sell": 220,
-            "image": "https://i.imgur.com/M3053jJ.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sand.png",
             "footer": "Tìm thấy quanh các ngôi làng sa mạc bị bỏ rơi. \"Gió thổi qua từng con phố vắng người.\""
           },
           {
@@ -137,7 +137,7 @@
             "category": "Common",
             "size": 38,
             "sell": 220,
-            "image": "https://i.imgur.com/Sr32pdv.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Granite.png",
             "footer": "Vật liệu xây dựng còn sót lại trong những ngôi nhà đổ nát. \"Bức tường này từng che chở cho ai đó.\""
           },
           {
@@ -146,7 +146,7 @@
             "category": "Common",
             "size": 38,
             "sell": 220,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Bread.png",
             "footer": "Thực phẩm cơ bản, có thể tìm thấy trong rương làng. \"Vẫn còn ăn được, có lẽ vậy.\""
           },
           {
@@ -155,7 +155,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 705,
-            "image": "https://i.imgur.com/Gl4ylvn.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Gravel.png",
             "footer": "Vương vãi trên những con đường làng bỏ hoang. \"Tiếng bước chân của bạn vang vọng khắp nơi.\""
           },
           {
@@ -164,7 +164,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 705,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Melon.png",
             "footer": "Loại quả thường được trồng trong nông trại làng. \"Nông trại không người chăm nhưng quả vẫn ngọt.\""
           }
         ]
@@ -180,7 +180,7 @@
             "category": "Common",
             "size": 38,
             "sell": 380,
-            "image": "https://i.imgur.com/xXlpNve.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Coal_Ore.png",
             "footer": "Khoáng sản phổ biến nhất, dùng để chế tạo đuốc. \"Ánh sáng nhỏ bé giữa lòng bóng tối.\""
           },
           {
@@ -189,7 +189,7 @@
             "category": "Common",
             "size": 38,
             "sell": 380,
-            "image": "https://i.imgur.com/FzmWr8X.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Iron_Ore.png",
             "footer": "Nguyên liệu nền tảng cho hầu hết công cụ và áo giáp. \"Mọi thợ mỏ vĩ đại đều khởi đầu từ sắt.\""
           },
           {
@@ -198,7 +198,7 @@
             "category": "Common",
             "size": 38,
             "sell": 380,
-            "image": "https://i.imgur.com/IPOzgqB.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Redstone_Ore.png",
             "footer": "Bụi đỏ kỳ diệu cho phép tạo ra cơ chế tự động. \"Dòng năng lượng đỏ chảy theo ý muốn người thợ.\""
           },
           {
@@ -207,7 +207,7 @@
             "category": "Common",
             "size": 38,
             "sell": 380,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Brown_Mushroom.png",
             "footer": "Mọc trong những khu vực tối tăm, ẩm thấp. \"Một chút sự sống giữa hang đá lạnh lẽo.\""
           },
           {
@@ -216,7 +216,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 1220,
-            "image": "https://i.imgur.com/UFvjUP6.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Gold_Ore.png",
             "footer": "Khoáng sản lấp lánh, hiếm hơn sắt khá nhiều. \"Ánh vàng le lói giữa lớp đá xám xịt.\""
           },
           {
@@ -225,7 +225,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 1220,
-            "image": "https://i.imgur.com/s2YRZl4.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Lapis_Lazuli_Ore.png",
             "footer": "Hình thành sâu trong lòng đất, gần độ cao thấp. \"Một viên ngọc xanh giấu mình trong bóng tối.\""
           },
           {
@@ -234,8 +234,8 @@
             "category": "Rare",
             "size": 11,
             "sell": 4180,
-            "image": "chưa có ảnh",
-            "footer": "Khối thuốc nổ mạnh, có thể kích hoạt bằng lửa hoặc redstone. \"Cẩn thận — nó không phân biệt bạn thù.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/TNT.png",
+            "footer": "Khối thuốc nổ mạnh, có thể kích hoạt bằng lửa hoặc redstone. \"Cẩn thận - nó không phân biệt bạn thù.\""
           },
           {
             "ID": 7,
@@ -243,7 +243,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 4180,
-            "image": "https://i.imgur.com/SwFyJrl.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Emerald.png",
             "footer": "Khoáng sản quý hiếm, vật trao đổi yêu thích của dân làng. \"Người buôn nào cũng mê mẩn thứ này.\""
           },
           {
@@ -252,7 +252,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 14400,
-            "image": "https://i.imgur.com/dWXO9UX.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Diamond_Ore.png",
             "footer": "Báu vật mọi thợ mỏ mơ ước, ẩn sâu dưới lòng đất. \"Khoảnh khắc thấy ánh xanh ấy, tim bạn sẽ đập nhanh hơn.\""
           }
         ]
@@ -268,7 +268,7 @@
             "category": "Common",
             "size": 38,
             "sell": 600,
-            "image": "https://i.imgur.com/PwM03Lx.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
             "footer": "Lớp đất phủ trên những hầm mộ bị lãng quên. \"Yên nghỉ ngàn năm dưới lớp đất này.\""
           },
           {
@@ -277,7 +277,7 @@
             "category": "Common",
             "size": 38,
             "sell": 600,
-            "image": "https://i.imgur.com/Gl4ylvn.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Gravel.png",
             "footer": "Vương vãi khắp các hành lang hầm mộ cổ. \"Tiếng cuốc của bạn vang vọng trong tĩnh lặng.\""
           },
           {
@@ -286,7 +286,7 @@
             "category": "Common",
             "size": 38,
             "sell": 600,
-            "image": "https://i.imgur.com/Nsp0Ujl.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Coal.png",
             "footer": "Cần thiết để thắp sáng những hành lang tối tăm. \"Không có nó, bóng tối sẽ nuốt chửng bạn.\""
           },
           {
@@ -295,7 +295,7 @@
             "category": "Common",
             "size": 38,
             "sell": 600,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Bone.png",
             "footer": "Tàn tích từ những bộ xương canh gác hầm mộ. \"Chủ nhân của nó đã không còn cần đến nữa.\""
           },
           {
@@ -304,7 +304,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 1920,
-            "image": "https://i.imgur.com/Sr32pdv.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Granite.png",
             "footer": "Vật liệu xây dựng ẩn trong những căn phòng sâu. \"Một viên đá lặng lẽ giữ bí mật ngàn năm.\""
           },
           {
@@ -313,7 +313,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 22800,
-            "image": "https://i.imgur.com/FzmWr8X.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Iron_Ore.png",
             "footer": "Hiếm khi mạch quặng dày lại lộ ra ngay giữa hầm mộ. \"Một phát hiện bất ngờ giữa nơi tử khí bao trùm.\""
           },
           {
@@ -322,7 +322,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 6600,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Arrow_of_Poison.png",
             "footer": "Vũ khí của Skeleton phù thuỷ trong hầm mộ rừng. \"Một thứ vũ khí mà bạn không muốn nếm thử.\""
           }
         ]
@@ -338,7 +338,7 @@
             "category": "Common",
             "size": 38,
             "sell": 950,
-            "image": "https://i.imgur.com/M3053jJ.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sand.png",
             "footer": "Trải dài vô tận dưới cái nắng gay gắt của sa mạc. \"Mỗi bước chân đều để lại dấu, rồi gió lại xoá đi.\""
           },
           {
@@ -347,7 +347,7 @@
             "category": "Common",
             "size": 38,
             "sell": 950,
-            "image": "https://i.imgur.com/TF2q5Zp.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Cobblestone.png",
             "footer": "Lẫn trong những đụn cát khô cằn. \"Một viên đá nhỏ giữa biển cát mênh mông.\""
           },
           {
@@ -356,7 +356,7 @@
             "category": "Common",
             "size": 38,
             "sell": 950,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Salt.png",
             "footer": "Lắng đọng tự nhiên ở những vùng đất khô hạn. \"Vị mặn còn sót lại từ biển cổ đã cạn khô.\""
           },
           {
@@ -365,7 +365,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 3040,
-            "image": "https://i.imgur.com/nDxQlez.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sandstone.png",
             "footer": "Phiên bản kết dính của cát thường, khó đào hơn. \"Thiên nhiên đã nén chặt nó qua hàng thế kỷ.\""
           },
           {
@@ -374,7 +374,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 3040,
-            "image": "https://i.imgur.com/I3YL87h.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Cactus.png",
             "footer": "Loài cây duy nhất sống sót giữa cái nóng sa mạc. \"Chạm vào nó, bạn sẽ nhớ đời.\""
           },
           {
@@ -383,7 +383,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 10400,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Pottery_Sherd.png",
             "footer": "Tìm thấy khi khai quật các gò khảo cổ sa mạc. \"Một mảnh ghép của lịch sử đã bị chôn vùi.\""
           }
         ]
@@ -399,7 +399,7 @@
             "category": "Common",
             "size": 38,
             "sell": 1300,
-            "image": "https://i.imgur.com/XKv8I3a.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Stone.png",
             "footer": "Lớp nền vững chắc bên dưới những cánh đồng nấm. \"Một biome hiếm hoi mà quái vật không thể sinh ra.\""
           },
           {
@@ -408,7 +408,7 @@
             "category": "Common",
             "size": 38,
             "sell": 1300,
-            "image": "https://i.imgur.com/xXlpNve.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Coal.png",
             "footer": "Vẫn xuất hiện rải rác dưới lớp đất nhiễm nấm. \"Bóng tối vẫn cần ánh lửa, dù ở nơi an toàn nhất.\""
           },
           {
@@ -417,7 +417,7 @@
             "category": "Common",
             "size": 38,
             "sell": 1300,
-            "image": "https://i.imgur.com/dtBM9sP.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Mycelium.png",
             "footer": "Loại đất đặc trưng chỉ có ở biome nấm. \"Nơi nấm mọc lên thay vì cỏ.\""
           },
           {
@@ -426,7 +426,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 4160,
-            "image": "https://i.imgur.com/EF8ufGh.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Cobblestone.png",
             "footer": "Nằm rải rác quanh những ngọn đồi phủ nấm. \"Một viên đá lạc lõng giữa thế giới nấm kỳ lạ.\""
           },
           {
@@ -435,8 +435,8 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 4160,
-            "image": "chưa có ảnh",
-            "footer": "Loại nấm khổng lồ có thể cao bằng cả căn nhà. \"Một cái cây nấm — chỉ có ở nơi này.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Red_Mushroom.png",
+            "footer": "Loại nấm khổng lồ có thể cao bằng cả căn nhà. \"Một cái cây nấm - chỉ có ở nơi này.\""
           },
           {
             "ID": 5,
@@ -444,7 +444,7 @@
             "category": "Common",
             "size": 38,
             "sell": 1300,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Suspicious_Stew.png",
             "footer": "Món ăn chế từ nấm nâu và nấm đỏ trộn lẫn. \"Hồi phục cả bụng đói lẫn tinh thần.\""
           },
           {
@@ -453,7 +453,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 49400,
-            "image": "https://i.imgur.com/8UzxUUu.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Brown_Mushroom_Block.png",
             "footer": "Khối thân nấm cực lớn, hiếm khi xuất hiện nguyên vẹn. \"Đứng cạnh nó, bạn chỉ như một chú kiến.\""
           }
         ]
@@ -469,7 +469,7 @@
             "category": "Common",
             "size": 38,
             "sell": 1850,
-            "image": "https://i.imgur.com/XKv8I3a.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Stone.png",
             "footer": "Lớp nền lạnh giá dưới đáy vùng biển băng. \"Ngay cả đá cũng như đóng băng nơi đây.\""
           },
           {
@@ -478,7 +478,7 @@
             "category": "Common",
             "size": 38,
             "sell": 1850,
-            "image": "https://i.imgur.com/TF2q5Zp.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Cobblestone.png",
             "footer": "Phủ một lớp sương giá mỏng quanh năm. \"Lạnh đến mức cuốc cũng trở nên nặng nề.\""
           },
           {
@@ -487,7 +487,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 5920,
-            "image": "https://i.imgur.com/bHXBgAs.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Snow_Block.png",
             "footer": "Hình thành từ tuyết nén chặt qua nhiều lớp. \"Mềm mại nhưng giữ lạnh đến bất ngờ.\""
           },
           {
@@ -496,7 +496,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 20400,
-            "image": "https://i.imgur.com/UzsoFh6.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ice.png",
             "footer": "Lớp băng dễ vỡ hình thành trên mặt nước đóng băng. \"Bước nhẹ thôi, nó có thể nứt bất cứ lúc nào.\""
           },
           {
@@ -505,7 +505,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 20400,
-            "image": "https://i.imgur.com/oTDC0Pm.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Snow_(layers_7).png",
             "footer": "Lớp tuyết chất chồng qua nhiều mùa đông. \"Mỗi lớp tuyết là một câu chuyện của thời gian.\""
           },
           {
@@ -514,7 +514,7 @@
             "category": "Legendary",
             "size": 3,
             "sell": 296000,
-            "image": "https://i.imgur.com/Xd14qYH.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Packed_Ice.png",
             "footer": "Loại băng hiếm và cứng nhất, hình thành sâu trong băng hà. \"Trơn đến mức khiến cả người chơi dày dạn cũng trượt ngã.\""
           }
         ]
@@ -530,7 +530,7 @@
             "category": "Common",
             "size": 38,
             "sell": 2700,
-            "image": "https://i.imgur.com/XKv8I3a.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Stone.png",
             "footer": "Lớp nền chìm dưới áp lực nước sâu thẳm. \"Ánh sáng mặt trời không còn chạm tới nơi này.\""
           },
           {
@@ -539,7 +539,7 @@
             "category": "Common",
             "size": 38,
             "sell": 2700,
-            "image": "https://i.imgur.com/TF2q5Zp.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Cobblestone.png",
             "footer": "Nằm rải rác quanh những công trình đã chìm. \"Từng là một phần của thứ gì đó vĩ đại hơn.\""
           },
           {
@@ -548,16 +548,16 @@
             "category": "Common",
             "size": 38,
             "sell": 2700,
-            "image": "https://i.imgur.com/y2K6sBt.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Clay.png",
             "footer": "Lắng đọng dưới đáy biển qua hàng nghìn năm. \"Mềm mại nhưng ẩn chứa nhiều bí mật.\""
           },
           {
             "ID": 3,
-            "name": "Trầm Tích Sỏi",
+            "name": "Đá Trầm Tích",
             "category": "Common",
             "size": 38,
             "sell": 2700,
-            "image": "https://i.imgur.com/c3cnoMY.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Deepslate.png",
             "footer": "Hình thành từ cát và sỏi lắng tụ dưới đại dương. \"Đáy biển kể chuyện bằng từng lớp trầm tích.\""
           },
           {
@@ -566,7 +566,7 @@
             "category": "Common",
             "size": 38,
             "sell": 2700,
-            "image": "https://i.imgur.com/mFcEPJU.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Mossy_Stone_Bricks.png",
             "footer": "Đá cổ bị rêu biển bao phủ qua thời gian dài. \"Thiên nhiên đã dần lấy lại những gì con người để lại.\""
           },
           {
@@ -575,7 +575,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 8640,
-            "image": "https://i.imgur.com/kAehTE9.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Block_of_Gold.png",
             "footer": "Từng được dùng trang trí những con tàu hoặc đền đài cổ. \"Ánh vàng vẫn lấp lánh dù chìm sâu dưới nước.\""
           },
           {
@@ -584,7 +584,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 8640,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Tube_Coral_Block.png",
             "footer": "Rạn san hô đã hoá đá qua hàng thiên niên kỷ. \"Một mảng màu sắc hiếm hoi giữa đáy biển u tối.\""
           },
           {
@@ -593,7 +593,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 29700,
-            "image": "https://i.imgur.com/vGnhhHy.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Block_of_Diamond.png",
             "footer": "Hiếm khi được tìm thấy nguyên khối dưới những tàn tích chìm. \"Một kho báu thực sự xứng đáng với hành trình lặn sâu.\""
           },
           {
@@ -602,16 +602,16 @@
             "category": "Epic",
             "size": 6,
             "sell": 103000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Pearl_Oyster.png",
             "footer": "Loài trai khổng lồ từng sống ở vùng biển cổ đại. \"Bên trong nó có thể ẩn giấu một viên ngọc trai quý.\""
           },
           {
             "ID": 9,
-            "name": "Đèn Biển (Sea Lantern)",
+            "name": "Đèn Biển",
             "category": "Legendary",
             "size": 3,
             "sell": 432000,
-            "image": "https://i.imgur.com/g3yp6h7.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sea_Lantern.png",
             "footer": "Khối phát sáng đặc trưng của Tàn Tích Đại Dương. \"Ánh sáng duy nhất giữa lòng biển tối tăm.\""
           }
         ]
@@ -627,7 +627,7 @@
             "category": "Common",
             "size": 38,
             "sell": 3700,
-            "image": "https://i.imgur.com/PwM03Lx.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
             "footer": "Phủ lên những bậc thềm đá đã sụp đổ từ lâu. \"Thời gian đã chôn vùi cả một nền văn minh.\""
           },
           {
@@ -636,7 +636,7 @@
             "category": "Common",
             "size": 38,
             "sell": 3700,
-            "image": "https://i.imgur.com/TF2q5Zp.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Cobblestone.png",
             "footer": "Rơi vãi quanh những khối đá đổ nát. \"Tàn dư của một công trình từng vĩ đại.\""
           },
           {
@@ -645,17 +645,17 @@
             "category": "Common",
             "size": 38,
             "sell": 3700,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Blue_Dust.png",
             "footer": "Lớp bụi mịn phủ dày trên mọi bề mặt cổ xưa. \"Mỗi hạt bụi mang theo một phần lịch sử.\""
           },
           {
             "ID": 3,
-            "name": "Đá Khối Liền (Đá Nguyên Khối)",
+            "name": "Đá Khối Mịn",
             "category": "Uncommon",
             "size": 20,
             "sell": 11800,
-            "image": "https://i.imgur.com/6FeUkfs.png",
-            "footer": "Khối đá đặc biệt không thể chế tạo, chỉ có thể tìm thấy. \"Một báu vật quý với bất kỳ thợ xây nào.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Smooth_Stone.png",
+            "footer": "Khối đá đặc biệt có thể chế tạo. \"Một báu vật quý với bất kỳ thợ xây nào.\""
           },
           {
             "ID": 4,
@@ -663,7 +663,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 40700,
-            "image": "https://i.imgur.com/unnT9La.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Bone_Block.png",
             "footer": "Tàn tích của những sinh vật cổ đại đã hoá đá. \"Triệu năm đã trôi qua kể từ khi nó còn sống.\""
           },
           {
@@ -672,16 +672,16 @@
             "category": "Epic",
             "size": 6,
             "sell": 141000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Locked_Map.png",
             "footer": "Tấm bản đồ rách nát dẫn đến một kho báu bị lãng quên. \"Nếu đọc đúng, nó có thể đổi đời bạn.\""
           },
           {
             "ID": 6,
-            "name": "Khối Thờ Cúng (Đá Thờ)",
+            "name": "Gạch Đục Thờ Cúng",
             "category": "Epic",
             "size": 6,
             "sell": 141000,
-            "image": "https://i.imgur.com/ySBbfqN.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Chiseled_Stone_Bricks.png",
             "footer": "Phiến đá trung tâm của một khu khảo cổ cổ đại. \"Người xưa từng quỳ trước phiến đá này.\""
           }
         ]
@@ -697,7 +697,7 @@
             "category": "Common",
             "size": 38,
             "sell": 4900,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dark_Oak_Log.png",
             "footer": "Vật liệu xây dựng chủ đạo của những dinh thự bí ẩn. \"Tối tăm như chính những hành lang nó tạo nên.\""
           },
           {
@@ -706,7 +706,7 @@
             "category": "Common",
             "size": 38,
             "sell": 4900,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Blue_Carpet.png",
             "footer": "Trang trí sàn nhà quen thuộc trong các căn phòng cũ. \"Bụi phủ dày, nhưng hoạ tiết vẫn còn nguyên.\""
           },
           {
@@ -715,7 +715,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 15700,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Map.png",
             "footer": "Dẫn đường đến những công trình hiếm gặp trong thế giới. \"Một tấm bản đồ là cả một cơ hội.\""
           },
           {
@@ -724,7 +724,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 15700,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Iron_Axe.png",
             "footer": "Vũ khí quen thuộc của Vindicator canh gác dinh thự. \"Chủ nhân của nó hẳn đã không còn cần nó nữa.\""
           },
           {
@@ -733,7 +733,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 53900,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Vex_Charm.png",
             "footer": "Vật phẩm hiếm liên quan đến phép thuật triệu hồi Vex. \"Một thứ phép thuật mà bạn không nên tự ý thử.\""
           },
           {
@@ -742,7 +742,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 186000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Totem_of_Undying.png",
             "footer": "Vật phẩm hồi sinh huyền thoại, cực kỳ hiếm gặp. \"Một lần chết hụt, nhờ phép màu nhỏ bé này.\""
           }
         ]
@@ -754,11 +754,11 @@
         "creature": [
           {
             "ID": 0,
-            "name": "Đá Sâu Thẳm (Deepslate)",
+            "name": "Đá Sâu Thẳm",
             "category": "Common",
             "size": 38,
             "sell": 6300,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Deepslate.png",
             "footer": "Loại đá đặc trưng ở những tầng sâu nhất thế giới. \"Tối hơn, cứng hơn, và nguy hiểm hơn đá thường.\""
           },
           {
@@ -767,8 +767,8 @@
             "category": "Common",
             "size": 38,
             "sell": 6300,
-            "image": "chưa có ảnh",
-            "footer": "Lớp phủ kỳ lạ lan rộng quanh khu vực Tăm Tối. \"Im lặng — nó đang lắng nghe đấy.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sculk.png",
+            "footer": "Lớp phủ kỳ lạ lan rộng quanh khu vực Tăm Tối. \"Im lặng - nó đang lắng nghe đấy.\""
           },
           {
             "ID": 2,
@@ -776,16 +776,16 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 20200,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sculk_Sensor.png",
             "footer": "Phát hiện rung động và truyền tín hiệu redstone. \"Một bước đi bất cẩn, và nó sẽ biết ngay.\""
           },
           {
             "ID": 3,
-            "name": "Chuông Hét Sculk (Sculk Shrieker)",
+            "name": "Chuông Hét Sculk",
             "category": "Rare",
             "size": 11,
             "sell": 69300,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sculk_Shrieker.png",
             "footer": "Phát ra tiếng hét cảnh báo khi bị kích hoạt. \"Đừng để nó hét lên ba lần liên tiếp.\""
           },
           {
@@ -794,7 +794,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 239000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Copper_Chestplate.png",
             "footer": "Tàn tích áo giáp cổ xưa bị oxy hoá theo thời gian. \"Chủ nhân của nó là ai, không còn ai nhớ nữa.\""
           },
           {
@@ -803,7 +803,7 @@
             "category": "Legendary",
             "size": 3,
             "sell": 1010000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Warden_Skin.png",
             "footer": "Mảnh vảy hiếm rơi ra từ sinh vật đáng sợ nhất Deep Dark. \"Nếu bạn nhặt được nó, nghĩa là bạn đã sống sót.\""
           }
         ]
@@ -819,7 +819,7 @@
             "category": "Common",
             "size": 38,
             "sell": 8200,
-            "image": "https://i.imgur.com/PwM03Lx.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
             "footer": "Vùng đất nằm ở rìa xa nhất của bản đồ đã khám phá. \"Bản đồ kết thúc, nhưng đất vẫn còn đó.\""
           },
           {
@@ -828,7 +828,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 26200,
-            "image": "https://i.imgur.com/XKv8I3a.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Stone.png",
             "footer": "Lớp nền của thế giới tại những toạ độ cực hạn. \"Không ai từng đào đến tận đây trước bạn.\""
           },
           {
@@ -837,7 +837,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 90200,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Glitch_Block.png",
             "footer": "Hiện tượng dựng hình bất thường tại vùng xa của thế giới. \"Thế giới dường như đang cố tự sửa chính nó.\""
           },
           {
@@ -846,7 +846,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 26200,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Failed_Loading_Chunk.png",
             "footer": "Dữ liệu vùng đất bị lỗi do sinh thế giới ở khoảng cách cực xa. \"Một mảnh ghép không nên tồn tại, nhưng nó vẫn ở đây.\""
           }
         ]
@@ -867,7 +867,7 @@
             "category": "Common",
             "size": 38,
             "sell": 11000,
-            "image": "https://i.imgur.com/Pzu9xiT.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Brick.png",
             "footer": "Vật liệu xây dựng chủ đạo của các pháo đài Nether. \"Đỏ thẫm như chính ngọn lửa bao quanh nó.\""
           },
           {
@@ -876,7 +876,7 @@
             "category": "Common",
             "size": 38,
             "sell": 11000,
-            "image": "https://i.imgur.com/hmpZFNN.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Chiseled_Nether_Bricks.png",
             "footer": "Phiên bản trang trí với hoạ tiết của gạch Nether. \"Một dấu ấn nghệ thuật giữa lò lửa địa ngục.\""
           },
           {
@@ -885,16 +885,16 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 35200,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Blaze_Powder.png",
             "footer": "Rơi ra từ Blaze, dùng để chế nước nổ hoặc đốt Ender Pearl. \"Vẫn còn ấm khi bạn nhặt lên.\""
           },
           {
             "ID": 3,
-            "name": "Quặng Vàng Nether (Nether Gold Ore)",
+            "name": "Quặng Vàng Nether",
             "category": "Common",
             "size": 38,
             "sell": 11000,
-            "image": "https://i.imgur.com/zehWGoZ.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Gold_Ore.png",
             "footer": "Biến thể quặng vàng chỉ xuất hiện trong Nether. \"Ánh vàng le lói giữa lớp đá đỏ thẫm.\""
           },
           {
@@ -903,7 +903,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 121000,
-            "image": "https://i.imgur.com/2lk1JeN.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Quartz_Ore.png",
             "footer": "Khoáng sản trắng đặc trưng chỉ có ở Nether. \"Một chút ánh sáng tinh khiết giữa biển lửa.\""
           },
           {
@@ -912,16 +912,16 @@
             "category": "Rare",
             "size": 11,
             "sell": 121000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/TNT.png",
             "footer": "Ngay cả ở Nether, thuốc nổ vẫn nguy hiểm như thường. \"Một tia lửa nhỏ là đủ để mọi thứ bốc cháy.\""
           },
           {
             "ID": 6,
-            "name": "Mảnh Vỡ Cổ Đại (Ancient Debris)",
+            "name": "Mảnh Vỡ Cổ Đại",
             "category": "Legendary",
             "size": 3,
             "sell": 1760000,
-            "image": "https://i.imgur.com/JJwen49.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris.png",
             "footer": "Khoáng sản hiếm nhất Nether, nguyên liệu chế Netherite. \"Cả pháo đài này cũng không quý bằng một mảnh nhỏ của nó.\""
           }
         ]
@@ -937,7 +937,7 @@
             "category": "Common",
             "size": 38,
             "sell": 15000,
-            "image": "https://i.imgur.com/2lk1JeN.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Quartz_Ore.png",
             "footer": "Mọc dày đặc trên những vách đá xanh kỳ lạ. \"Ánh trắng nổi bật giữa một thế giới toàn xanh.\""
           },
           {
@@ -946,16 +946,16 @@
             "category": "Common",
             "size": 38,
             "sell": 15000,
-            "image": "https://i.imgur.com/LY4UIG8.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Warped_Stem.png",
             "footer": "Thân cây xanh đặc trưng của vùng đất Vặn Xoắn. \"Một sắc xanh lạ lùng giữa thế giới đỏ rực Nether.\""
           },
           {
             "ID": 2,
-            "name": "Cát Linh Hồn (Soul Sand)",
+            "name": "Cát Linh Hồn",
             "category": "Uncommon",
             "size": 20,
             "sell": 48000,
-            "image": "https://i.imgur.com/kF12cBQ.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Soul_Sand.png",
             "footer": "Khiến vật rơi xuống nó di chuyển chậm hẳn lại. \"Một tiếng rên khe khẽ vọng ra mỗi khi bạn bước qua.\""
           },
           {
@@ -964,7 +964,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 165000,
-            "image": "https://i.imgur.com/pHRTy2l.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Obsidian.png",
             "footer": "Khối đá cứng nhất hình thành khi dung nham gặp nước. \"Chỉ cuốc kim cương trở lên mới phá nổi nó.\""
           },
           {
@@ -973,17 +973,17 @@
             "category": "Epic",
             "size": 6,
             "sell": 570000,
-            "image": "https://i.imgur.com/tjJgtol.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Crying_Obsidian.png",
             "footer": "Phiên bản đặc biệt của Obsidian, luôn rỉ những giọt tím. \"Người ta nói nó đang khóc cho điều gì đó đã mất.\""
           },
           {
             "ID": 5,
-            "name": "Mảnh Vỡ Cổ Đại (Ancient Debris)",
+            "name": "Mảnh Vỡ Cổ Đại",
             "category": "Legendary",
             "size": 3,
             "sell": 2400000,
-            "image": "https://i.imgur.com/JJwen49.png",
-            "footer": "Ẩn sâu dưới lớp cát linh hồn của vùng đất này. \"Kháng lửa hoàn toàn — chẳng dung nham nào làm hại được nó.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris.png",
+            "footer": "Ẩn sâu dưới lớp cát linh hồn của vùng đất này. \"Kháng lửa hoàn toàn - chẳng dung nham nào làm hại được nó.\""
           }
         ]
       },
@@ -998,7 +998,7 @@
             "category": "Common",
             "size": 38,
             "sell": 20500,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Crimson_Stem.png",
             "footer": "Thân cây đỏ thẫm đặc trưng của khu rừng kỳ lạ này. \"Một khu rừng mà màu xanh không hề tồn tại.\""
           },
           {
@@ -1007,8 +1007,8 @@
             "category": "Common",
             "size": 38,
             "sell": 20500,
-            "image": "https://i.imgur.com/2lk1JeN.png",
-            "footer": "Lấp lánh giữa những thân cây đỏ thẫm cao vút. \"Ánh trắng giữa biển đỏ — dễ nhận ra từ xa.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Quartz_Ore.png",
+            "footer": "Lấp lánh giữa những thân cây đỏ thẫm cao vút. \"Ánh trắng giữa biển đỏ - dễ nhận ra từ xa.\""
           },
           {
             "ID": 2,
@@ -1016,7 +1016,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 65600,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Weeping_Vines_Plant.png",
             "footer": "Loại quả phát sáng nhẹ, mọc trên dây leo rũ xuống. \"Một nguồn sáng nhỏ giữa rừng tối đỏ thẫm.\""
           },
           {
@@ -1025,7 +1025,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 65600,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Huge_Crimson_fungi.png",
             "footer": "Cây nấm cỡ lớn đặc trưng của Rừng Đỏ Thẫm. \"To đến mức có thể dùng làm nhà tạm.\""
           },
           {
@@ -1034,7 +1034,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 226000,
-            "image": "https://i.imgur.com/pHRTy2l.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Obsidian.png",
             "footer": "Hình thành tại những hồ dung nham rải rác trong rừng. \"Đen tuyền, lạnh lẽo, đối lập hoàn toàn với màu đỏ xung quanh.\""
           },
           {
@@ -1043,16 +1043,16 @@
             "category": "Epic",
             "size": 6,
             "sell": 779000,
-            "image": "https://i.imgur.com/tjJgtol.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Crying_Obsidian.png",
             "footer": "Hiếm hơn Obsidian thường, dùng chế tạo Bệ Hồi Sinh. \"Một thành phần không thể thiếu cho hành trình về lại Overworld.\""
           },
           {
             "ID": 6,
-            "name": "Mảnh Vỡ Cổ Đại (Ancient Debris)",
+            "name": "Mảnh Vỡ Cổ Đại",
             "category": "Legendary",
             "size": 3,
             "sell": 3280000,
-            "image": "https://i.imgur.com/JJwen49.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris.png",
             "footer": "Càng sâu trong rừng, càng dễ tìm thấy khoáng sản này. \"Mỗi mảnh tìm được đều đáng cả một chuyến đi mạo hiểm.\""
           }
         ]
@@ -1064,20 +1064,20 @@
         "creature": [
           {
             "ID": 0,
-            "name": "Đất Nether (Netherrack)",
+            "name": "Đất Nether",
             "category": "Common",
             "size": 38,
             "sell": 27500,
-            "image": "https://i.imgur.com/gLYYk05.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Netherrack.png",
             "footer": "Loại đá đỏ phủ khắp bề mặt của Nether. \"Dễ cháy, dễ đào, và có ở khắp mọi nơi.\""
           },
           {
             "ID": 1,
-            "name": "Cát Linh Hồn (Soul Sand)",
+            "name": "Cát Linh Hồn",
             "category": "Uncommon",
             "size": 20,
             "sell": 88000,
-            "image": "https://i.imgur.com/kF12cBQ.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Soul_Sand.png",
             "footer": "Tụ lại thành từng thung lũng quanh các tàn tích cổ. \"Tiếng rên rỉ vọng lên từ những linh hồn đã mất.\""
           },
           {
@@ -1086,7 +1086,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 302000,
-            "image": "https://i.imgur.com/pHRTy2l.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Obsidian.png",
             "footer": "Trụ cột còn sót lại của những công trình đã sụp đổ. \"Bền vững hơn cả thời gian đã trôi qua nơi này.\""
           },
           {
@@ -1095,7 +1095,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 302000,
-            "image": "https://i.imgur.com/2lk1JeN.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Quartz_Ore.png",
             "footer": "Mọc xen giữa những phiến đá đổ nát cổ xưa. \"Một viên ngọc trắng giữa đống hoang tàn.\""
           },
           {
@@ -1104,7 +1104,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 1040000,
-            "image": "https://i.imgur.com/tjJgtol.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Crying_Obsidian.png",
             "footer": "Tập trung dày đặc quanh khu vực trung tâm tàn tích. \"Như thể cả khu tàn tích này đang thương tiếc điều gì.\""
           },
           {
@@ -1113,16 +1113,16 @@
             "category": "Epic",
             "size": 6,
             "sell": 1040000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Soul_Lantern.png",
             "footer": "Vật phát sáng xanh đặc trưng, chế từ lửa linh hồn. \"Ánh sáng lạnh lẽo nhưng vẫn xua tan bóng tối.\""
           },
           {
             "ID": 6,
-            "name": "Mảnh Vỡ Cổ Đại (Ancient Debris)",
+            "name": "Mảnh Vỡ Cổ Đại",
             "category": "Legendary",
             "size": 3,
             "sell": 4400000,
-            "image": "https://i.imgur.com/JJwen49.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris.png",
             "footer": "Tàn tích cổ đại là nơi hiếm hoi còn sót lại nhiều mảnh nguyên vẹn. \"Người xưa hẳn đã từng khai thác chính nơi này.\""
           }
         ]
@@ -1134,11 +1134,11 @@
         "creature": [
           {
             "ID": 0,
-            "name": "Đất Nether (Netherrack)",
+            "name": "Đất Nether",
             "category": "Common",
             "size": 38,
             "sell": 36000,
-            "image": "https://i.imgur.com/gLYYk05.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Netherrack.png",
             "footer": "Bao quanh những dòng sông dung nham bất tận. \"Chỉ cách dung nham vài bước chân, nhưng vẫn đứng vững.\""
           },
           {
@@ -1147,7 +1147,7 @@
             "category": "Common",
             "size": 38,
             "sell": 36000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Basalt.png",
             "footer": "Khối đá đen hình thành gần các vùng đất Bazan Delta. \"Cứng cáp, lạnh lùng, im lặng giữa biển lửa.\""
           },
           {
@@ -1156,7 +1156,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 396000,
-            "image": "https://i.imgur.com/2lk1JeN.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Quartz_Ore.png",
             "footer": "Ánh lên giữa ánh sáng cam đỏ của dung nham. \"Trắng tinh khôi giữa thứ ánh sáng dữ dội nhất Nether.\""
           },
           {
@@ -1165,7 +1165,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 396000,
-            "image": "https://i.imgur.com/pHRTy2l.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Obsidian.png",
             "footer": "Hình thành ngay tại nơi dung nham tiếp xúc với nước. \"Sinh ra từ chính ranh giới giữa lửa và nước.\""
           },
           {
@@ -1174,7 +1174,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 1370000,
-            "image": "https://i.imgur.com/tjJgtol.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Crying_Obsidian.png",
             "footer": "Hiếm gặp dọc theo bờ của những dòng sông lửa. \"Một giọt tím giữa cả biển màu cam rực.\""
           },
           {
@@ -1183,16 +1183,16 @@
             "category": "Rare",
             "size": 11,
             "sell": 396000,
-            "image": "chưa có ảnh",
-            "footer": "Tàn dư còn lại sau cuộc đụng độ với Ghast. \"Nó từng bay thẳng về phía bạn — giờ thì không còn nữa.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Fire_Charge.png",
+            "footer": "Tàn dư còn lại sau cuộc đụng độ với Ghast. \"Nó từng bay thẳng về phía bạn - giờ thì không còn nữa.\""
           },
           {
             "ID": 6,
-            "name": "Mảnh Vỡ Cổ Đại (Ancient Debris)",
+            "name": "Mảnh Vỡ Cổ Đại",
             "category": "Legendary",
             "size": 3,
             "sell": 5760000,
-            "image": "https://i.imgur.com/JJwen49.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris.png",
             "footer": "Ẩn mình dưới lớp đá gần các mạch dung nham nóng nhất. \"Đào được nó ở đây đồng nghĩa bạn đã liều cả mạng sống.\""
           }
         ]
@@ -1208,8 +1208,8 @@
             "category": "Common",
             "size": 38,
             "sell": 47000,
-            "image": "chưa có ảnh",
-            "footer": "Vật liệu xây dựng chủ đạo của pháo đài Piglin. \"Bóng loáng, vững chãi — đúng kiểu kiến trúc Piglin.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Polished_Basalt.png",
+            "footer": "Vật liệu xây dựng chủ đạo của pháo đài Piglin. \"Bóng loáng, vững chãi - đúng kiểu kiến trúc Piglin.\""
           },
           {
             "ID": 1,
@@ -1217,16 +1217,16 @@
             "category": "Common",
             "size": 38,
             "sell": 47000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Blackstone.png",
             "footer": "Khối đá đen tuyền dùng để xây nên Pháo Đài Heo. \"Một màu đen lạnh lùng bao trùm cả công trình.\""
           },
           {
             "ID": 2,
-            "name": "Đá Phát Sáng (Glowstone)",
+            "name": "Đá Phát Sáng",
             "category": "Uncommon",
             "size": 20,
             "sell": 150000,
-            "image": "https://i.imgur.com/hZ6cxrU.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Glowstone.png",
             "footer": "Khối phát sáng tự nhiên, treo lủng lẳng khắp pháo đài. \"Ánh vàng ấm áp giữa thế giới đỏ rực.\""
           },
           {
@@ -1235,8 +1235,8 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 150000,
-            "image": "chưa có ảnh",
-            "footer": "Vật phẩm dùng để đổi chác và xoa dịu lũ Piglin. \"Đưa vàng ra, chúng sẽ để bạn yên — tạm thời thôi.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Gold_Ingot.png",
+            "footer": "Vật phẩm dùng để đổi chác và xoa dịu lũ Piglin. \"Đưa vàng ra, chúng sẽ để bạn yên - tạm thời thôi.\""
           },
           {
             "ID": 4,
@@ -1244,25 +1244,25 @@
             "category": "Rare",
             "size": 11,
             "sell": 517000,
-            "image": "https://i.imgur.com/2lk1JeN.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Quartz_Ore.png",
             "footer": "Lẫn trong những bức tường bazan của pháo đài. \"Kẻ canh gác nơi này chẳng buồn để ý đến nó.\""
           },
           {
             "ID": 5,
-            "name": "Yên Cương (Saddle)",
+            "name": "Yên Cưỡi (Saddle)",
             "category": "Rare",
             "size": 11,
             "sell": 517000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Saddle.png",
             "footer": "Vật phẩm hiếm thường tìm thấy trong rương kho báu pháo đài. \"Một món đồ quý mà Piglin Brute canh giữ cẩn mật.\""
           },
           {
             "ID": 6,
-            "name": "Mảnh Vỡ Cổ Đại (Ancient Debris)",
+            "name": "Mảnh Vỡ Cổ Đại",
             "category": "Legendary",
             "size": 3,
             "sell": 7520000,
-            "image": "https://i.imgur.com/JJwen49.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris.png",
             "footer": "Đôi khi lẫn trong kho báu chất đầy của lũ Piglin. \"Chúng tích trữ nó mà không hề biết giá trị thật.\""
           }
         ]
@@ -1278,16 +1278,16 @@
             "category": "Common",
             "size": 38,
             "sell": 60000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Basalt.png",
             "footer": "Hình thành thành từng cột đá đặc trưng của vùng Delta. \"Mỗi cột đá như một cây cột chống đỡ Nether.\""
           },
           {
             "ID": 1,
-            "name": "Đất Nether (Netherrack)",
+            "name": "Đất Nether",
             "category": "Common",
             "size": 38,
             "sell": 60000,
-            "image": "https://i.imgur.com/gLYYk05.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Netherrack.png",
             "footer": "Phủ kín những ngọn đồi tro tàn của khu vực này. \"Tro bụi bay khắp nơi, không lúc nào ngừng.\""
           },
           {
@@ -1296,16 +1296,16 @@
             "category": "Rare",
             "size": 11,
             "sell": 660000,
-            "image": "https://i.imgur.com/2lk1JeN.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Quartz_Ore.png",
             "footer": "Ẩn giữa lớp đá bazan đen tuyền dày đặc. \"Phải đào sâu mới thấy được ánh trắng của nó.\""
           },
           {
             "ID": 3,
-            "name": "Cát Linh Hồn (Soul Sand)",
+            "name": "Cát Linh Hồn",
             "category": "Uncommon",
             "size": 20,
             "sell": 192000,
-            "image": "https://i.imgur.com/kF12cBQ.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Soul_Sand.png",
             "footer": "Tạo thành những vùng đất rộng giữa các cột bazan. \"Bước đi ở đây luôn chậm hơn bình thường.\""
           },
           {
@@ -1314,7 +1314,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 660000,
-            "image": "https://i.imgur.com/pHRTy2l.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Obsidian.png",
             "footer": "Hình thành tại nơi dung nham phun trào gặp nước ngầm. \"Một dấu vết còn sót lại sau những vụ phun trào.\""
           },
           {
@@ -1323,7 +1323,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 2280000,
-            "image": "https://i.imgur.com/tjJgtol.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Crying_Obsidian.png",
             "footer": "Hiếm hoi lẫn trong tro núi lửa của vùng Delta. \"Giữa đống tro tàn, nó vẫn rỉ ra ánh tím lặng lẽ.\""
           },
           {
@@ -1332,16 +1332,16 @@
             "category": "Rare",
             "size": 11,
             "sell": 660000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/TNT.png",
             "footer": "Một khối thuốc nổ lạc lõng giữa vùng đất núi lửa. \"Ở nơi đã đầy rẫy hiểm nguy, nó chỉ thêm phần nguy hiểm.\""
           },
           {
             "ID": 7,
-            "name": "Mảnh Vỡ Cổ Đại (Ancient Debris)",
+            "name": "Mảnh Vỡ Cổ Đại",
             "category": "Legendary",
             "size": 3,
             "sell": 9600000,
-            "image": "https://i.imgur.com/JJwen49.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris.png",
             "footer": "Tập trung nhiều bất thường tại đáy của các vực Delta. \"Núi lửa phun trào đã vô tình phơi bày kho báu này.\""
           }
         ]
@@ -1357,7 +1357,7 @@
             "category": "Common",
             "size": 38,
             "sell": 78000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Magma_Block.png",
             "footer": "Khối đá tím sậm gây sát thương khi đứng lên trên. \"Một khối đá tưởng vô hại nhưng lại nóng bỏng.\""
           },
           {
@@ -1366,7 +1366,7 @@
             "category": "Common",
             "size": 38,
             "sell": 78000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Basalt.png",
             "footer": "Bao quanh những hồ magma sôi sục không ngừng. \"Hơi nóng bốc lên làm méo cả không khí xung quanh.\""
           },
           {
@@ -1375,7 +1375,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 250000,
-            "image": "https://i.imgur.com/2lk1JeN.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Quartz_Ore.png",
             "footer": "Hiếm khi sống sót gần những hồ magma nóng nhất. \"Tìm được nó ở đây là cả một kỳ tích.\""
           },
           {
@@ -1384,7 +1384,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 858000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Magma_Cream.png",
             "footer": "Rơi ra từ Magma Cube, dùng chế Thuốc Kháng Lửa. \"Nóng bỏng tay nếu không cẩn thận khi nhặt.\""
           },
           {
@@ -1393,16 +1393,16 @@
             "category": "Epic",
             "size": 6,
             "sell": 2960000,
-            "image": "https://i.imgur.com/tjJgtol.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Crying_Obsidian.png",
             "footer": "Tồn tại kỳ lạ giữa nhiệt độ khắc nghiệt nhất Nether. \"Không hiểu sao nó vẫn lạnh dù ở giữa lò lửa này.\""
           },
           {
             "ID": 5,
-            "name": "Mảnh Vỡ Cổ Đại (Ancient Debris)",
+            "name": "Mảnh Vỡ Cổ Đại",
             "category": "Legendary",
             "size": 3,
             "sell": 12480000,
-            "image": "https://i.imgur.com/JJwen49.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris.png",
             "footer": "Phần thưởng cho ai dám tiến sâu vào lò magma nguy hiểm nhất. \"Không phải thợ mỏ nào cũng dám đào tới đây.\""
           },
           {
@@ -1411,7 +1411,7 @@
             "category": "Mythical",
             "size": 2,
             "sell": 70200000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Netherite_Ingot.png",
             "footer": "Vật liệu mạnh nhất trò chơi, nung từ Mảnh Vỡ Cổ Đại và Vàng. \"Mọi thợ rèn vĩ đại đều mơ về một thỏi Netherite của riêng mình.\""
           }
         ]
@@ -1432,7 +1432,7 @@
             "category": "Common",
             "size": 38,
             "sell": 100000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/End_Stone.png",
             "footer": "Loại đá vàng nhạt duy nhất tồn tại tại The End. \"Một thế giới hoàn toàn khác, ngay cả đá cũng vậy.\""
           },
           {
@@ -1441,34 +1441,34 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 320000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Destroyed_Obsidian.png",
             "footer": "Tàn tích của những trụ pha lê từng giam giữ Ender Dragon. \"Chúng từng phát ra ánh sáng tím đầy uy lực.\""
           },
           {
             "ID": 2,
-            "name": "Ngọc Trai Ender (Ender Pearl)",
+            "name": "Ngọc Ender",
             "category": "Rare",
             "size": 11,
             "sell": 1100000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ender_Pearl.png",
             "footer": "Rơi ra từ Enderman, dùng để dịch chuyển tức thời. \"Ném đi, và bạn sẽ ở một nơi hoàn toàn khác.\""
           },
           {
             "ID": 3,
-            "name": "Mắt Ender (Eye of Ender)",
+            "name": "Mắt Ender",
             "category": "Epic",
             "size": 6,
             "sell": 3800000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Eye_of_Ender.png",
             "footer": "Vật phẩm dẫn đường đến pháo đài và kích hoạt cổng The End. \"Nó luôn biết phải bay về hướng nào.\""
           },
           {
             "ID": 4,
-            "name": "Trứng Rồng (Dragon Egg)",
+            "name": "Trứng Rồng",
             "category": "Mythical",
             "size": 2,
             "sell": 90000000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dragon_Egg.png",
             "footer": "Chiến lợi phẩm duy nhất sau khi hạ gục Ender Dragon. \"Chỉ có một quả duy nhất trong toàn bộ thế giới của bạn.\""
           }
         ]
@@ -1484,25 +1484,25 @@
             "category": "Common",
             "size": 38,
             "sell": 135000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Purpur_Block.png",
             "footer": "Vật liệu xây dựng tím đặc trưng của các Thành Phố Tận Thế. \"Một sắc tím lạ lẫm so với mọi nơi khác trong thế giới.\""
           },
           {
             "ID": 1,
-            "name": "Đèn Lồng Cuối (End Rod)",
+            "name": "Đèn Lồng Kết Thúc (End Rod)",
             "category": "Uncommon",
             "size": 20,
             "sell": 432000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/End_Rod.png",
             "footer": "Cột phát sáng trang trí khắp các Thành Phố Tận Thế. \"Ánh sáng trắng dịu giữa không gian tím thẫm.\""
           },
           {
             "ID": 2,
-            "name": "Vỏ Shulker (Shulker Shell)",
+            "name": "Vỏ Shulker",
             "category": "Rare",
             "size": 11,
             "sell": 1480000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Shulker_Shell.png",
             "footer": "Rơi ra khi tiêu diệt Shulker, dùng chế Shulker Box. \"Một chiếc hộp có thể mang theo cả kho đồ của bạn.\""
           },
           {
@@ -1511,7 +1511,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 5130000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Elytra.png",
             "footer": "Trang bị huyền thoại cho phép bay lượn tự do. \"Tìm thấy nó, và bầu trời không còn là giới hạn.\""
           }
         ]
@@ -1527,7 +1527,7 @@
             "category": "Common",
             "size": 38,
             "sell": 190000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/End_Stone.png",
             "footer": "Trải dài trên những hòn đảo trôi nổi xa xôi nhất. \"Càng xa trung tâm, đảo càng thưa thớt và hoang vắng.\""
           },
           {
@@ -1536,7 +1536,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 608000,
-            "image": "https://i.imgur.com/8o1Hfzf.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Chorus_Plant.png",
             "footer": "Loài cây kỳ lạ duy nhất mọc được trên Đá Kết Thúc. \"Vặn vẹo, kỳ dị, nhưng là sự sống duy nhất nơi đây.\""
           },
           {
@@ -1545,7 +1545,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 2090000,
-            "image": "https://i.imgur.com/2MKF1aE.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Chorus_Flower.png",
             "footer": "Phần ngọn của cây Chorus, dùng để nhân giống. \"Một đoá hoa tím nở giữa vùng đất chết.\""
           },
           {
@@ -1554,7 +1554,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 7220000,
-            "image": "https://i.imgur.com/VuLnzT8.png",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Chorus_Fruit.png",
             "footer": "Ăn vào sẽ dịch chuyển ngẫu nhiên đến vị trí gần đó. \"Một miếng cắn có thể đưa bạn đi bất cứ đâu.\""
           }
         ]
@@ -1570,7 +1570,7 @@
             "category": "Common",
             "size": 38,
             "sell": 270000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/End_Stone.png",
             "footer": "Rìa cuối cùng của vùng đất trước khi rơi vào hư không. \"Một bước sai, và bạn sẽ rơi mãi mãi.\""
           },
           {
@@ -1579,43 +1579,43 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 864000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/End_Stone_Bricks.png",
             "footer": "Phiên bản chế tác từ Đá Kết Thúc, dùng trong xây dựng. \"Bền vững hơn cả phiên bản thô của nó.\""
           },
           {
             "ID": 2,
-            "name": "Vỏ Shulker (Shulker Shell)",
+            "name": "Vỏ Shulker",
             "category": "Rare",
             "size": 11,
             "sell": 2970000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Shulker_Shell.png",
             "footer": "Hiếm hoi sót lại từ những Shulker lang thang nơi vực thẳm. \"Một chiến lợi phẩm xứng đáng giữa nơi nguy hiểm này.\""
           },
           {
             "ID": 3,
-            "name": "Sao Nether (Nether Star)",
+            "name": "Sao Nether",
             "category": "Epic",
             "size": 6,
             "sell": 10260000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Star.png",
             "footer": "Phần thưởng từ Wither, nguyên liệu chế tạo Beacon. \"Một ngôi sao nhỏ phát ra năng lượng vô tận.\""
           },
           {
             "ID": 4,
-            "name": "Đầu Rồng Ender (Dragon Head)",
+            "name": "Đầu Rồng Ender",
             "category": "Legendary",
             "size": 3,
             "sell": 43200000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dragon_Head.png",
             "footer": "Chiến lợi phẩm cực hiếm gắn liền với Ender Dragon. \"Một biểu tượng chiến thắng mà ít ai từng sở hữu.\""
           },
           {
             "ID": 5,
-            "name": "Trứng Rồng (Dragon Egg)",
+            "name": "Trứng Rồng",
             "category": "Mythical",
             "size": 2,
             "sell": 243000000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dragon_Egg.png",
             "footer": "Hiện diện hiếm hoi thứ hai của báu vật huyền thoại này. \"Đứng trước vực thẳm, nó vẫn toả ra một uy lực khó tả.\""
           }
         ]
@@ -1636,7 +1636,7 @@
             "category": "Common",
             "size": 38,
             "sell": 320000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Deepslate.png",
             "footer": "Loại đá nền cứng nhất ở những toạ độ cực hạn của thế giới. \"Thế giới sinh ra càng xa, địa hình càng kỳ dị.\""
           },
           {
@@ -1645,7 +1645,7 @@
             "category": "Common",
             "size": 38,
             "sell": 320000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/End_Stone.png",
             "footer": "Bất thường xuất hiện lẫn ở vùng rìa xa nhất bản đồ. \"Hai thế giới dường như giao thoa tại đây.\""
           },
           {
@@ -1654,25 +1654,25 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 1020000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Deepslate_Diamond_Ore.png",
             "footer": "Biến thể quặng kim cương hiếm ở tầng đá sâu thẳm. \"Vẫn lấp lánh, dù lớp vỏ ngoài đã đổi khác.\""
           },
           {
             "ID": 3,
-            "name": "Mảnh Vỡ Cổ Đại (Ancient Debris)",
+            "name": "Mảnh Vỡ Cổ Đại",
             "category": "Rare",
             "size": 11,
             "sell": 3520000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Debris.png",
             "footer": "Lạc lõng xuất hiện tại nơi không ai ngờ tới. \"Làm sao nó đến được tận đây, không ai lý giải nổi.\""
           },
           {
             "ID": 4,
-            "name": "Sao Nether (Nether Star)",
+            "name": "Sao Nether",
             "category": "Epic",
             "size": 6,
             "sell": 12160000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Star.png",
             "footer": "Một ngôi sao năng lượng trôi dạt đến tận rìa thế giới. \"Ánh sáng của nó dẫn lối cho những kẻ lạc đường.\""
           }
         ]
@@ -1688,7 +1688,7 @@
             "category": "Common",
             "size": 38,
             "sell": 480000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Deepslate.png",
             "footer": "Lớp đá dày đặc tại độ sâu chưa từng được khám phá. \"Càng xuống sâu, ánh sáng càng trở nên xa xỉ.\""
           },
           {
@@ -1697,16 +1697,16 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 1540000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Deepslate_Emerald_Ore.png",
             "footer": "Biến thể hiếm của ngọc lục bảo tại tầng đá sâu nhất. \"Một viên ngọc xanh giữa bóng tối tuyệt đối.\""
           },
           {
             "ID": 2,
-            "name": "Vỏ Shulker (Shulker Shell)",
+            "name": "Vỏ Shulker",
             "category": "Rare",
             "size": 11,
             "sell": 5280000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Shulker_Shell.png",
             "footer": "Trôi dạt đến tận vực sâu này từ những vùng đất xa xôi. \"Một mảnh ký ức còn sót lại của The End.\""
           },
           {
@@ -1715,7 +1715,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 18240000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Netherite_Ingot.png",
             "footer": "Hiếm hoi tồn tại ở độ sâu vượt xa mọi giới hạn thông thường. \"Sức nóng của Nether dường như vẫn còn vương lại.\""
           },
           {
@@ -1724,7 +1724,7 @@
             "category": "Legendary",
             "size": 3,
             "sell": 76800000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Totem_of_Undying.png",
             "footer": "Vật phẩm hồi sinh huyền thoại, cực kỳ hiếm thấy ở độ sâu này. \"Một phép màu nhỏ giữ bạn lại với thế giới.\""
           }
         ]
@@ -1740,34 +1740,34 @@
             "category": "Common",
             "size": 38,
             "sell": 750000,
-            "image": "chưa có ảnh",
-            "footer": "Địa hình vỡ vụn bất thường tại vùng huyền thoại Far Lands. \"Far Lands — nơi mà bản đồ thế giới không còn ý nghĩa.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/End_Stone.png",
+            "footer": "Địa hình vỡ vụn bất thường tại vùng huyền thoại Far Lands. \"Far Lands - nơi mà bản đồ thế giới không còn ý nghĩa.\""
           },
           {
             "ID": 1,
-            "name": "Vỏ Shulker (Shulker Shell)",
+            "name": "Vỏ Shulker",
             "category": "Uncommon",
             "size": 20,
             "sell": 2400000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Shulker_Shell.png",
             "footer": "Tập trung dày đặc khác thường tại lõi của Far Lands. \"Như thể cả thế giới đã dồn báu vật về đây.\""
           },
           {
             "ID": 2,
-            "name": "Sao Nether (Nether Star)",
+            "name": "Sao Nether",
             "category": "Rare",
             "size": 11,
             "sell": 8250000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Star.png",
             "footer": "Trôi nổi tự do giữa địa hình kỳ dị của Far Lands. \"Ánh sáng của nó không thuộc về bất kỳ chiều nào quen thuộc.\""
           },
           {
             "ID": 3,
-            "name": "Đầu Rồng Ender (Dragon Head)",
+            "name": "Đầu Rồng Ender",
             "category": "Epic",
             "size": 6,
             "sell": 28500000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dragon_Head.png",
             "footer": "Một chiến lợi phẩm hiếm bị cuốn trôi đến tận rìa thế giới. \"Ngay cả Ender Dragon cũng không ngờ tới nơi này.\""
           },
           {
@@ -1776,16 +1776,16 @@
             "category": "Legendary",
             "size": 3,
             "sell": 120000000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Beacon.png",
             "footer": "Khối phát ra cột sáng xuyên thấu bầu trời, cực hiếm. \"Một cột sáng dẫn đường giữa vùng đất không quy luật.\""
           },
           {
             "ID": 5,
-            "name": "Trứng Rồng (Dragon Egg)",
+            "name": "Trứng Rồng",
             "category": "Mythical",
             "size": 2,
             "sell": 675000000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dragon_Head.png",
             "footer": "Bản sao huyền thoại thứ ba, trôi dạt đến tận biên giới thực tại. \"Đứng tại Lõi Far Lands, bạn đang chạm vào giới hạn cuối cùng của thế giới.\""
           }
         ]
@@ -1806,7 +1806,7 @@
             "category": "Common",
             "size": 38,
             "sell": 1100000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/White_Wool.png",
             "footer": "Mềm mại như mây, thường được dùng để dựng những hòn đảo bồng bềnh. \"Nhẹ tênh như chính bầu trời bao quanh nó.\""
           },
           {
@@ -1815,7 +1815,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 3520000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Feather.png",
             "footer": "Rơi ra từ những đàn gà bay lượn trên cao. \"Nhẹ đến mức gió cũng có thể cuốn đi bất cứ lúc nào.\""
           },
           {
@@ -1824,7 +1824,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 12100000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Elytra.png",
             "footer": "Trang bị bay lượn hiếm có, phù hợp hoàn hảo với Đảo Mây. \"Ở nơi cao thế này, có cánh mới là điều hợp lý.\""
           },
           {
@@ -1833,7 +1833,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 41800000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Beacon.png",
             "footer": "Toả sáng rực rỡ giữa biển mây trắng xoá. \"Ánh sáng của nó có thể thấy được từ rất xa bên dưới.\""
           }
         ]
@@ -1849,7 +1849,7 @@
             "category": "Common",
             "size": 38,
             "sell": 1700000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Calcite.png",
             "footer": "Khối đá trắng sáng tạo nên vẻ thanh khiết của thánh địa. \"Một sắc trắng tinh khôi hiếm thấy ở nơi khác.\""
           },
           {
@@ -1858,7 +1858,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 5440000,
-            "image": "https://i.imgur.com/hZ6cxrU.jpg",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Glowstone.png",
             "footer": "Toả ánh vàng ấm áp khắp các hành lang của thánh địa. \"Ánh sáng nơi đây dịu dàng hơn bất cứ nơi nào khác.\""
           },
           {
@@ -1867,16 +1867,16 @@
             "category": "Rare",
             "size": 11,
             "sell": 18700000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Block_of_Gold.png",
             "footer": "Lát đầy sàn của thánh địa, lấp lánh dưới ánh sáng. \"Vàng nơi đây không dùng để giao dịch, mà để chiêm ngưỡng.\""
           },
           {
             "ID": 3,
-            "name": "Sao Nether (Nether Star)",
+            "name": "Sao Nether",
             "category": "Epic",
             "size": 6,
             "sell": 64600000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Star.png",
             "footer": "Một ngôi sao năng lượng được tôn trí giữa thánh địa. \"Nguồn sáng vĩnh cửu cho cả một vùng đất.\""
           }
         ]
@@ -1892,7 +1892,7 @@
             "category": "Common",
             "size": 38,
             "sell": 2600000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Block_of_Gold.png",
             "footer": "Bậc thang dẫn lên ngai vàng được lát hoàn toàn bằng vàng khối. \"Mỗi bậc thang đều là cả một gia tài.\""
           },
           {
@@ -1901,7 +1901,7 @@
             "category": "Uncommon",
             "size": 20,
             "sell": 8320000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Purple_Banner.png",
             "footer": "Rèm trang trí treo khắp sảnh đường dẫn đến ngai vàng. \"Phấp phới trong gió dù chẳng có lối thoát nào ở đây.\""
           },
           {
@@ -1910,7 +1910,7 @@
             "category": "Rare",
             "size": 11,
             "sell": 28600000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Block_of_Diamond.png",
             "footer": "Trang trí xa hoa bậc nhất, lấp lánh khắp ngai vàng. \"Một khối duy nhất cũng đủ khiến bao người ao ước.\""
           },
           {
@@ -1919,7 +1919,7 @@
             "category": "Epic",
             "size": 6,
             "sell": 98800000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Elytra.png",
             "footer": "Bộ trang bị huyền thoại được cất giữ cẩn trọng nơi đây. \"Chỉ kẻ xứng đáng nhất mới được chạm vào nó.\""
           },
           {
@@ -1928,7 +1928,7 @@
             "category": "Legendary",
             "size": 3,
             "sell": 416000000,
-            "image": "chưa có ảnh",
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Beacon.png",
             "footer": "Toả sáng rực rỡ ngay phía trên ngai vàng vĩnh cửu. \"Ánh sáng của quyền lực tối thượng, không gì sánh bằng.\""
           },
           {
@@ -1937,8 +1937,8 @@
             "category": "Mythical",
             "size": 2,
             "sell": 2340000000,
-            "image": "chưa có ảnh",
-            "footer": "Báu vật tối thượng được tôi luyện hoàn hảo, đặt ngay tại ngai vàng. \"Đỉnh cao tuyệt đối — nhưng hành trình của một thợ mỏ thì không bao giờ kết thúc.\""
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Netherite_Ingot.png",
+            "footer": "Báu vật tối thượng được tôi luyện hoàn hảo, đặt ngay tại ngai vàng. \"Đỉnh cao tuyệt đối - nhưng hành trình của một thợ mỏ thì không bao giờ kết thúc.\""
           }
         ]
       }
