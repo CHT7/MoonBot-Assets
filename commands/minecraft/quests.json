@@ -6,7 +6,7 @@
     "type": "mine",
     "target": 5,
     "reward": 217,
-    "xp": 49,
+    "xp": 12,
     "difficulty": "easy"
   },
   {
@@ -16,7 +16,7 @@
     "type": "mine",
     "target": 10,
     "reward": 449,
-    "xp": 101,
+    "xp": 25,
     "difficulty": "easy"
   },
   {
@@ -26,7 +26,7 @@
     "type": "mine",
     "target": 15,
     "reward": 687,
-    "xp": 155,
+    "xp": 38,
     "difficulty": "easy"
   },
   {
@@ -36,7 +36,7 @@
     "type": "mine",
     "target": 25,
     "reward": 1175,
-    "xp": 264,
+    "xp": 62,
     "difficulty": "easy"
   },
   {
@@ -46,7 +46,7 @@
     "type": "mine",
     "target": 40,
     "reward": 1924,
-    "xp": 433,
+    "xp": 100,
     "difficulty": "easy"
   },
   {
@@ -56,7 +56,7 @@
     "type": "mine",
     "target": 50,
     "reward": 2432,
-    "xp": 547,
+    "xp": 125,
     "difficulty": "easy"
   },
   {
@@ -66,7 +66,7 @@
     "type": "mine",
     "target": 65,
     "reward": 3203,
-    "xp": 721,
+    "xp": 162,
     "difficulty": "easy"
   },
   {
@@ -76,7 +76,7 @@
     "type": "mine",
     "target": 75,
     "reward": 3723,
-    "xp": 838,
+    "xp": 188,
     "difficulty": "easy"
   },
   {
@@ -86,7 +86,7 @@
     "type": "mine",
     "target": 90,
     "reward": 4508,
-    "xp": 1014,
+    "xp": 225,
     "difficulty": "easy"
   },
   {
@@ -96,7 +96,7 @@
     "type": "mine",
     "target": 100,
     "reward": 5036,
-    "xp": 1133,
+    "xp": 250,
     "difficulty": "easy"
   },
   {
@@ -106,7 +106,7 @@
     "type": "mine",
     "target": 125,
     "reward": 6365,
-    "xp": 1432,
+    "xp": 312,
     "difficulty": "easy"
   },
   {
@@ -116,7 +116,7 @@
     "type": "mine",
     "target": 150,
     "reward": 7708,
-    "xp": 1734,
+    "xp": 375,
     "difficulty": "easy"
   },
   {
@@ -126,7 +126,7 @@
     "type": "mine",
     "target": 175,
     "reward": 9063,
-    "xp": 2039,
+    "xp": 438,
     "difficulty": "easy"
   },
   {
@@ -136,7 +136,7 @@
     "type": "mine",
     "target": 200,
     "reward": 10427,
-    "xp": 2346,
+    "xp": 500,
     "difficulty": "easy"
   },
   {
@@ -146,7 +146,7 @@
     "type": "mine",
     "target": 250,
     "reward": 23277,
-    "xp": 3007,
+    "xp": 750,
     "difficulty": "medium"
   },
   {
@@ -156,7 +156,7 @@
     "type": "mine",
     "target": 300,
     "reward": 28551,
-    "xp": 3688,
+    "xp": 900,
     "difficulty": "medium"
   },
   {
@@ -166,7 +166,7 @@
     "type": "mine",
     "target": 350,
     "reward": 33931,
-    "xp": 4383,
+    "xp": 1050,
     "difficulty": "medium"
   },
   {
@@ -176,7 +176,7 @@
     "type": "mine",
     "target": 400,
     "reward": 39405,
-    "xp": 5090,
+    "xp": 1200,
     "difficulty": "medium"
   },
   {
@@ -186,7 +186,7 @@
     "type": "mine",
     "target": 450,
     "reward": 44961,
-    "xp": 5808,
+    "xp": 1350,
     "difficulty": "medium"
   },
   {
@@ -196,7 +196,7 @@
     "type": "mine",
     "target": 500,
     "reward": 50593,
-    "xp": 6535,
+    "xp": 1500,
     "difficulty": "medium"
   },
   {
@@ -206,7 +206,7 @@
     "type": "mine",
     "target": 600,
     "reward": 62054,
-    "xp": 8015,
+    "xp": 1800,
     "difficulty": "medium"
   },
   {
@@ -216,7 +216,7 @@
     "type": "mine",
     "target": 700,
     "reward": 73748,
-    "xp": 9526,
+    "xp": 2100,
     "difficulty": "medium"
   },
   {
@@ -226,7 +226,7 @@
     "type": "mine",
     "target": 800,
     "reward": 85645,
-    "xp": 11062,
+    "xp": 2400,
     "difficulty": "medium"
   },
   {
@@ -236,7 +236,7 @@
     "type": "mine",
     "target": 900,
     "reward": 97722,
-    "xp": 12622,
+    "xp": 2700,
     "difficulty": "medium"
   },
   {
@@ -246,7 +246,7 @@
     "type": "mine",
     "target": 1000,
     "reward": 109962,
-    "xp": 14203,
+    "xp": 3000,
     "difficulty": "medium"
   },
   {
@@ -256,7 +256,7 @@
     "type": "mine",
     "target": 1100,
     "reward": 297802,
-    "xp": 28325,
+    "xp": 3850,
     "difficulty": "hard"
   },
   {
@@ -266,7 +266,7 @@
     "type": "mine",
     "target": 1200,
     "reward": 331153,
-    "xp": 31388,
+    "xp": 4200,
     "difficulty": "hard"
   },
   {
@@ -276,7 +276,7 @@
     "type": "mine",
     "target": 1350,
     "reward": 382327,
-    "xp": 36068,
+    "xp": 4725,
     "difficulty": "hard"
   },
   {
@@ -286,7 +286,7 @@
     "type": "mine",
     "target": 1500,
     "reward": 434770,
-    "xp": 40842,
+    "xp": 5250,
     "difficulty": "hard"
   },
   {
@@ -296,7 +296,7 @@
     "type": "mine",
     "target": 1650,
     "reward": 488381,
-    "xp": 45704,
+    "xp": 5775,
     "difficulty": "hard"
   },
   {
@@ -306,7 +306,7 @@
     "type": "mine",
     "target": 1800,
     "reward": 543076,
-    "xp": 50646,
+    "xp": 6300,
     "difficulty": "hard"
   },
   {
@@ -316,7 +316,7 @@
     "type": "mine",
     "target": 2000,
     "reward": 617568,
-    "xp": 57351,
+    "xp": 7000,
     "difficulty": "hard"
   },
   {
@@ -326,7 +326,7 @@
     "type": "mine",
     "target": 2250,
     "reward": 713002,
-    "xp": 65902,
+    "xp": 7875,
     "difficulty": "hard"
   },
   {
@@ -336,7 +336,7 @@
     "type": "mine",
     "target": 2500,
     "reward": 810802,
-    "xp": 74626,
+    "xp": 8750,
     "difficulty": "hard"
   },
   {
@@ -346,7 +346,7 @@
     "type": "mine",
     "target": 3000,
     "reward": 3517854,
-    "xp": 200853,
+    "xp": 12000,
     "difficulty": "expert"
   },
   {
@@ -356,7 +356,7 @@
     "type": "mine",
     "target": 3500,
     "reward": 4278585,
-    "xp": 241666,
+    "xp": 14000,
     "difficulty": "expert"
   },
   {
@@ -366,7 +366,7 @@
     "type": "mine",
     "target": 4000,
     "reward": 5069323,
-    "xp": 283665,
+    "xp": 16000,
     "difficulty": "expert"
   },
   {
@@ -376,7 +376,7 @@
     "type": "mine",
     "target": 4500,
     "reward": 5887266,
-    "xp": 326730,
+    "xp": 18000,
     "difficulty": "expert"
   },
   {
@@ -386,7 +386,7 @@
     "type": "mine",
     "target": 5000,
     "reward": 6730164,
-    "xp": 370764,
+    "xp": 20000,
     "difficulty": "expert"
   },
   {
@@ -396,7 +396,7 @@
     "type": "mine",
     "target": 6000,
     "reward": 8483711,
-    "xp": 461440,
+    "xp": 24000,
     "difficulty": "expert"
   },
   {
@@ -406,7 +406,7 @@
     "type": "mine",
     "target": 7000,
     "reward": 10318303,
-    "xp": 555203,
+    "xp": 28000,
     "difficulty": "expert"
   },
   {
@@ -416,7 +416,7 @@
     "type": "mine",
     "target": 7500,
     "reward": 11263194,
-    "xp": 603125,
+    "xp": 30000,
     "difficulty": "expert"
   },
   {
@@ -426,7 +426,7 @@
     "type": "mine",
     "target": 8500,
     "reward": 13203705,
-    "xp": 700868,
+    "xp": 34000,
     "difficulty": "expert"
   },
   {
@@ -436,7 +436,7 @@
     "type": "mine",
     "target": 10000,
     "reward": 16230570,
-    "xp": 851792,
+    "xp": 40000,
     "difficulty": "expert"
   },
   {
@@ -446,7 +446,7 @@
     "type": "earn",
     "target": 300,
     "reward": 126,
-    "xp": 30,
+    "xp": 10,
     "difficulty": "easy"
   },
   {
@@ -456,7 +456,7 @@
     "type": "earn",
     "target": 500,
     "reward": 210,
-    "xp": 50,
+    "xp": 10,
     "difficulty": "easy"
   },
   {
@@ -466,7 +466,7 @@
     "type": "earn",
     "target": 800,
     "reward": 336,
-    "xp": 80,
+    "xp": 16,
     "difficulty": "easy"
   },
   {
@@ -476,7 +476,7 @@
     "type": "earn",
     "target": 1200,
     "reward": 504,
-    "xp": 120,
+    "xp": 24,
     "difficulty": "easy"
   },
   {
@@ -486,7 +486,7 @@
     "type": "earn",
     "target": 2000,
     "reward": 840,
-    "xp": 200,
+    "xp": 40,
     "difficulty": "easy"
   },
   {
@@ -496,7 +496,7 @@
     "type": "earn",
     "target": 3000,
     "reward": 1260,
-    "xp": 300,
+    "xp": 60,
     "difficulty": "easy"
   },
   {
@@ -506,7 +506,7 @@
     "type": "earn",
     "target": 5000,
     "reward": 2100,
-    "xp": 500,
+    "xp": 100,
     "difficulty": "easy"
   },
   {
@@ -516,7 +516,7 @@
     "type": "earn",
     "target": 7500,
     "reward": 3150,
-    "xp": 750,
+    "xp": 150,
     "difficulty": "easy"
   },
   {
@@ -526,7 +526,7 @@
     "type": "earn",
     "target": 10000,
     "reward": 4200,
-    "xp": 1000,
+    "xp": 200,
     "difficulty": "easy"
   },
   {
@@ -536,7 +536,7 @@
     "type": "earn",
     "target": 15000,
     "reward": 6300,
-    "xp": 1500,
+    "xp": 300,
     "difficulty": "easy"
   },
   {
@@ -546,7 +546,7 @@
     "type": "earn",
     "target": 20000,
     "reward": 8400,
-    "xp": 2000,
+    "xp": 400,
     "difficulty": "easy"
   },
   {
@@ -556,7 +556,7 @@
     "type": "earn",
     "target": 30000,
     "reward": 12000,
-    "xp": 2850,
+    "xp": 360,
     "difficulty": "medium"
   },
   {
@@ -566,7 +566,7 @@
     "type": "earn",
     "target": 40000,
     "reward": 16000,
-    "xp": 3800,
+    "xp": 480,
     "difficulty": "medium"
   },
   {
@@ -576,7 +576,7 @@
     "type": "earn",
     "target": 55000,
     "reward": 22000,
-    "xp": 5225,
+    "xp": 660,
     "difficulty": "medium"
   },
   {
@@ -586,7 +586,7 @@
     "type": "earn",
     "target": 70000,
     "reward": 28000,
-    "xp": 6650,
+    "xp": 840,
     "difficulty": "medium"
   },
   {
@@ -596,7 +596,7 @@
     "type": "earn",
     "target": 85000,
     "reward": 34000,
-    "xp": 8075,
+    "xp": 1020,
     "difficulty": "medium"
   },
   {
@@ -606,7 +606,7 @@
     "type": "earn",
     "target": 100000,
     "reward": 40000,
-    "xp": 9500,
+    "xp": 1200,
     "difficulty": "medium"
   },
   {
@@ -616,7 +616,7 @@
     "type": "earn",
     "target": 125000,
     "reward": 50000,
-    "xp": 11875,
+    "xp": 1500,
     "difficulty": "medium"
   },
   {
@@ -626,7 +626,7 @@
     "type": "earn",
     "target": 150000,
     "reward": 60000,
-    "xp": 14250,
+    "xp": 1800,
     "difficulty": "medium"
   },
   {
@@ -636,7 +636,7 @@
     "type": "earn",
     "target": 175000,
     "reward": 70000,
-    "xp": 16625,
+    "xp": 2100,
     "difficulty": "medium"
   },
   {
@@ -646,7 +646,7 @@
     "type": "earn",
     "target": 200000,
     "reward": 80000,
-    "xp": 19000,
+    "xp": 2400,
     "difficulty": "medium"
   },
   {
@@ -656,7 +656,7 @@
     "type": "earn",
     "target": 250000,
     "reward": 110000,
-    "xp": 22500,
+    "xp": 2000,
     "difficulty": "hard"
   },
   {
@@ -666,7 +666,7 @@
     "type": "earn",
     "target": 300000,
     "reward": 132000,
-    "xp": 27000,
+    "xp": 2400,
     "difficulty": "hard"
   },
   {
@@ -676,7 +676,7 @@
     "type": "earn",
     "target": 375000,
     "reward": 165000,
-    "xp": 33750,
+    "xp": 3000,
     "difficulty": "hard"
   },
   {
@@ -686,7 +686,7 @@
     "type": "earn",
     "target": 450000,
     "reward": 198000,
-    "xp": 40500,
+    "xp": 3600,
     "difficulty": "hard"
   },
   {
@@ -696,7 +696,7 @@
     "type": "earn",
     "target": 550000,
     "reward": 242000,
-    "xp": 49500,
+    "xp": 4400,
     "difficulty": "hard"
   },
   {
@@ -706,7 +706,7 @@
     "type": "earn",
     "target": 650000,
     "reward": 286000,
-    "xp": 58500,
+    "xp": 5200,
     "difficulty": "hard"
   },
   {
@@ -716,7 +716,7 @@
     "type": "earn",
     "target": 750000,
     "reward": 330000,
-    "xp": 67500,
+    "xp": 6000,
     "difficulty": "hard"
   },
   {
@@ -726,7 +726,7 @@
     "type": "earn",
     "target": 850000,
     "reward": 374000,
-    "xp": 76500,
+    "xp": 6800,
     "difficulty": "hard"
   },
   {
@@ -736,7 +736,7 @@
     "type": "earn",
     "target": 1000000,
     "reward": 440000,
-    "xp": 90000,
+    "xp": 8000,
     "difficulty": "hard"
   },
   {
@@ -746,7 +746,7 @@
     "type": "earn",
     "target": 1250000,
     "reward": 575000,
-    "xp": 106250,
+    "xp": 6250,
     "difficulty": "expert"
   },
   {
@@ -756,7 +756,7 @@
     "type": "earn",
     "target": 1500000,
     "reward": 690000,
-    "xp": 127500,
+    "xp": 7500,
     "difficulty": "expert"
   },
   {
@@ -766,7 +766,7 @@
     "type": "earn",
     "target": 2000000,
     "reward": 920000,
-    "xp": 170000,
+    "xp": 10000,
     "difficulty": "expert"
   },
   {
@@ -776,7 +776,7 @@
     "type": "earn",
     "target": 2500000,
     "reward": 1150000,
-    "xp": 212500,
+    "xp": 12500,
     "difficulty": "expert"
   },
   {
@@ -786,7 +786,7 @@
     "type": "earn",
     "target": 3000000,
     "reward": 1380000,
-    "xp": 255000,
+    "xp": 15000,
     "difficulty": "expert"
   },
   {
@@ -796,7 +796,7 @@
     "type": "earn",
     "target": 3500000,
     "reward": 1610000,
-    "xp": 297500,
+    "xp": 17500,
     "difficulty": "expert"
   },
   {
@@ -806,7 +806,7 @@
     "type": "earn",
     "target": 4000000,
     "reward": 1840000,
-    "xp": 340000,
+    "xp": 20000,
     "difficulty": "expert"
   },
   {
@@ -816,7 +816,7 @@
     "type": "earn",
     "target": 5000000,
     "reward": 2300000,
-    "xp": 425000,
+    "xp": 25000,
     "difficulty": "expert"
   },
   {
@@ -826,7 +826,7 @@
     "type": "earn",
     "target": 6000000,
     "reward": 2760000,
-    "xp": 510000,
+    "xp": 30000,
     "difficulty": "expert"
   },
   {
@@ -836,7 +836,7 @@
     "type": "earn",
     "target": 7500000,
     "reward": 3450000,
-    "xp": 637500,
+    "xp": 37500,
     "difficulty": "expert"
   },
   {
@@ -846,7 +846,7 @@
     "type": "earn",
     "target": 10000000,
     "reward": 4600000,
-    "xp": 850000,
+    "xp": 50000,
     "difficulty": "expert"
   },
   {
@@ -856,7 +856,7 @@
     "type": "rare",
     "target": 1,
     "reward": 550,
-    "xp": 140,
+    "xp": 25,
     "difficulty": "easy"
   },
   {
@@ -866,7 +866,7 @@
     "type": "rare",
     "target": 2,
     "reward": 1100,
-    "xp": 280,
+    "xp": 50,
     "difficulty": "easy"
   },
   {
@@ -876,7 +876,7 @@
     "type": "rare",
     "target": 3,
     "reward": 1650,
-    "xp": 420,
+    "xp": 75,
     "difficulty": "easy"
   },
   {
@@ -886,7 +886,7 @@
     "type": "rare",
     "target": 5,
     "reward": 2750,
-    "xp": 700,
+    "xp": 125,
     "difficulty": "easy"
   },
   {
@@ -896,7 +896,7 @@
     "type": "rare",
     "target": 8,
     "reward": 4400,
-    "xp": 1120,
+    "xp": 200,
     "difficulty": "easy"
   },
   {
@@ -906,7 +906,7 @@
     "type": "rare",
     "target": 10,
     "reward": 5500,
-    "xp": 1400,
+    "xp": 250,
     "difficulty": "easy"
   },
   {
@@ -916,7 +916,7 @@
     "type": "rare",
     "target": 12,
     "reward": 6600,
-    "xp": 1680,
+    "xp": 300,
     "difficulty": "easy"
   },
   {
@@ -926,7 +926,7 @@
     "type": "rare",
     "target": 15,
     "reward": 15750,
-    "xp": 2175,
+    "xp": 300,
     "difficulty": "medium"
   },
   {
@@ -936,7 +936,7 @@
     "type": "rare",
     "target": 20,
     "reward": 21000,
-    "xp": 2900,
+    "xp": 400,
     "difficulty": "medium"
   },
   {
@@ -946,7 +946,7 @@
     "type": "rare",
     "target": 25,
     "reward": 26250,
-    "xp": 3625,
+    "xp": 500,
     "difficulty": "medium"
   },
   {
@@ -956,7 +956,7 @@
     "type": "rare",
     "target": 30,
     "reward": 31500,
-    "xp": 4350,
+    "xp": 600,
     "difficulty": "medium"
   },
   {
@@ -966,7 +966,7 @@
     "type": "rare",
     "target": 40,
     "reward": 42000,
-    "xp": 5800,
+    "xp": 800,
     "difficulty": "medium"
   },
   {
@@ -976,7 +976,7 @@
     "type": "rare",
     "target": 50,
     "reward": 52500,
-    "xp": 7250,
+    "xp": 1000,
     "difficulty": "medium"
   },
   {
@@ -986,7 +986,7 @@
     "type": "rare",
     "target": 60,
     "reward": 63000,
-    "xp": 8700,
+    "xp": 1200,
     "difficulty": "medium"
   },
   {
@@ -996,7 +996,7 @@
     "type": "rare",
     "target": 75,
     "reward": 81000,
-    "xp": 11250,
+    "xp": 1125,
     "difficulty": "hard"
   },
   {
@@ -1006,7 +1006,7 @@
     "type": "rare",
     "target": 90,
     "reward": 97200,
-    "xp": 13500,
+    "xp": 1350,
     "difficulty": "hard"
   },
   {
@@ -1016,7 +1016,7 @@
     "type": "rare",
     "target": 100,
     "reward": 108000,
-    "xp": 15000,
+    "xp": 1500,
     "difficulty": "hard"
   },
   {
@@ -1026,7 +1026,7 @@
     "type": "rare",
     "target": 125,
     "reward": 135000,
-    "xp": 18750,
+    "xp": 1875,
     "difficulty": "hard"
   },
   {
@@ -1036,7 +1036,7 @@
     "type": "rare",
     "target": 150,
     "reward": 162000,
-    "xp": 22500,
+    "xp": 2250,
     "difficulty": "hard"
   },
   {
@@ -1046,7 +1046,7 @@
     "type": "rare",
     "target": 175,
     "reward": 189000,
-    "xp": 26250,
+    "xp": 2625,
     "difficulty": "hard"
   },
   {
@@ -1056,7 +1056,7 @@
     "type": "rare",
     "target": 200,
     "reward": 216000,
-    "xp": 30000,
+    "xp": 3000,
     "difficulty": "hard"
   },
   {
@@ -1066,7 +1066,7 @@
     "type": "rare",
     "target": 250,
     "reward": 825000,
-    "xp": 45000,
+    "xp": 2500,
     "difficulty": "expert"
   },
   {
@@ -1076,7 +1076,7 @@
     "type": "rare",
     "target": 300,
     "reward": 990000,
-    "xp": 54000,
+    "xp": 3000,
     "difficulty": "expert"
   },
   {
@@ -1086,7 +1086,7 @@
     "type": "rare",
     "target": 375,
     "reward": 1237500,
-    "xp": 67500,
+    "xp": 3750,
     "difficulty": "expert"
   },
   {
@@ -1096,7 +1096,7 @@
     "type": "rare",
     "target": 450,
     "reward": 1485000,
-    "xp": 81000,
+    "xp": 4500,
     "difficulty": "expert"
   },
   {
@@ -1106,7 +1106,7 @@
     "type": "rare",
     "target": 550,
     "reward": 1815000,
-    "xp": 99000,
+    "xp": 5500,
     "difficulty": "expert"
   },
   {
@@ -1116,7 +1116,7 @@
     "type": "rare",
     "target": 650,
     "reward": 2145000,
-    "xp": 117000,
+    "xp": 6500,
     "difficulty": "expert"
   },
   {
@@ -1126,7 +1126,7 @@
     "type": "rare",
     "target": 800,
     "reward": 2640000,
-    "xp": 144000,
+    "xp": 8000,
     "difficulty": "expert"
   },
   {
@@ -1136,7 +1136,7 @@
     "type": "legendary",
     "target": 1,
     "reward": 32000,
-    "xp": 2700,
+    "xp": 500,
     "difficulty": "medium"
   },
   {
@@ -1146,7 +1146,7 @@
     "type": "legendary",
     "target": 2,
     "reward": 64000,
-    "xp": 5400,
+    "xp": 1000,
     "difficulty": "medium"
   },
   {
@@ -1156,7 +1156,7 @@
     "type": "legendary",
     "target": 3,
     "reward": 96000,
-    "xp": 8100,
+    "xp": 1500,
     "difficulty": "medium"
   },
   {
@@ -1166,7 +1166,7 @@
     "type": "legendary",
     "target": 4,
     "reward": 124000,
-    "xp": 10400,
+    "xp": 800,
     "difficulty": "hard"
   },
   {
@@ -1176,7 +1176,7 @@
     "type": "legendary",
     "target": 5,
     "reward": 155000,
-    "xp": 13000,
+    "xp": 1000,
     "difficulty": "hard"
   },
   {
@@ -1186,7 +1186,7 @@
     "type": "legendary",
     "target": 6,
     "reward": 186000,
-    "xp": 15600,
+    "xp": 1200,
     "difficulty": "hard"
   },
   {
@@ -1196,7 +1196,7 @@
     "type": "legendary",
     "target": 8,
     "reward": 248000,
-    "xp": 20800,
+    "xp": 1600,
     "difficulty": "hard"
   },
   {
@@ -1206,7 +1206,7 @@
     "type": "legendary",
     "target": 10,
     "reward": 310000,
-    "xp": 26000,
+    "xp": 2000,
     "difficulty": "hard"
   },
   {
@@ -1216,7 +1216,7 @@
     "type": "legendary",
     "target": 12,
     "reward": 372000,
-    "xp": 31200,
+    "xp": 2400,
     "difficulty": "hard"
   },
   {
@@ -1226,7 +1226,7 @@
     "type": "legendary",
     "target": 15,
     "reward": 795000,
-    "xp": 45000,
+    "xp": 2250,
     "difficulty": "expert"
   },
   {
@@ -1236,7 +1236,7 @@
     "type": "legendary",
     "target": 18,
     "reward": 954000,
-    "xp": 54000,
+    "xp": 2700,
     "difficulty": "expert"
   },
   {
@@ -1246,7 +1246,7 @@
     "type": "legendary",
     "target": 20,
     "reward": 1060000,
-    "xp": 60000,
+    "xp": 3000,
     "difficulty": "expert"
   },
   {
@@ -1256,7 +1256,7 @@
     "type": "legendary",
     "target": 25,
     "reward": 1325000,
-    "xp": 75000,
+    "xp": 3750,
     "difficulty": "expert"
   },
   {
@@ -1266,7 +1266,7 @@
     "type": "legendary",
     "target": 30,
     "reward": 1590000,
-    "xp": 90000,
+    "xp": 4500,
     "difficulty": "expert"
   },
   {
@@ -1276,7 +1276,7 @@
     "type": "legendary",
     "target": 40,
     "reward": 2120000,
-    "xp": 120000,
+    "xp": 6000,
     "difficulty": "expert"
   },
   {
@@ -1286,7 +1286,7 @@
     "type": "legendary",
     "target": 50,
     "reward": 2650000,
-    "xp": 150000,
+    "xp": 7500,
     "difficulty": "expert"
   },
   {
@@ -1296,7 +1296,7 @@
     "type": "visit",
     "target": 1,
     "reward": 450,
-    "xp": 115,
+    "xp": 80,
     "difficulty": "easy"
   },
   {
@@ -1306,7 +1306,7 @@
     "type": "visit",
     "target": 2,
     "reward": 900,
-    "xp": 230,
+    "xp": 160,
     "difficulty": "easy"
   },
   {
@@ -1316,7 +1316,7 @@
     "type": "visit",
     "target": 3,
     "reward": 1350,
-    "xp": 345,
+    "xp": 240,
     "difficulty": "easy"
   },
   {
@@ -1326,7 +1326,7 @@
     "type": "visit",
     "target": 4,
     "reward": 1800,
-    "xp": 460,
+    "xp": 320,
     "difficulty": "easy"
   },
   {
@@ -1336,7 +1336,7 @@
     "type": "visit",
     "target": 5,
     "reward": 2250,
-    "xp": 575,
+    "xp": 400,
     "difficulty": "easy"
   },
   {
@@ -1346,7 +1346,7 @@
     "type": "visit",
     "target": 6,
     "reward": 16200,
-    "xp": 1860,
+    "xp": 1200,
     "difficulty": "medium"
   },
   {
@@ -1356,7 +1356,7 @@
     "type": "visit",
     "target": 7,
     "reward": 18900,
-    "xp": 2170,
+    "xp": 1400,
     "difficulty": "medium"
   },
   {
@@ -1366,7 +1366,7 @@
     "type": "visit",
     "target": 8,
     "reward": 21600,
-    "xp": 2480,
+    "xp": 1600,
     "difficulty": "medium"
   },
   {
@@ -1376,7 +1376,7 @@
     "type": "visit",
     "target": 9,
     "reward": 24300,
-    "xp": 2790,
+    "xp": 1800,
     "difficulty": "medium"
   },
   {
@@ -1386,7 +1386,7 @@
     "type": "visit",
     "target": 10,
     "reward": 27000,
-    "xp": 3100,
+    "xp": 2000,
     "difficulty": "medium"
   },
   {
@@ -1396,7 +1396,7 @@
     "type": "visit",
     "target": 11,
     "reward": 74800,
-    "xp": 7150,
+    "xp": 3850,
     "difficulty": "hard"
   },
   {
@@ -1406,7 +1406,7 @@
     "type": "visit",
     "target": 12,
     "reward": 81600,
-    "xp": 7800,
+    "xp": 4200,
     "difficulty": "hard"
   },
   {
@@ -1416,7 +1416,7 @@
     "type": "visit",
     "target": 13,
     "reward": 88400,
-    "xp": 8450,
+    "xp": 4550,
     "difficulty": "hard"
   },
   {
@@ -1426,7 +1426,7 @@
     "type": "visit",
     "target": 14,
     "reward": 95200,
-    "xp": 9100,
+    "xp": 4900,
     "difficulty": "hard"
   },
   {
@@ -1436,7 +1436,7 @@
     "type": "visit",
     "target": 15,
     "reward": 102000,
-    "xp": 9750,
+    "xp": 5250,
     "difficulty": "hard"
   },
   {
@@ -1446,7 +1446,7 @@
     "type": "visit",
     "target": 16,
     "reward": 448000,
-    "xp": 27200,
+    "xp": 8000,
     "difficulty": "expert"
   },
   {
@@ -1456,7 +1456,7 @@
     "type": "visit",
     "target": 18,
     "reward": 504000,
-    "xp": 30600,
+    "xp": 9000,
     "difficulty": "expert"
   },
   {
@@ -1466,7 +1466,7 @@
     "type": "visit",
     "target": 20,
     "reward": 560000,
-    "xp": 34000,
+    "xp": 10000,
     "difficulty": "expert"
   },
   {
@@ -1476,7 +1476,7 @@
     "type": "visit",
     "target": 22,
     "reward": 616000,
-    "xp": 37400,
+    "xp": 11000,
     "difficulty": "expert"
   },
   {
@@ -1486,7 +1486,7 @@
     "type": "visit",
     "target": 25,
     "reward": 700000,
-    "xp": 42500,
+    "xp": 12500,
     "difficulty": "expert"
   }
 ]
