@@ -1745,7 +1745,9 @@
         ],
         "prestigeReq": 0
       }
-    ]
+    ],
+    "icon": "🌍",
+    "theme": "green"
   },
   {
     "location": "Địa Ngục (The Nether)",
@@ -3002,7 +3004,9 @@
         ],
         "prestigeReq": 4
       }
-    ]
+    ],
+    "icon": "🔥",
+    "theme": "red"
   },
   {
     "location": "Hồi Kết (The End)",
@@ -3561,7 +3565,9 @@
         ],
         "prestigeReq": 6
       }
-    ]
+    ],
+    "icon": "🌑",
+    "theme": "purple"
   },
   {
     "location": "Vùng Đất Tận Cùng (Far Lands)",
@@ -3950,7 +3956,9 @@
         ],
         "prestigeReq": 8
       }
-    ]
+    ],
+    "icon": "🌀",
+    "theme": "grey"
   },
   {
     "location": "Đỉnh Sáng",
@@ -4348,7 +4356,9 @@
         ],
         "prestigeReq": 10
       }
-    ]
+    ],
+    "icon": "☀️",
+    "theme": "yellow"
   },
   {
   "location": "Đại Dương Huyền Bí (The Mystic Ocean)",
@@ -4764,7 +4774,9 @@
         ],
         "prestigeReq": 12
       }
-    ]
+    ],
+    "icon": "🌊",
+    "theme": "blue"
   },
   {
   "location": "Thiên Đàng Thiên Thạch (Meteor Realm)",
@@ -5171,7 +5183,9 @@
         ],
         "prestigeReq": 14
       }
-    ]
+    ],
+    "icon": "☄️",
+    "theme": "orange"
   },
   {
   "location": "Vương Quốc Bóng Tối (Shadow Kingdom)",
@@ -5578,7 +5592,9 @@
         ],
         "prestigeReq": 16
       }
-    ]
+    ],
+    "icon": "🌒",
+    "theme": "dark"
   },
   {
   "location": "Lõi Hành Tinh (Planetary Core)",
@@ -5985,7 +6001,9 @@
         ],
         "prestigeReq": 18
       }
-    ]
+    ],
+    "icon": "🌋",
+    "theme": "blaze"
   },
   {
   "location": "Khoảng Không Vũ Trụ (The Void Space)",
@@ -6392,6 +6410,8 @@
         ],
         "prestigeReq": 20
       }
-    ]
+    ],
+    "icon": "🪐",
+    "theme": "cosmic"
   }
 ]
