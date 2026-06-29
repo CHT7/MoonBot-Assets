@@ -4349,5 +4349,2049 @@
         "prestigeReq": 10
       }
     ]
+  },
+  {
+  "location": "Đại Dương Huyền Bí (The Mystic Ocean)",
+    "area": [
+      {
+        "ID": 0,
+        "name": "Bờ San Hô Cổ Đại (Ancient Coral Shore)",
+        "levelReq": 170,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Cát Biển Thần Kỳ",
+            "category": "Common",
+            "size": 38,
+            "sell": 1800000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sand.png",
+            "footer": "Cát trắng tinh khôi từ đáy đại dương cổ đại. \"Mỗi hạt cát ẩn chứa ký ức của một kỷ nguyên đã qua.\""
+          },
+          {
+            "ID": 1,
+            "name": "Đất Sét Biển Cổ",
+            "category": "Common",
+            "size": 38,
+            "sell": 1800000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Clay.png",
+            "footer": "Đất sét lắng đọng từ thiên niên kỷ dưới đáy đại dương. \"Mềm mại và bí ẩn như chính lòng biển chứa đựng nó.\""
+          },
+          {
+            "ID": 2,
+            "name": "San Hô Phát Sáng",
+            "category": "Common",
+            "size": 38,
+            "sell": 1800000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Tube_Coral_Block.png",
+            "footer": "Rạn san hô phát ra ánh sáng xanh ngọc trong đêm tối. \"Đẹp đến mức nguy hiểm - ai cũng muốn đến gần.\""
+          },
+          {
+            "ID": 3,
+            "name": "Vảy Cá Thần",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 5760000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Angel_Fish_Scales.png",
+            "footer": "Vảy lấp lánh từ loài cá chỉ sống trong đại dương huyền bí. \"Không một ngư dân bình thường nào từng nhìn thấy con cá này.\""
+          },
+          {
+            "ID": 4,
+            "name": "Ngọc Trai Biển Sâu",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 5760000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Deep_Ocean_Pearl.png",
+            "footer": "Ngọc trai hoàn hảo từ loài trai khổng lồ cổ đại. \"Ánh trăng được cô đặc thành viên ngọc qua ngàn năm.\""
+          },
+          {
+            "ID": 5,
+            "name": "Đèn Biển Cổ Đại",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 5760000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sea_Lantern.png",
+            "footer": "Đèn biển hình thành tự nhiên từ sinh vật phát quang cổ đại. \"Không cần nhiên liệu - ánh sáng của nó đến từ sức sống của đại dương.\""
+          },
+          {
+            "ID": 6,
+            "name": "Mảnh Vỏ Thần Hải",
+            "category": "Rare",
+            "size": 11,
+            "sell": 19800000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Myth_Shell.png",
+            "footer": "Mảnh vỏ từ sinh vật biển huyền thoại lớn hơn cả pháo đài. \"Chỉ còn lại vỏ - nhưng kích thước vỏ đã nói lên tất cả.\""
+          },
+          {
+            "ID": 7,
+            "name": "Tinh Thể Biển (Prismarine Crystals)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 19800000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Prismarine_Crystals.png",
+            "footer": "Tinh thể xanh lam hình thành dưới áp suất đại dương cực cao. \"Ánh xanh của nó sáng hơn cả ánh mặt trời dưới nước.\""
+          },
+          {
+            "ID": 8,
+            "name": "Xương Cá Voi Cổ",
+            "category": "Rare",
+            "size": 11,
+            "sell": 19800000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ancient_Whale_Bone.png",
+            "footer": "Tàn tích của loài cá voi cổ đại to gấp mười lần cá voi thông thường. \"Kích thước của xương cho biết kích thước của con quái vật.\""
+          },
+          {
+            "ID": 9,
+            "name": "Trái Tim Biển (Heart of the Ocean)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 68400000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Heart_of_the_Sea.png",
+            "footer": "Đá quý huyền thoại được hình thành tại trung tâm vực biển sâu nhất. \"Người ta nói rằng nó đập như một trái tim thật sự.\""
+          },
+          {
+            "ID": 10,
+            "name": "Mực Phát Quang",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 5760000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Glow_Ink_Sac.png",
+            "footer": "Mực từ mực ống phát sáng khổng lồ sống sâu dưới đại dương. \"Dùng để viết những thứ cần đọc trong bóng tối.\""
+          },
+          {
+            "ID": 11,
+            "name": "Vương Miện San Hô",
+            "category": "Epic",
+            "size": 6,
+            "sell": 68400000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Coral_Crown.png",
+            "footer": "Vương miện san hô của vị vua cai trị đại dương cổ đại. \"Người cai trị đã khuất - vương miện vẫn còn đây.\""
+          },
+          {
+            "ID": 12,
+            "name": "Ngọc Lam Biển (Ocean Sapphire)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 236000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Ocean_Sapphire.png",
+            "footer": "Đá quý xanh lam hiếm nhất đại dương, phát ra ánh sáng huyền ảo dưới nước. \"Màu xanh của trời và biển hòa làm một trong viên ngọc này.\""
+          },
+          {
+            "ID": 13,
+            "name": "Vảy Rồng Biển",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 236000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sea_Dragon_Scales.png",
+            "footer": "Vảy của con Rồng Biển huyền thoại - sinh vật thống trị đại dương. \"Kháng nước hoàn toàn và sáng như gương.\""
+          },
+          {
+            "ID": 14,
+            "name": "Trứng Thần Hải (Sea God's Egg)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 1320000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sea_God's_Egg.png",
+            "footer": "Trứng của thần biển cổ đại, phát ra sóng năng lượng đại dương. \"Không ai biết điều gì sẽ nở ra từ đây - và đó là điều đáng sợ.\""
+          }
+        ],
+        "prestigeReq": 11
+      },
+      {
+        "ID": 1,
+        "name": "Vực Thẳm Đại Dương (The Abyss)",
+        "levelReq": 178,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Áp Suất Sâu",
+            "category": "Common",
+            "size": 38,
+            "sell": 2900000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Deepslate.png",
+            "footer": "Đá biến đổi hoàn toàn dưới áp suất cực độ của vực thẳm. \"Nặng hơn đá thường gấp đôi - áp lực nước đã làm điều đó.\""
+          },
+          {
+            "ID": 1,
+            "name": "Bùn Vực Thẳm",
+            "category": "Common",
+            "size": 38,
+            "sell": 2900000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Bùn đặc sệt từ đáy vực nơi ánh sáng không bao giờ chạm tới. \"Lạnh và nặng như chính bóng tối tạo ra nó.\""
+          },
+          {
+            "ID": 2,
+            "name": "Khoáng Mangan Sâu",
+            "category": "Common",
+            "size": 38,
+            "sell": 2900000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khoáng mangan kết tụ thành cục dưới đáy vực thẳm. \"Hàng triệu năm mới hình thành - bạn lấy nó trong vài giây.\""
+          },
+          {
+            "ID": 3,
+            "name": "Mực Vực Thẳm",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 9300000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Glow_Ink_Sac.png",
+            "footer": "Mực từ loài bạch tuộc khổng lồ sống trong bóng tối vĩnh cửu. \"Tối đen như chính vực thẳm sinh ra nó.\""
+          },
+          {
+            "ID": 4,
+            "name": "Tinh Thể Áp Suất",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 9300000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể đặc biệt chỉ hình thành dưới áp suất cực độ của vực thẳm. \"Nó sẽ nổ tung ngay khi đưa lên bề mặt - nếu không được bảo quản đúng.\""
+          },
+          {
+            "ID": 5,
+            "name": "Xúc Tu Quái Vật Vực",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 9300000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Xúc tu từ sinh vật bí ẩn chỉ tồn tại trong bóng tối vĩnh cửu. \"Sinh vật mà không ai nhìn thấy toàn bộ - chỉ thấy xúc tu của nó.\""
+          },
+          {
+            "ID": 6,
+            "name": "Ngọc Vực Thẳm (Abyssal Gem)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 32100000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Đá quý đen huyền bí phát ra ánh sáng tím mờ ảo. \"Ánh sáng của nó ngược chiều - sáng hơn khi xung quanh tối hơn.\""
+          },
+          {
+            "ID": 7,
+            "name": "Răng Quái Vật Biển Sâu",
+            "category": "Rare",
+            "size": 11,
+            "sell": 32100000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Răng nanh của sinh vật đứng đầu chuỗi thức ăn vực thẳm. \"Sắc và rỗng - như thể nó vẫn đang độc.\""
+          },
+          {
+            "ID": 8,
+            "name": "Mảnh Kim Loại Thiên Thạch Biển",
+            "category": "Rare",
+            "size": 11,
+            "sell": 32100000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Thiên thạch rơi xuống biển hàng triệu năm trước, chìm đến vực thẳm. \"Đến từ ngoài không gian, nằm ở đáy vực - một hành trình dài nhất.\""
+          },
+          {
+            "ID": 9,
+            "name": "Tim Quái Vật Vực (Abyssal Heart)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 111000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Trái tim của Leviathan - sinh vật huyền thoại cai trị vực thẳm. \"Vẫn đập nhẹ dù đã lìa khỏi cơ thể chủ nhân từ lâu.\""
+          },
+          {
+            "ID": 10,
+            "name": "Vảy Leviathan",
+            "category": "Epic",
+            "size": 6,
+            "sell": 111000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vảy của Leviathan - lớn bằng cả một ngôi nhà. \"Không cuốc nào xuyên qua được - kể cả Netherite.\""
+          },
+          {
+            "ID": 11,
+            "name": "Ánh Sáng Vực Thẳm (Abyss Light)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 384000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khối khoáng sản duy nhất phát sáng trong vực thẳm tuyệt đối. \"Ánh sáng không đến từ năng lượng - mà từ chính bóng tối.\""
+          },
+          {
+            "ID": 12,
+            "name": "Đá Sâu Huyền Bí (Mystic Deepstone)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 384000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Loại đá đặc biệt chỉ hình thành tại điểm sâu nhất của đại dương. \"Nặng hơn cả Obsidian - nhưng lại mềm khi chạm vào.\""
+          },
+          {
+            "ID": 13,
+            "name": "Cốt Lõi Leviathan (Leviathan Core)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 2150000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lõi sức mạnh của Leviathan - nguồn năng lượng vô tận của vực thẳm. \"Từng giữ sự sống của con quái vật lớn nhất từng tồn tại.\""
+          }
+        ],
+        "prestigeReq": 11
+      },
+      {
+        "ID": 2,
+        "name": "Đền Thờ Thần Biển (Temple of the Sea God)",
+        "levelReq": 185,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Gạch San Hô Cổ",
+            "category": "Common",
+            "size": 38,
+            "sell": 4400000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Prismarine_Bricks.png",
+            "footer": "Vật liệu xây dựng của đền thờ thần biển hàng nghìn năm tuổi. \"Mỗi viên gạch được đặt bởi bàn tay của tín đồ ngàn xưa.\""
+          },
+          {
+            "ID": 1,
+            "name": "Đá Hải Vương (Prismarine)",
+            "category": "Common",
+            "size": 38,
+            "sell": 4400000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Prismarine.png",
+            "footer": "Loại đá đặc trưng của đền thờ dưới nước, màu xanh tươi ánh vàng. \"Đổi màu theo thời gian - xanh, rồi vàng, rồi lại xanh.\""
+          },
+          {
+            "ID": 2,
+            "name": "Đèn Hải Đăng Cổ",
+            "category": "Common",
+            "size": 38,
+            "sell": 4400000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Sea_Lantern.png",
+            "footer": "Đèn thờ của đền thần biển, vẫn sáng dù không ai thắp từ bao lâu. \"Sức mạnh của thần biển khiến ánh sáng không bao giờ tắt.\""
+          },
+          {
+            "ID": 3,
+            "name": "Vật Phẩm Tế Lễ",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 14100000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật phẩm người xưa dâng lên thần biển để cầu bình an. \"Giá trị không ở vật liệu mà ở ý nghĩa đằng sau nó.\""
+          },
+          {
+            "ID": 4,
+            "name": "Tượng Thần Biển Vỡ",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 14100000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh vỡ từ bức tượng thần biển khổng lồ bị thời gian phá hủy. \"Dù vỡ vụn, năng lượng thiêng liêng trong từng mảnh vẫn còn đó.\""
+          },
+          {
+            "ID": 5,
+            "name": "Thủy Tinh Hải Thần",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 14100000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Loại thủy tinh đặc biệt dùng trong nghi lễ của đền thờ. \"Trong suốt nhưng không thể nhìn xuyên qua - ẩn chứa bí mật của thần biển.\""
+          },
+          {
+            "ID": 6,
+            "name": "Bảo Kiếm San Hô",
+            "category": "Rare",
+            "size": 11,
+            "sell": 48700000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Kiếm của vệ thần canh giữ đền thờ, làm từ san hô cứng như thép. \"Sắc bén và kháng nước hoàn toàn - vũ khí hoàn hảo dưới lòng biển.\""
+          },
+          {
+            "ID": 7,
+            "name": "Điều Khiển Hải Lưu",
+            "category": "Rare",
+            "size": 11,
+            "sell": 48700000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật phẩm huyền bí dùng để điều khiển dòng hải lưu. \"Ai cầm nó sẽ có thể hướng cả đại dương theo ý muốn.\""
+          },
+          {
+            "ID": 8,
+            "name": "Ngọc Đại Dương (Ocean Jade)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 48700000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Ngọc bích xanh lam từ đáy biển, vật phẩm thánh của đền thờ. \"Màu của nó thay đổi theo thủy triều - xanh khi nước dâng, trắng khi nước rút.\""
+          },
+          {
+            "ID": 9,
+            "name": "Vương Trượng Thần Biển",
+            "category": "Epic",
+            "size": 6,
+            "sell": 168000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vương trượng của thần biển, cực kỳ hiếm và đầy năng lượng. \"Giơ lên - sóng biển dâng cao. Hạ xuống - biển lặng như gương.\""
+          },
+          {
+            "ID": 10,
+            "name": "Bản Đồ Kho Báu Thần Biển",
+            "category": "Epic",
+            "size": 6,
+            "sell": 168000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Locked_Map.png",
+            "footer": "Bản đồ dẫn đến kho báu tối thượng của thần biển. \"Đọc được bản đồ này, bạn sẽ giàu hơn mọi vương quốc trên mặt đất.\""
+          },
+          {
+            "ID": 11,
+            "name": "Mắt Thần Biển (Eye of the Sea)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 580000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Viên ngọc thánh đặt tại trung tâm đền thờ, con mắt của thần biển. \"Nó nhìn thấy mọi thứ dưới lòng đại dương - kể cả bạn.\""
+          },
+          {
+            "ID": 12,
+            "name": "Linh Hồn Thần Biển (Sea God's Soul)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 580000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh chất của thần biển cổ đại đã ngủ vĩnh cửu. \"Nắm giữ nó, bạn nghe thấy tiếng của cả đại dương.\""
+          },
+          {
+            "ID": 13,
+            "name": "Trái Tim Đại Dương (Heart of the Deep)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 3250000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Trái tim của chính Đại Dương Huyền Bí - nguồn sống của mọi sinh vật biển. \"Khi bạn nhặt nó lên, cả đại dương rùng mình.\""
+          }
+        ],
+        "prestigeReq": 12
+      }
+    ]
+  },
+  {
+  "location": "Thiên Đàng Thiên Thạch (Meteor Realm)",
+    "area": [
+      {
+        "ID": 0,
+        "name": "Cánh Đồng Thiên Thạch (Meteor Field)",
+        "levelReq": 195,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Thiên Thạch Thường",
+            "category": "Common",
+            "size": 38,
+            "sell": 6200000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh thiên thạch nhỏ rải rác khắp cánh đồng thiên thạch. \"Từ vũ trụ rơi xuống - hành trình của nó dài hơn bạn tưởng.\""
+          },
+          {
+            "ID": 1,
+            "name": "Tro Thiên Thạch",
+            "category": "Common",
+            "size": 38,
+            "sell": 6200000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tro còn sót lại từ vụ va chạm thiên thạch cổ đại. \"Vẫn còn ấm dù đã nghìn năm kể từ vụ va chạm.\""
+          },
+          {
+            "ID": 2,
+            "name": "Đất Kính Hóa (Fulgurite)",
+            "category": "Common",
+            "size": 38,
+            "sell": 6200000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Đất và cát bị nung chảy thành thủy tinh khi thiên thạch va chạm. \"Ánh sáng nghìn độ đã biến đất thành pha lê trong nháy mắt.\""
+          },
+          {
+            "ID": 3,
+            "name": "Quặng Sắt Thiên Thạch",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 19800000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Iron_Ore.png",
+            "footer": "Sắt từ lõi thiên thạch, tinh khiết hơn sắt khai thác thông thường. \"Ngoài không gian không có tạp chất - sắt ở đó thuần khiết tuyệt đối.\""
+          },
+          {
+            "ID": 4,
+            "name": "Niken Thiên Thạch",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 19800000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Kim loại niken từ lõi thiên thạch sắt-niken. \"Đặc trưng của thiên thạch kim loại - dấu hiệu nhận biết từ vũ trụ.\""
+          },
+          {
+            "ID": 5,
+            "name": "Khoáng Olivine Vũ Trụ",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 19800000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể olivine xanh lục đặc trưng của thiên thạch đá. \"Xanh như cỏ - nhưng không có cỏ nào ở nơi nó xuất phát.\""
+          },
+          {
+            "ID": 6,
+            "name": "Kim Cương Thiên Thạch",
+            "category": "Rare",
+            "size": 11,
+            "sell": 68400000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Diamond.png",
+            "footer": "Kim cương hình thành trong lòng thiên thạch dưới áp suất vũ trụ. \"Cứng hơn kim cương thường - áp suất vũ trụ không đùa với ai.\""
+          },
+          {
+            "ID": 7,
+            "name": "Mảnh Thiên Thạch Hiếm (Pallasit)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 68400000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Loại thiên thạch quý hiếm với olivine nhúng trong kim loại. \"Đẹp nhất trong tất cả các loại thiên thạch - thiên nhiên là nghệ sĩ tài ba nhất.\""
+          },
+          {
+            "ID": 8,
+            "name": "Kim Loại Vũ Trụ (Cosmic Metal)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 68400000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hợp kim lạ chưa từng thấy trên Trái Đất, chỉ có trong thiên thạch. \"Nhẹ hơn nhôm, cứng hơn thép - và không ai biết nó được tạo ra như thế nào.\""
+          },
+          {
+            "ID": 9,
+            "name": "Tinh Thể Vũ Trụ (Space Crystal)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 236000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể hình thành trong điều kiện vũ trụ không tưởng. \"Ánh sáng đi qua nó theo hướng ngược lại với vật lý thông thường.\""
+          },
+          {
+            "ID": 10,
+            "name": "Cốt Lõi Thiên Thạch Khổng Lồ",
+            "category": "Epic",
+            "size": 6,
+            "sell": 236000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lõi của thiên thạch khổng lồ to gấp cả một ngọn núi. \"Nhiệt độ lõi của nó đủ để nung chảy cả kim cương.\""
+          },
+          {
+            "ID": 11,
+            "name": "Bụi Sao (Stardust)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 816000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Bụi từ ngôi sao đã chết, trôi dạt qua vũ trụ và rơi xuống đây. \"Chúng ta đều được tạo ra từ bụi sao - và đây là bằng chứng.\""
+          },
+          {
+            "ID": 12,
+            "name": "Kim Loại Sao Chết (Dead Star Metal)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 816000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Kim loại từ lõi ngôi sao đã sụp đổ - đặc hơn bất kỳ thứ gì trên Trái Đất. \"Một thìa cà phê nặng bằng cả tòa nhà.\""
+          },
+          {
+            "ID": 13,
+            "name": "Mảnh Sao Neutron (Neutron Fragment)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 4580000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh vật chất từ sao neutron - đặc nhất trong vũ trụ. \"Cầm nó trong tay là điều không thể - nhưng bạn đang làm điều không thể.\""
+          }
+        ],
+        "prestigeReq": 13
+      },
+      {
+        "ID": 1,
+        "name": "Hố Va Chạm Cổ Đại (Ancient Crater)",
+        "levelReq": 203,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Nham Thạch Thiên Thạch",
+            "category": "Common",
+            "size": 38,
+            "sell": 10000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Basalt.png",
+            "footer": "Đá bị nung chảy và tái kết tinh bởi nhiệt của vụ va chạm. \"Vụ nổ nghìn độ đã làm lại từ đầu - và đá này là kết quả.\""
+          },
+          {
+            "ID": 1,
+            "name": "Thủy Tinh Va Chạm (Impact Glass)",
+            "category": "Common",
+            "size": 38,
+            "sell": 10000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Glass.png",
+            "footer": "Thủy tinh tự nhiên hình thành khi thiên thạch va chạm nung chảy đất đá. \"Trong suốt và hoàn hảo - thiên nhiên là thợ thổi thủy tinh tài giỏi nhất.\""
+          },
+          {
+            "ID": 2,
+            "name": "Khoáng Iridium",
+            "category": "Common",
+            "size": 38,
+            "sell": 10000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khoáng sản hiếm gặp trên Trái Đất nhưng phổ biến trong thiên thạch. \"Bằng chứng đầu tiên của vụ va chạm thiên thạch trong lịch sử địa chất.\""
+          },
+          {
+            "ID": 3,
+            "name": "Mảnh Thiên Thạch Trung",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 32000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh vỡ còn khá lớn từ thiên thạch gốc tạo ra hố này. \"Mang dấu tích của hành trình triệu năm qua vũ trụ.\""
+          },
+          {
+            "ID": 4,
+            "name": "Đá Gốc Va Chạm",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 32000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Đá gốc của Trái Đất bị biến đổi hoàn toàn bởi sức va chạm. \"Va chạm đủ mạnh để thay đổi cả cấu trúc phân tử của đá.\""
+          },
+          {
+            "ID": 5,
+            "name": "Hạt Cầu Thiên Thạch (Chondrule)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 32000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hạt cầu nhỏ hình thành trong tinh vân mặt trời - lâu đời nhất hệ mặt trời. \"Cổ hơn cả Trái Đất - bằng chứng của buổi sơ khai vũ trụ.\""
+          },
+          {
+            "ID": 6,
+            "name": "Corundum Thiên Thạch",
+            "category": "Rare",
+            "size": 11,
+            "sell": 110000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Ruby và Sapphire từ vũ trụ - corundum nguyên thủy nhất. \"Đỏ như lửa hay xanh như băng - phụ thuộc vào góc nhìn.\""
+          },
+          {
+            "ID": 7,
+            "name": "Thiên Thạch Sắt Lớn",
+            "category": "Rare",
+            "size": 11,
+            "sell": 110000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh lõi sắt từ hành tinh đã bị phá hủy hàng tỷ năm trước. \"Hành tinh đã biến mất - nhưng lõi sắt của nó vẫn trôi nổi.\""
+          },
+          {
+            "ID": 8,
+            "name": "Kim Cương Vũ Trụ Lớn",
+            "category": "Rare",
+            "size": 11,
+            "sell": 110000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Diamond.png",
+            "footer": "Kim cương khổng lồ từ lõi hành tinh đã chết. \"Áp suất trong lõi hành tinh tạo ra kim cương lớn hơn cả con người.\""
+          },
+          {
+            "ID": 9,
+            "name": "Lõi Thiên Thạch Nguyên Thủy",
+            "category": "Epic",
+            "size": 6,
+            "sell": 380000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lõi nguyên vẹn của thiên thạch khổng lồ - vật thể ngoài không gian hoàn chỉnh nhất. \"Hệ thống tinh thể bên trong nó vẫn chưa ai giải mã được.\""
+          },
+          {
+            "ID": 10,
+            "name": "Đá Tiền Thái Dương (Pre-solar Grain)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 380000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hạt khoáng sản có trước khi Mặt Trời hình thành - cổ nhất vũ trụ. \"Cổ hơn cả hệ mặt trời - vật chứng của thời điểm vũ trụ còn trẻ.\""
+          },
+          {
+            "ID": 11,
+            "name": "Mảnh Hành Tinh Cổ (Ancient Planet Fragment)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 1310000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh từ hành tinh đã không còn tồn tại từ hàng tỷ năm trước. \"Hành tinh chết - nhưng mảnh của nó đến đây để kể câu chuyện.\""
+          },
+          {
+            "ID": 12,
+            "name": "Năng Lượng Va Chạm (Impact Energy Crystal)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 1310000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể lưu giữ năng lượng từ vụ va chạm, vẫn còn hoạt động sau triệu năm. \"Chạm vào nó, bạn cảm thấy năng lượng của cả vụ va chạm thiên thạch.\""
+          },
+          {
+            "ID": 13,
+            "name": "Vật Chất Tối (Dark Matter Fragment)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 7350000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh vật chất tối bị cuốn vào thiên thạch và rơi xuống đây. \"Không phát sáng, không phản chiếu - nhưng vẫn có thể nhặt lên và cảm nhận trọng lượng.\""
+          }
+        ],
+        "prestigeReq": 13
+      },
+      {
+        "ID": 2,
+        "name": "Đài Quan Sát Vũ Trụ (Cosmic Observatory)",
+        "levelReq": 210,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Kính Thiên Văn Vỡ",
+            "category": "Common",
+            "size": 38,
+            "sell": 15200000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Glass.png",
+            "footer": "Mảnh kính từ đài quan sát bị thiên thạch phá hủy. \"Từng nhìn thấy cả vũ trụ - giờ chỉ còn là mảnh vỡ.\""
+          },
+          {
+            "ID": 1,
+            "name": "Thiết Bị Đo Vũ Trụ Cổ",
+            "category": "Common",
+            "size": 38,
+            "sell": 15200000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Thiết bị đo thiên văn của nền văn minh cổ đại đã biến mất. \"Họ đã nhìn thấy gì với thiết bị này - và điều đó có phải lý do họ biến mất?\""
+          },
+          {
+            "ID": 2,
+            "name": "Bản Đồ Sao Cổ",
+            "category": "Common",
+            "size": 38,
+            "sell": 15200000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Map.png",
+            "footer": "Bản đồ sao của nền văn minh thiên thạch, vẽ những chòm sao không ai nhận ra. \"Những ngôi sao trên bản đồ này - không ngôi nào còn tồn tại.\""
+          },
+          {
+            "ID": 3,
+            "name": "Mảnh Kim Loại Không Gian",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 48700000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Kim loại từ vũ trụ dùng xây dựng đài quan sát huyền thoại. \"Không rỉ, không ăn mòn - bền vững như chính vũ trụ.\""
+          },
+          {
+            "ID": 4,
+            "name": "Thủy Tinh Vũ Trụ Đặc Biệt",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 48700000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Thủy tinh chế tác từ cát thiên thạch, dùng làm kính thiên văn. \"Trong suốt hoàn hảo - không một tạp chất nào.\""
+          },
+          {
+            "ID": 5,
+            "name": "Năng Lượng Ngôi Sao Lưu Trữ",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 48700000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Pin năng lượng mặt trời cổ đại vẫn còn tích điện sau nghìn năm. \"Công nghệ chứa năng lượng sao - không ai hiểu nguyên lý của nó.\""
+          },
+          {
+            "ID": 6,
+            "name": "Pha Lê Ngôi Sao (Star Crystal)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 168000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể từ tâm ngôi sao, phát ra ánh sáng không bao giờ tắt. \"Ánh sáng của ngôi sao đã chết - nhưng tinh thể này còn lưu giữ nó.\""
+          },
+          {
+            "ID": 7,
+            "name": "Gương Không Gian (Space Mirror)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 168000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Gương phản chiếu ánh sáng sao, dùng trong kính thiên văn cổ đại. \"Nhìn vào nó - bạn nhìn thấy quá khứ, không phải hiện tại.\""
+          },
+          {
+            "ID": 8,
+            "name": "Cốt Lõi Máy Tính Vũ Trụ",
+            "category": "Rare",
+            "size": 11,
+            "sell": 168000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Bộ xử lý của máy tính vũ trụ cổ đại, vẫn còn hoạt động. \"Đang tính toán điều gì đó - đã tính toán suốt nghìn năm qua.\""
+          },
+          {
+            "ID": 9,
+            "name": "Mắt Thiên Văn (Astral Eye)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 580000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Kính mắt thiên văn của nhà thiên văn huyền thoại, nhìn xuyên qua mọi chiều. \"Đeo vào - bạn thấy được quỹ đạo của mọi vật thể trong vũ trụ.\""
+          },
+          {
+            "ID": 10,
+            "name": "Dữ Liệu Vũ Trụ Cổ",
+            "category": "Epic",
+            "size": 6,
+            "sell": 580000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Thiết bị lưu trữ dữ liệu cổ đại chứa bí mật của vũ trụ. \"Giải mã được nó - bạn biết tất cả mọi thứ từng xảy ra trong vũ trụ.\""
+          },
+          {
+            "ID": 11,
+            "name": "Ngôi Sao Sa (Falling Star)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 2010000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Star.png",
+            "footer": "Ngôi sao băng đóng băng hoàn toàn trong mảnh thiên thạch. \"Một điều ước được cấp phép - nhưng bạn sẽ ước gì?\""
+          },
+          {
+            "ID": 12,
+            "name": "Lõi Máy Tính Vũ Trụ Hoàn Chỉnh",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 2010000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lõi tính toán của đài quan sát, lưu giữ kiến thức của cả một nền văn minh. \"Đặt tay lên - bạn cảm thấy hàng tỷ phép tính đang chạy.\""
+          },
+          {
+            "ID": 13,
+            "name": "Mắt Vũ Trụ (Eye of the Cosmos)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 11300000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật phẩm tối thượng của Thiên Đàng Thiên Thạch - con mắt nhìn thấy toàn bộ vũ trụ. \"Ai sở hữu nó, người đó biết tất cả - và gánh nặng của tri thức tuyệt đối.\""
+          }
+        ],
+        "prestigeReq": 14
+      }
+    ]
+  },
+  {
+  "location": "Vương Quốc Bóng Tối (Shadow Kingdom)",
+    "area": [
+      {
+        "ID": 0,
+        "name": "Cổng Bóng Tối (Shadow Gate)",
+        "levelReq": 220,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Bóng Tối",
+            "category": "Common",
+            "size": 38,
+            "sell": 20000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Blackstone.png",
+            "footer": "Đá đen tuyền, không phản chiếu ánh sáng từ bất kỳ nguồn nào. \"Đặt nó trong ánh mặt trời - nó vẫn đen tuyền như đêm.\""
+          },
+          {
+            "ID": 1,
+            "name": "Mảnh Cổng Bóng Tối",
+            "category": "Common",
+            "size": 38,
+            "sell": 20000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Obsidian.png",
+            "footer": "Mảnh vỡ từ Cổng Bóng Tối - cổng duy nhất dẫn vào vương quốc này. \"Obsidian bình thường không thể sánh với thứ này.\""
+          },
+          {
+            "ID": 2,
+            "name": "Cát Bóng Tối",
+            "category": "Common",
+            "size": 38,
+            "sell": 20000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Cát đen mịn phủ khắp vùng đất phía trước Cổng Bóng Tối. \"Không có ánh sáng - chỉ có cát đen và bóng tối.\""
+          },
+          {
+            "ID": 3,
+            "name": "Tinh Thể Bóng Tối",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 64000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể hấp thụ mọi ánh sáng chạm vào. \"Cầm nó trong bóng tối - chính nó là bóng tối sâu hơn nữa.\""
+          },
+          {
+            "ID": 4,
+            "name": "Khói Bóng Tối Đông Đặc",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 64000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khói bóng tối đặc lại thành vật chất có thể cầm được. \"Nó không có hình dạng cố định - như chính bóng tối không có hình dạng.\""
+          },
+          {
+            "ID": 5,
+            "name": "Mảnh Gương Đen (Shadow Mirror)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 64000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Gương phản chiếu bóng tối thay vì ánh sáng. \"Nhìn vào đây - bạn thấy phiên bản bóng tối của chính mình.\""
+          },
+          {
+            "ID": 6,
+            "name": "Ngọc Đen Huyền (Shadow Obsidian)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 221000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Obsidian tiến hóa trong môi trường bóng tối thuần khiết. \"Tối hơn cả Crying Obsidian - không một giọt sáng nào thoát ra.\""
+          },
+          {
+            "ID": 7,
+            "name": "Vũ Khí Bóng Tối Cổ",
+            "category": "Rare",
+            "size": 11,
+            "sell": 221000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vũ khí từ vệ binh của Cổng Bóng Tối - làm từ vật chất bóng tối. \"Kẻ canh cổng đã không còn - nhưng vũ khí vẫn ở lại.\""
+          },
+          {
+            "ID": 8,
+            "name": "Hạt Bóng Đêm (Darknight Shard)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 221000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh vỡ từ trái tim của đêm vĩnh cửu - Vương Quốc Bóng Tối. \"Đen như đêm không trăng không sao.\""
+          },
+          {
+            "ID": 9,
+            "name": "Ngai Bóng Tối Nhỏ",
+            "category": "Epic",
+            "size": 6,
+            "sell": 764000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mô hình thu nhỏ của Ngai Bóng Tối - biểu tượng quyền lực vương quốc. \"Cầm trong tay mô hình ngai - và cảm thấy như đang ngồi trên ngai thật.\""
+          },
+          {
+            "ID": 10,
+            "name": "Vương Miện Bóng Đêm",
+            "category": "Epic",
+            "size": 6,
+            "sell": 764000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vương miện của Vua Bóng Tối - đeo vào để hiểu thấu bóng đêm. \"Không vương miện nào tối như thế này - không ai nhìn thấy nó đang được đội.\""
+          },
+          {
+            "ID": 11,
+            "name": "Trái Tim Bóng Tối (Shadow Heart)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 2640000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Trái tim của Vương Quốc Bóng Tối - nguồn sức mạnh tối tăm vô tận. \"Đập chậm và nặng - như chính bóng đêm đang đập trong tay bạn.\""
+          },
+          {
+            "ID": 12,
+            "name": "Lõi Bóng Tối (Shadow Core)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 2640000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lõi năng lượng của cổng bóng tối - nguyên liệu tạo nên cổng ban đầu. \"Cổng đã bị phá hủy - nhưng lõi tạo ra nó vẫn còn.\""
+          },
+          {
+            "ID": 13,
+            "name": "Linh Hồn Bóng Tối Nguyên Thủy (Primal Shadow)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 14800000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Linh hồn bóng tối đầu tiên tồn tại khi vũ trụ hình thành - trước cả ánh sáng. \"Bóng tối có trước ánh sáng - và đây là bằng chứng.\""
+          }
+        ],
+        "prestigeReq": 15
+      },
+      {
+        "ID": 1,
+        "name": "Cung Điện Bóng Tối (Shadow Palace)",
+        "levelReq": 230,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Gạch Bóng Tối",
+            "category": "Common",
+            "size": 38,
+            "sell": 32000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Blackstone.png",
+            "footer": "Vật liệu xây dựng của cung điện bóng tối vĩ đại. \"Không rỉ, không mòn - bóng tối không sợ thời gian.\""
+          },
+          {
+            "ID": 1,
+            "name": "Rèm Bóng Đêm",
+            "category": "Common",
+            "size": 38,
+            "sell": 32000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Rèm trang trí làm từ bóng tối đông đặc, rủ dài trong cung điện. \"Chạm vào - tay bạn biến mất trong bóng tối của nó.\""
+          },
+          {
+            "ID": 2,
+            "name": "Đèn Linh Hồn Bóng Tối",
+            "category": "Common",
+            "size": 38,
+            "sell": 32000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Soul_Lantern.png",
+            "footer": "Đèn làm từ linh hồn bị giam trong bóng tối vĩnh cửu. \"Xanh lạnh và đáng sợ - chiếu sáng bằng nỗi tuyệt vọng.\""
+          },
+          {
+            "ID": 3,
+            "name": "Giáp Bóng Tối Vỡ",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 102000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh giáp của Vệ Binh Bóng Tối - kẻ bảo vệ cung điện đã thất bại. \"Ngay cả giáp bóng tối cũng không đủ để bảo vệ chủ nhân.\""
+          },
+          {
+            "ID": 4,
+            "name": "Kiếm Bóng (Shadow Blade)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 102000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Kiếm làm từ bóng tối cô đặc - không thể nhìn thấy trong bóng đêm. \"Vũ khí không thể nhìn thấy là vũ khí nguy hiểm nhất.\""
+          },
+          {
+            "ID": 5,
+            "name": "Ngọc Nữ Thần Bóng Tối",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 102000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Ngọc trang sức của Nữ Thần Bóng Tối - biểu tượng quyền lực vương quốc. \"Đen hoàn toàn - nhưng khi bóng tối xung quanh đủ sâu, nó phát sáng.\""
+          },
+          {
+            "ID": 6,
+            "name": "Vương Trượng Bóng Đêm",
+            "category": "Rare",
+            "size": 11,
+            "sell": 352000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vương trượng quyền lực của Vua Bóng Tối - công cụ cai trị đêm trường. \"Giơ lên - cả vùng đất chìm vào bóng tối.\""
+          },
+          {
+            "ID": 7,
+            "name": "Lá Thư Tối Tăm",
+            "category": "Rare",
+            "size": 11,
+            "sell": 352000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Thông điệp từ Vua Bóng Tối gửi cho những kẻ dám xâm nhập. \"Viết bằng mực tối - chỉ đọc được trong bóng đêm hoàn toàn.\""
+          },
+          {
+            "ID": 8,
+            "name": "Hộp Linh Hồn Bóng Tối",
+            "category": "Rare",
+            "size": 11,
+            "sell": 352000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hộp chứa linh hồn của những kẻ bị Vua Bóng Tối giam cầm. \"Mở ra - và hàng nghìn linh hồn thoát ra.\""
+          },
+          {
+            "ID": 9,
+            "name": "Ngai Bóng Tối (Shadow Throne Shard)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 1216000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh từ chính Ngai Bóng Tối của Vua - thứ quyền lực nhất cung điện. \"Ngay cả mảnh vỡ cũng mang theo quyền lực của cả ngai vàng.\""
+          },
+          {
+            "ID": 10,
+            "name": "Bí Kíp Bóng Tối Cổ",
+            "category": "Epic",
+            "size": 6,
+            "sell": 1216000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Enchanted_Book.png",
+            "footer": "Sách phép thuật bóng tối của Vua - bí mật điều khiển đêm tối. \"Đọc nó - và bóng tối sẽ tuân lệnh bạn.\""
+          },
+          {
+            "ID": 11,
+            "name": "Linh Hồn Vua Bóng Tối",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 4200000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Linh hồn của chính Vua Bóng Tối - năng lượng tối tăm tuyệt đỉnh. \"Ngài vẫn tồn tại dưới dạng linh hồn - và không hề bằng lòng với điều đó.\""
+          },
+          {
+            "ID": 12,
+            "name": "Vương Miện Đêm Trường (Crown of Eternal Night)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 4200000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vương miện của Vua Bóng Tối - đội vào, đêm sẽ không bao giờ kết thúc. \"Người đội nó cuối cùng đã biến mất - cùng với cả mặt trời.\""
+          },
+          {
+            "ID": 13,
+            "name": "Cốt Lõi Vương Quốc Bóng Tối (Dark Kingdom Core)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 23600000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lõi sức mạnh của toàn bộ Vương Quốc Bóng Tối - thứ giữ đêm tối vĩnh cửu. \"Phá hủy nó - và bình minh sẽ ló dạng lần đầu tiên sau ngàn năm.\""
+          }
+        ],
+        "prestigeReq": 15
+      },
+      {
+        "ID": 2,
+        "name": "Ngai Bóng Tối (Throne of Shadows)",
+        "levelReq": 240,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Ngai Bóng Tối",
+            "category": "Common",
+            "size": 38,
+            "sell": 51000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Blackstone.png",
+            "footer": "Đá lát sàn tại căn phòng ngai bóng tối tuyệt đỉnh. \"Mỗi bước đi trên nó như bước vào trái tim bóng tối.\""
+          },
+          {
+            "ID": 1,
+            "name": "Tro Ánh Sáng (Ash of Light)",
+            "category": "Common",
+            "size": 38,
+            "sell": 51000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tàn tích của ánh sáng bị bóng tối nghiền nát hoàn toàn. \"Ánh sáng đã thua - và đây là tro cốt của nó.\""
+          },
+          {
+            "ID": 2,
+            "name": "Vật Dâng Tế Cuối Cùng",
+            "category": "Common",
+            "size": 38,
+            "sell": 51000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật phẩm dâng tế trước Ngai Bóng Tối từ kẻ xâm nhập cuối cùng. \"Họ đã dâng tất cả - và vẫn không đủ.\""
+          },
+          {
+            "ID": 3,
+            "name": "Năng Lượng Bóng Tối Thuần Khiết",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 163000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Năng lượng bóng tối ở dạng thuần khiết nhất tại trung tâm vương quốc. \"Không hình dạng, không màu sắc - chỉ là sức mạnh tuyệt đối của bóng tối.\""
+          },
+          {
+            "ID": 4,
+            "name": "Mảnh Ngai Bóng Tối",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 163000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh vỡ từ chính Ngai Bóng Tối - quyền lực nhất vương quốc. \"Ngay cả mảnh vỡ cũng tối hơn cả đêm không trăng.\""
+          },
+          {
+            "ID": 5,
+            "name": "Xương Vệ Binh Cuối Cùng",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 163000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Bone_Block.png",
+            "footer": "Tàn tích của vệ binh cuối cùng bảo vệ Ngai Bóng Tối. \"Họ đã chiến đấu đến hơi thở cuối - và thua.\""
+          },
+          {
+            "ID": 6,
+            "name": "Huyết Bóng Tối (Shadow Blood)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 564000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Máu của sinh vật bóng tối bậc cao - đặc và lạnh như đêm đông. \"Không đông đặc dù lạnh đến đâu - bóng tối không bao giờ đóng băng.\""
+          },
+          {
+            "ID": 7,
+            "name": "Lông Quạ Đêm Vĩnh Cửu",
+            "category": "Rare",
+            "size": 11,
+            "sell": 564000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Feather.png",
+            "footer": "Lông từ loài quạ thần sứ giả của Vua Bóng Tối. \"Đen tuyền - nhưng trong bóng tối, nó sáng lên màu tím huyền.\""
+          },
+          {
+            "ID": 8,
+            "name": "Khóa Bóng Tối (Shadow Lock)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 564000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khóa của cửa dẫn đến kho báu tối thượng của Vua Bóng Tối. \"Không chìa nào mở được - chỉ có bóng tối thuần khiết.\""
+          },
+          {
+            "ID": 9,
+            "name": "Ấn Vương Quốc Bóng Tối",
+            "category": "Epic",
+            "size": 6,
+            "sell": 1950000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Ấn triện của Vương Quốc Bóng Tối - dấu hiệu của quyền lực tuyệt đối. \"Đóng ấn này lên - và bóng tối sẽ tuân lệnh.\""
+          },
+          {
+            "ID": 10,
+            "name": "Kiếm Vua Bóng Tối (Shadow King's Blade)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 1950000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Thanh kiếm của Vua Bóng Tối - vũ khí đã khuất phục ngàn chiến binh ánh sáng. \"Mỗi vết xước trên kiếm là một trận chiến, một chiến thắng.\""
+          },
+          {
+            "ID": 11,
+            "name": "Tinh Chất Đêm Vĩnh Cửu (Essence of Eternal Night)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 6740000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh chất của đêm vĩnh cửu - thứ đã tạo nên Vương Quốc Bóng Tối. \"Trước ánh sáng - có bóng tối. Và đây là tinh chất của thuở ban đầu đó.\""
+          },
+          {
+            "ID": 12,
+            "name": "Ngai Bóng Tối Hoàn Chỉnh (Complete Shadow Throne)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 6740000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Phiên bản thu nhỏ hoàn hảo của Ngai Bóng Tối - vật phẩm quyền lực nhất vương quốc. \"Ngồi lên nó - và bạn là Vua Bóng Tối tiếp theo.\""
+          },
+          {
+            "ID": 13,
+            "name": "Linh Hồn Đêm Vĩnh Cửu (Soul of Eternal Night)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 37900000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Linh hồn của chính Đêm Vĩnh Cửu - thứ tối tăm nhất tồn tại. \"Ai sở hữu nó, người đó cai trị bóng tối cho đến khi vũ trụ kết thúc.\""
+          }
+        ],
+        "prestigeReq": 16
+      }
+    ]
+  },
+  {
+  "location": "Lõi Hành Tinh (Planetary Core)",
+    "area": [
+      {
+        "ID": 0,
+        "name": "Lớp Phủ Sâu (Deep Mantle)",
+        "levelReq": 245,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Peridotit",
+            "category": "Common",
+            "size": 38,
+            "sell": 68000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Basalt.png",
+            "footer": "Đá cấu thành lớp phủ sâu của hành tinh. \"Nóng đến mức gần chảy - nhưng áp suất giữ nó ở dạng rắn.\""
+          },
+          {
+            "ID": 1,
+            "name": "Magma Nguyên Thủy",
+            "category": "Common",
+            "size": 38,
+            "sell": 68000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Magma_Block.png",
+            "footer": "Dung nham từ sâu nhất hành tinh, nóng hơn bất kỳ thứ gì bên trên. \"Nóng hơn bề mặt mặt trời - nhưng áp suất giữ nó không nổ tung.\""
+          },
+          {
+            "ID": 2,
+            "name": "Khoáng Olivine Lớp Phủ",
+            "category": "Common",
+            "size": 38,
+            "sell": 68000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khoáng sản xanh lục chiếm phần lớn lớp phủ hành tinh. \"Xanh như ngọc bích - nhưng nóng đủ để đốt cháy ngọc bích.\""
+          },
+          {
+            "ID": 3,
+            "name": "Kim Cương Áp Suất Cực Cao",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 218000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Diamond.png",
+            "footer": "Kim cương hình thành trong điều kiện áp suất khủng khiếp của lớp phủ. \"Không có lò nung nào tạo ra áp suất này - chỉ có lõi hành tinh.\""
+          },
+          {
+            "ID": 4,
+            "name": "Spinel Lớp Phủ",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 218000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Đá quý hiếm hình thành trong vùng chuyển tiếp lớp phủ. \"Đỏ như máu và cứng như ý chí của kẻ đào đến đây.\""
+          },
+          {
+            "ID": 5,
+            "name": "Khoáng Wadsleyite",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 218000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khoáng sản đặc trưng của vùng chuyển tiếp lớp phủ, cực kỳ hiếm. \"Không thể tồn tại trên bề mặt - áp suất của lớp phủ mới tạo ra nó.\""
+          },
+          {
+            "ID": 6,
+            "name": "Khoáng Ringwoodit (Ringwoodite)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 754000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khoáng sản chứa nước trong lớp phủ - đại dương ẩn dưới lòng hành tinh. \"Lớp phủ chứa nhiều nước hơn cả đại dương trên bề mặt - ẩn trong khoáng này.\""
+          },
+          {
+            "ID": 7,
+            "name": "Sắt Lớp Phủ Nóng Chảy",
+            "category": "Rare",
+            "size": 11,
+            "sell": 754000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Sắt lỏng từ lớp phủ đã đông đặc lại trong quá trình khai thác. \"Đông đặc mà vẫn nóng - như thể không muốn trở về trạng thái rắn.\""
+          },
+          {
+            "ID": 8,
+            "name": "Tinh Thể Áp Suất Lớp Phủ",
+            "category": "Rare",
+            "size": 11,
+            "sell": 754000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể hình thành dưới áp suất hàng triệu atmosphere. \"Trên bề mặt, nó nổ vỡ thành bụi - phải bảo quản đặc biệt.\""
+          },
+          {
+            "ID": 9,
+            "name": "Lõi Lớp Phủ (Mantle Core)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 2610000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lõi năng lượng của lớp phủ - nguồn nhiệt lượng của hành tinh. \"Nhiệt lượng trong nó đủ để sưởi ấm cả một đại lục.\""
+          },
+          {
+            "ID": 10,
+            "name": "Đá Nguyên Thủy Hành Tinh",
+            "category": "Epic",
+            "size": 6,
+            "sell": 2610000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Đá từ buổi sơ khai hành tinh - cổ hơn bất kỳ đá nào trên bề mặt. \"4,5 tỷ năm - tuổi của thứ bạn đang cầm.\""
+          },
+          {
+            "ID": 11,
+            "name": "Kim Loại Nguyên Thủy (Primordial Metal)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 9020000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Kim loại từ buổi đầu hành tinh hình thành - bền nhất vũ trụ. \"Sinh ra từ đám mây tiền ngôi sao - cứng hơn cả lịch sử.\""
+          },
+          {
+            "ID": 12,
+            "name": "Nhiệt Lượng Lõi Đóng Băng (Frozen Core Heat)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 9020000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Năng lượng nhiệt từ lõi hành tinh được đông lạnh thành thể rắn. \"Nghịch lý - nhiệt độ cực cao bị đông lạnh. Chỉ có ở lõi hành tinh.\""
+          },
+          {
+            "ID": 13,
+            "name": "Tim Hành Tinh (Heart of the Planet)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 50700000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Trái tim thực sự của hành tinh - nguồn sống của cả thế giới. \"Lấy nó ra - hành tinh ngừng đập. Để nó lại - và thế giới tiếp tục sống.\""
+          }
+        ],
+        "prestigeReq": 17
+      },
+      {
+        "ID": 1,
+        "name": "Lõi Ngoài Lỏng (Liquid Outer Core)",
+        "levelReq": 255,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Sắt Lỏng Lõi Ngoài",
+            "category": "Common",
+            "size": 38,
+            "sell": 110000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Sắt trong trạng thái lỏng do nhiệt độ cực cao của lõi ngoài. \"Chảy chậm như mật - nhưng nóng gấp mười lần Mặt Trời.\""
+          },
+          {
+            "ID": 1,
+            "name": "Niken Lỏng Lõi Ngoài",
+            "category": "Common",
+            "size": 38,
+            "sell": 110000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Niken lỏng trộn lẫn với sắt trong lõi ngoài. \"Chuyển động của nó tạo ra từ trường bảo vệ cả hành tinh.\""
+          },
+          {
+            "ID": 2,
+            "name": "Kim Loại Lõi Đông Đặc",
+            "category": "Common",
+            "size": 38,
+            "sell": 110000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Sắt-niken đông đặc nhanh khi thoát ra môi trường lõi. \"Trong nháy mắt từ lỏng sang rắn - sự kỳ diệu của nhiệt động lực học.\""
+          },
+          {
+            "ID": 3,
+            "name": "Từ Trường Đóng Băng (Frozen Magnetism)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 352000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh từ trường của hành tinh bị đông đặc thành thể rắn. \"Đặt gần kim la bàn - nó quay điên loạn không ngừng.\""
+          },
+          {
+            "ID": 4,
+            "name": "Khoáng Siêu Dẫn Lõi",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 352000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khoáng sản dẫn điện hoàn hảo chỉ tồn tại trong lõi ngoài. \"Điện đi qua nó mà không mất một phần năng lượng nào.\""
+          },
+          {
+            "ID": 5,
+            "name": "Tinh Thể Từ Tính Cực Cao",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 352000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể từ tính cực mạnh hình thành trong lõi ngoài. \"Gần nó - mọi kim loại đều bay về phía nó.\""
+          },
+          {
+            "ID": 6,
+            "name": "Lõi Từ Trường (Magnetic Core)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 1220000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lõi từ trường của hành tinh - nguồn năng lượng vô tận. \"Chừng nào nó còn quay - từ trường còn bảo vệ hành tinh.\""
+          },
+          {
+            "ID": 7,
+            "name": "Giọt Kim Loại Lõi (Core Metal Drop)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 1220000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Giọt kim loại thuần khiết từ lõi ngoài, đông đặc hoàn hảo. \"Hình cầu hoàn hảo - lực căng bề mặt trong lõi ngoài không đùa với ai.\""
+          },
+          {
+            "ID": 8,
+            "name": "Năng Lượng Địa Nhiệt (Geothermal Energy)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 1220000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Năng lượng địa nhiệt cô đặc thành thể rắn - pin tự nhiên vĩnh cửu. \"Không bao giờ hết năng lượng - vì hành tinh không bao giờ nguội lạnh.\""
+          },
+          {
+            "ID": 9,
+            "name": "Tinh Hoa Lõi Ngoài (Outer Core Essence)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 4220000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh chất thuần khiết nhất của lõi ngoài - vật chất nóng nhất hành tinh. \"Nhiệt độ của nó đủ để làm bốc hơi bất kỳ thứ gì.\""
+          },
+          {
+            "ID": 10,
+            "name": "Cực Từ Đóng Băng (Frozen Magnetic Pole)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 4220000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Đầu cực từ của hành tinh bị đóng băng trong vật chất rắn. \"Cực Bắc và Cực Nam - ai sở hữu cả hai, người đó định hướng được cả thế giới.\""
+          },
+          {
+            "ID": 11,
+            "name": "Năng Lượng Hành Tinh (Planetary Energy)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 14600000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Star.png",
+            "footer": "Năng lượng thuần khiết của hành tinh tồn tại ở thể rắn. \"Bằng tổng năng lượng của tất cả các vụ núi lửa phun trào trong một triệu năm.\""
+          },
+          {
+            "ID": 12,
+            "name": "Linh Hồn Lõi Hành Tinh (Core Soul)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 14600000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Linh hồn của chính hành tinh - ý thức của một sinh vật đang sống dưới chân bạn. \"Hành tinh không chỉ là đá - nó đang sống, và đây là linh hồn của nó.\""
+          },
+          {
+            "ID": 13,
+            "name": "Lõi Sắt Hành Tinh (Iron Planet Core)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 82000000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh lõi sắt nguyên chất của hành tinh - đặc nhất thứ tồn tại dưới đất. \"Một thìa cà phê nặng bằng cả núi - vật chất nén nhất Trái Đất.\""
+          }
+        ],
+        "prestigeReq": 17
+      },
+      {
+        "ID": 2,
+        "name": "Lõi Trong Rắn (Solid Inner Core)",
+        "levelReq": 265,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Sắt Lõi Trong Rắn",
+            "category": "Common",
+            "size": 38,
+            "sell": 177000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Sắt rắn tuyệt đối tại trung tâm hành tinh dù nhiệt độ cực cao. \"Rắn không phải vì lạnh - mà vì áp suất quá lớn không cho nó chảy.\""
+          },
+          {
+            "ID": 1,
+            "name": "Tinh Thể Sắt Lõi Trong",
+            "category": "Common",
+            "size": 38,
+            "sell": 177000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể sắt khổng lồ hình thành trong lõi trong của hành tinh. \"Lớn hơn cả một quốc gia - tinh thể đơn lớn nhất hệ mặt trời.\""
+          },
+          {
+            "ID": 2,
+            "name": "Kim Cương Lõi Hành Tinh",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 567000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Block_of_Diamond.png",
+            "footer": "Kim cương khổng lồ từ lõi trong - cứng nhất mọi thứ từng tồn tại. \"Áp suất của lõi hành tinh vượt xa mọi máy ép kim cương nhân tạo.\""
+          },
+          {
+            "ID": 3,
+            "name": "Hợp Kim Lõi Tối Thượng",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 567000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Netherite_Ingot.png",
+            "footer": "Hợp kim siêu đặc biệt hình thành trong lõi trong - vượt xa Netherite. \"Netherite mạnh nhất mà con người biết - đây là thứ mạnh hơn Netherite.\""
+          },
+          {
+            "ID": 4,
+            "name": "Năng Lượng Lõi Tuyệt Đối",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 567000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Năng lượng nén hoàn toàn trong lõi trong rắn của hành tinh. \"Phóng thích năng lượng trong đây - bạn có một vụ nổ hạt nhân nhỏ.\""
+          },
+          {
+            "ID": 5,
+            "name": "Ánh Sáng Lõi (Core Light)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 567000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Beacon.png",
+            "footer": "Ánh sáng bí ẩn phát ra từ trung tâm lõi trong - không ai giải thích được. \"Không có phản ứng hóa học hay hạt nhân nào tạo ra nó - vậy nó đến từ đâu?\""
+          },
+          {
+            "ID": 6,
+            "name": "Đá Quý Lõi Tuyệt Đỉnh (Core Gemstone)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 1960000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Đá quý tuyệt đỉnh chỉ có thể hình thành tại trung tâm hành tinh. \"Áp suất và nhiệt độ tuyệt đối tạo ra vẻ đẹp tuyệt đối.\""
+          },
+          {
+            "ID": 7,
+            "name": "Kim Loại Lõi Siêu Nặng (Ultra-Dense Core Metal)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 1960000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Kim loại nặng nhất trong hành tinh - nặng gấp 10 lần chì. \"Nhỏ như ngón tay cái - nhưng bạn không thể nhấc nổi.\""
+          },
+          {
+            "ID": 8,
+            "name": "Tinh Chất Trung Tâm (Central Essence)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 1960000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật chất ở đúng trung tâm toán học của hành tinh - điểm zero. \"Đây là điểm tâm - và bạn đang đứng ngay tại đó.\""
+          },
+          {
+            "ID": 9,
+            "name": "Lõi Hành Tinh Thuần Khiết (Pure Planetary Core)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 6790000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật chất thuần khiết nhất từ tâm điểm hành tinh. \"Được nén qua 4 tỷ năm - tinh chất của thế giới bạn sống.\""
+          },
+          {
+            "ID": 10,
+            "name": "Ký Ức Hành Tinh (Planetary Memory)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 6790000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lõi trong lưu giữ ký ức của toàn bộ lịch sử hành tinh. \"Chạm vào - bạn thấy được 4,5 tỷ năm lịch sử trong một giây.\""
+          },
+          {
+            "ID": 11,
+            "name": "Nguồn Gốc Hành Tinh (Planetary Origin)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 23500000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật chất từ thuở đầu hành tinh hình thành - 4,5 tỷ năm trước. \"Đây là thứ đầu tiên tồn tại khi hành tinh được tạo ra.\""
+          },
+          {
+            "ID": 12,
+            "name": "Hạt Nhân Hành Tinh (Planetary Nucleus)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 23500000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hạt nhân thực sự của hành tinh - điểm khởi đầu của mọi thứ. \"Từ đây - tất cả được tạo nên. Thứ nhỏ nhất lại là thứ quan trọng nhất.\""
+          },
+          {
+            "ID": 13,
+            "name": "Linh Hồn Hành Tinh Vĩnh Cửu (Eternal Planetary Soul)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 132000000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Linh hồn vĩnh cửu của chính hành tinh - ý thức sâu thẳm nhất. \"Hành tinh đang sống - và đây là bằng chứng. Nhặt nó lên, và cả thế giới rùng mình.\""
+          }
+        ],
+        "prestigeReq": 18
+      }
+    ]
+  },
+  {
+  "location": "Khoảng Không Vũ Trụ (The Void Space)",
+    "area": [
+      {
+        "ID": 0,
+        "name": "Rìa Bầu Khí Quyển (Atmosphere's Edge)",
+        "levelReq": 270,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Tầng Bình Lưu",
+            "category": "Common",
+            "size": 38,
+            "sell": 230000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Đá từ tầng cao nhất bầu khí quyển, rìa giữa hành tinh và vũ trụ. \"Một bước nữa - và bạn không còn thuộc về hành tinh nào.\""
+          },
+          {
+            "ID": 1,
+            "name": "Bụi Tầng Ozone",
+            "category": "Common",
+            "size": 38,
+            "sell": 230000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hạt vật chất từ tầng ozone - lá chắn cuối cùng trước vũ trụ. \"Mỏng như giấy - nhưng đang bảo vệ tất cả sự sống bên dưới.\""
+          },
+          {
+            "ID": 2,
+            "name": "Tinh Thể Khí Quyển (Atmospheric Crystal)",
+            "category": "Common",
+            "size": 38,
+            "sell": 230000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể hình thành từ khí bị đóng băng ở tầng cao nhất. \"Không khí đông thành tinh thể - điều không thể xảy ra ở mặt đất.\""
+          },
+          {
+            "ID": 3,
+            "name": "Mảnh Vệ Tinh Cũ",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 736000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh vỡ từ vệ tinh nhân tạo đã hỏng trôi dạt về đây. \"Từng là niềm tự hào của công nghệ - giờ là mảnh vỡ trôi nổi.\""
+          },
+          {
+            "ID": 4,
+            "name": "Rác Vũ Trụ (Space Debris)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 736000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh vỡ vũ trụ từ các vụ va chạm cũ tích tụ ở rìa khí quyển. \"Vũ trụ không có công ty vệ sinh - rác ở đó mãi mãi.\""
+          },
+          {
+            "ID": 5,
+            "name": "Gió Mặt Trời Đóng Băng (Frozen Solar Wind)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 736000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hạt từ gió Mặt Trời đóng băng lại ở rìa khí quyển. \"Nhiệt từ Mặt Trời - đóng băng khi chạm rìa khí quyển. Nghịch lý của vũ trụ.\""
+          },
+          {
+            "ID": 6,
+            "name": "Khoảng Không Đóng Băng (Frozen Vacuum)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 2550000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khoảng chân không bị đóng băng thành thể rắn - điều không thể giải thích. \"Không có gì bên trong - nhưng nó vẫn là một vật thể rắn. Vũ trụ không theo quy luật.\""
+          },
+          {
+            "ID": 7,
+            "name": "Tia Vũ Trụ Đóng Băng (Frozen Cosmic Ray)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 2550000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tia vũ trụ năng lượng cao bị đông cứng thành thể rắn. \"Di chuyển với tốc độ ánh sáng cho đến khi - nó ngừng lại và đóng băng. Tại sao?\""
+          },
+          {
+            "ID": 8,
+            "name": "Plasma Mặt Trời Đóng Băng",
+            "category": "Rare",
+            "size": 11,
+            "sell": 2550000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Plasma từ Mặt Trời bị đông cứng khi tiếp xúc với lạnh vũ trụ. \"Nóng nhất vũ trụ gặp lạnh nhất vũ trụ - và đây là kết quả.\""
+          },
+          {
+            "ID": 9,
+            "name": "Màn Từ Trường (Magnetosphere Shard)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 8820000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh từ trường của hành tinh đông đặc thành thể rắn tại rìa không gian. \"Lá chắn vô hình bảo vệ mọi sự sống - và đây là mảnh vỡ của nó.\""
+          },
+          {
+            "ID": 10,
+            "name": "Ánh Bắc Cực Đóng Băng (Frozen Aurora)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 8820000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Ánh sáng bắc cực bị đông cứng thành tinh thể màu sắc tuyệt đẹp. \"Từng là điệu múa của ánh sáng - giờ là tinh thể bất diệt.\""
+          },
+          {
+            "ID": 11,
+            "name": "Rìa Hành Tinh (Planetary Edge Crystal)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 30500000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể từ ranh giới cuối cùng của hành tinh với vũ trụ. \"Đứng đây - một nửa thuộc về hành tinh, một nửa thuộc về vũ trụ.\""
+          },
+          {
+            "ID": 12,
+            "name": "Mảnh Bầu Trời (Sky Fragment)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 30500000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh vỡ của chính bầu trời - thứ tất cả chúng ta nhìn lên mỗi ngày. \"Bầu trời không vô tận - nó có rìa, và đây là mảnh của rìa đó.\""
+          },
+          {
+            "ID": 13,
+            "name": "Điểm Nhìn Vũ Trụ (Cosmic Viewpoint)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 171000000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể nhìn thấy toàn bộ vũ trụ - viên ngọc tối thượng của rìa không gian. \"Nhìn vào nó - bạn thấy mọi ngôi sao, mọi hành tinh, và chính bản thân mình từ xa.\""
+          }
+        ],
+        "prestigeReq": 19
+      },
+      {
+        "ID": 1,
+        "name": "Vùng Không Trọng Lực (Zero Gravity Zone)",
+        "levelReq": 282,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Đá Trôi Nổi Vũ Trụ",
+            "category": "Common",
+            "size": 38,
+            "sell": 370000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Đá trôi nổi tự do trong không trọng lực - không lên, không xuống. \"Không có trên dưới ở đây - chỉ có bạn và bóng tối vô tận.\""
+          },
+          {
+            "ID": 1,
+            "name": "Hạt Bụi Vũ Trụ Nguyên Thủy",
+            "category": "Common",
+            "size": 38,
+            "sell": 370000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Bụi vũ trụ nguyên thủy từ trước khi hệ mặt trời hình thành. \"Cổ hơn cả Mặt Trời - hạt bụi này đã trôi nổi từ trước khi có ánh sáng.\""
+          },
+          {
+            "ID": 2,
+            "name": "Khí Nguyên Thủy Đóng Băng",
+            "category": "Common",
+            "size": 38,
+            "sell": 370000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khí từ tinh vân nguyên thủy đóng băng trong lạnh vũ trụ. \"Hydro và Heli nguyên thủy - thứ đầu tiên tồn tại sau Big Bang.\""
+          },
+          {
+            "ID": 3,
+            "name": "Tinh Thể Không Trọng Lực",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 1184000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể hình thành hoàn hảo trong không trọng lực - không bị méo mó bởi trọng lực. \"Hoàn hảo đến từng nguyên tử - như thiên nhiên vẫn làm khi không bị cản trở.\""
+          },
+          {
+            "ID": 4,
+            "name": "Vật Chất Phản Hấp Dẫn (Anti-Gravity Matter)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 1184000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật chất kỳ lạ đẩy ngược lại trọng lực thay vì bị hút. \"Thả xuống - nó bay lên. Vật lý ở đây không giống nơi nào khác.\""
+          },
+          {
+            "ID": 5,
+            "name": "Khoáng Chân Không (Vacuum Mineral)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 1184000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Khoáng sản hình thành trong chân không hoàn hảo của vũ trụ. \"Không thể tạo ra trong phòng thí nghiệm - chỉ có chân không vũ trụ thật sự mới làm được.\""
+          },
+          {
+            "ID": 6,
+            "name": "Ngôi Sao Tắt (Dead Star Fragment)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 4100000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Star.png",
+            "footer": "Mảnh từ ngôi sao đã chết, trôi nổi tự do trong không trọng lực. \"Từng là nguồn sáng của cả một hệ mặt trời - giờ là mảnh vỡ tối tăm.\""
+          },
+          {
+            "ID": 7,
+            "name": "Vật Chất Tối Hữu Hình (Visible Dark Matter)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 4100000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật chất tối đột nhiên hữu hình trong vùng không trọng lực này. \"Chiếm 85% vũ trụ mà không ai nhìn thấy - trừ ở đây.\""
+          },
+          {
+            "ID": 8,
+            "name": "Năng Lượng Tối Đóng Băng (Frozen Dark Energy)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 4100000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Năng lượng tối - thứ đẩy vũ trụ giãn nở - đóng băng thành thể rắn. \"Năng lượng đẩy cả vũ trụ giãn nở - và nó đang nằm trong tay bạn.\""
+          },
+          {
+            "ID": 9,
+            "name": "Lỗ Sâu Đóng Băng (Frozen Wormhole)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 14200000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Lối đi xuyên không gian đóng băng - không còn dẫn đến đâu. \"Từng là cổng đến một nơi khác trong vũ trụ - giờ là vật phẩm thu thập.\""
+          },
+          {
+            "ID": 10,
+            "name": "Không Thời Gian Đóng Băng (Frozen Spacetime)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 14200000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Không-thời gian bị đóng băng thành thể rắn - thời gian dừng lại trong đây. \"Bên trong nó - thời gian không trôi. Cổ nhất mà không già đi.\""
+          },
+          {
+            "ID": 11,
+            "name": "Tinh Chất Vũ Trụ (Cosmic Essence)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 49200000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh chất thuần khiết của vũ trụ - thứ tất cả mọi thứ được tạo ra từ đó. \"Bạn, tôi, ngôi sao, hành tinh - tất cả bắt đầu từ thứ này.\""
+          },
+          {
+            "ID": 12,
+            "name": "Hạt Đơn Vũ Trụ (Singularity Particle)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 49200000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hạt từ điểm kỳ dị nguyên thủy - trước Big Bang. \"Trước khi vũ trụ tồn tại - thứ này đã ở đây.\""
+          },
+          {
+            "ID": 13,
+            "name": "Tinh Hoa Hư Không (Essence of the Void)",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 276000000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh chất của hư không tuyệt đối - thứ tồn tại trước cả vũ trụ. \"Trước Big Bang - trước ánh sáng đầu tiên - đây là thứ duy nhất tồn tại.\""
+          }
+        ],
+        "prestigeReq": 19
+      },
+      {
+        "ID": 2,
+        "name": "Điểm Kỳ Dị (The Singularity)",
+        "levelReq": 300,
+        "creature": [
+          {
+            "ID": 0,
+            "name": "Hư Không Vật Chất Hóa",
+            "category": "Common",
+            "size": 38,
+            "sell": 600000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hư không đông đặc thành vật chất tại điểm kỳ dị. \"Không có gì - và từ không có gì, có tất cả.\""
+          },
+          {
+            "ID": 1,
+            "name": "Tia Sáng Đầu Tiên (First Light)",
+            "category": "Common",
+            "size": 38,
+            "sell": 600000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Glowstone.png",
+            "footer": "Ánh sáng đầu tiên trong vũ trụ đóng băng thành thể rắn tại điểm kỳ dị. \"Photon đầu tiên trong lịch sử vũ trụ - và nó đang nằm ở đây.\""
+          },
+          {
+            "ID": 2,
+            "name": "Vật Chất Trước Big Bang",
+            "category": "Common",
+            "size": 38,
+            "sell": 600000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Vật chất tồn tại trước khi vũ trụ hình thành. \"Không ai biết điều gì xảy ra trước Big Bang - nhưng đây là bằng chứng có gì đó tồn tại.\""
+          },
+          {
+            "ID": 3,
+            "name": "Quark Nguyên Thủy (Primordial Quark)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 1920000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hạt cơ bản nhất vũ trụ - thứ tất cả vật chất được tạo ra từ đó. \"Nhỏ hơn nguyên tử vô số lần - nhưng mọi thứ đều được tạo từ nó.\""
+          },
+          {
+            "ID": 4,
+            "name": "Năng Lượng Khai Sinh (Genesis Energy)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 1920000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Năng lượng từ khoảnh khắc đầu tiên của vũ trụ. \"Một phần trăm tỷ giây đầu tiên của vũ trụ - đóng trong viên khoáng này.\""
+          },
+          {
+            "ID": 5,
+            "name": "Không Thời Gian Nguyên Thủy (Primordial Spacetime)",
+            "category": "Uncommon",
+            "size": 20,
+            "sell": 1920000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Không-thời gian nguyên thủy từ khoảnh khắc vũ trụ mới hình thành. \"Cấu trúc không-thời gian còn chưa ổn định - đang uốn lượn trong tay bạn.\""
+          },
+          {
+            "ID": 6,
+            "name": "Hạt Tạo Vũ Trụ (Universe-Creating Particle)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 6650000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Hạt cơ bản có thể tạo ra vũ trụ mới nếu được kích hoạt đúng cách. \"Bạn đang cầm mầm mống của một vũ trụ mới trong tay.\""
+          },
+          {
+            "ID": 7,
+            "name": "Mảnh Đa Vũ Trụ (Multiverse Fragment)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 6650000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Mảnh từ vũ trụ song song - bằng chứng đa vũ trụ tồn tại. \"Có vô số vũ trụ khác - và đây là mảnh từ một trong số đó.\""
+          },
+          {
+            "ID": 8,
+            "name": "Ký Ức Vũ Trụ (Cosmic Memory)",
+            "category": "Rare",
+            "size": 11,
+            "sell": 6650000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Ký ức của toàn bộ vũ trụ kể từ Big Bang đến nay. \"Chạm vào - và bạn thấy toàn bộ lịch sử của mọi thứ tồn tại.\""
+          },
+          {
+            "ID": 9,
+            "name": "Điểm Kỳ Dị Nhỏ (Mini Singularity)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 23000000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Điểm kỳ dị thu nhỏ - hố đen siêu nhỏ nhưng vẫn cực kỳ nguy hiểm. \"Không có gì thoát ra - kể cả ánh sáng. Nhưng bạn đang cầm nó trong tay?\""
+          },
+          {
+            "ID": 10,
+            "name": "Bình Minh Vũ Trụ (Cosmic Dawn Crystal)",
+            "category": "Epic",
+            "size": 6,
+            "sell": 23000000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Tinh thể từ khoảnh khắc những ngôi sao đầu tiên bật sáng. \"Bình minh vũ trụ - khoảnh khắc bóng tối nguyên thủy bị xé toạc lần đầu tiên.\""
+          },
+          {
+            "ID": 11,
+            "name": "Nguồn Gốc Vũ Trụ (Origin of All)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 79500000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Nether_Star.png",
+            "footer": "Nguồn gốc của tất cả mọi thứ - thứ đầu tiên và cuối cùng của vũ trụ. \"Trước Big Bang, sau Big Crunch - thứ này vẫn còn đây.\""
+          },
+          {
+            "ID": 12,
+            "name": "Bản Thiết Kế Vũ Trụ (Blueprint of the Universe)",
+            "category": "Legendary",
+            "size": 3,
+            "sell": 79500000000,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dirt.png",
+            "footer": "Bản thiết kế của toàn bộ vũ trụ - quy luật vật lý dưới dạng vật chất. \"Ai hiểu được nó, người đó hiểu được ý muốn của đấng tạo ra vũ trụ.\""
+          },
+          {
+            "ID": 13,
+            "name": "Omega - Tận Cùng Của Mọi Thứ",
+            "category": "Mythical",
+            "size": 2,
+            "sell": 999999999999,
+            "image": "https://raw.githubusercontent.com/CHT7/MoonBot-Assets/main/commands/minecraft/images/Dragon_Egg.png",
+            "footer": "Vật phẩm tối thượng của toàn bộ trò chơi - điểm cuối cùng của mọi hành trình. \"Alpha là khởi đầu. Omega là tận cùng. Bạn đã đến được đây - chúc mừng, thợ mỏ.\""
+          }
+        ],
+        "prestigeReq": 20
+      }
+    ]
   }
 ]
