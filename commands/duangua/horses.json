@@ -1,0 +1,870 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026.07.1",
+  "horses": [
+    {
+      "id": "tia_chop_do",
+      "name": "Tia Chớp Đỏ",
+      "short_name": "Tia Chớp Đỏ",
+      "active": true,
+      "badge": "⚡",
+      "country": "Việt Nam",
+      "owner": "Hội Đua Xóm Chợ",
+      "stable": "Chuồng Tia Chớp",
+      "running_style": "front",
+      "colors": {
+        "body": "#F5E8E4",
+        "dark": "#8C4A3D",
+        "silk": "#FF4D4D"
+      },
+      "ratings": {
+        "speed": 91,
+        "stamina": 78,
+        "acceleration": 89,
+        "finish": 80,
+        "consistency": 80,
+        "wet_track": 76
+      }
+    },
+    {
+      "id": "gio_loc_xanh",
+      "name": "Gió Lốc Xanh",
+      "short_name": "Gió Lốc Xanh",
+      "active": true,
+      "badge": "🌪️",
+      "country": "Việt Nam",
+      "owner": "CLB Trà Đá Vỉa Hè",
+      "stable": "Chuồng Gió Lốc",
+      "running_style": "front",
+      "colors": {
+        "body": "#EAF4F2",
+        "dark": "#3D6E63",
+        "silk": "#38E4C8"
+      },
+      "ratings": {
+        "speed": 90,
+        "stamina": 79,
+        "acceleration": 90,
+        "finish": 79,
+        "consistency": 82,
+        "wet_track": 79
+      }
+    },
+    {
+      "id": "vua_xuat_phat",
+      "name": "Vua Xuất Phát",
+      "short_name": "Vua Xuất Phát",
+      "active": true,
+      "badge": "🚀",
+      "country": "Việt Nam",
+      "owner": "Anh Tuấn Idol Xóm",
+      "stable": "Chuồng Hỏa Tiễn",
+      "running_style": "front",
+      "colors": {
+        "body": "#F0EDE5",
+        "dark": "#6B5B3E",
+        "silk": "#FFC93C"
+      },
+      "ratings": {
+        "speed": 92,
+        "stamina": 80,
+        "acceleration": 88,
+        "finish": 81,
+        "consistency": 78,
+        "wet_track": 90
+      }
+    },
+    {
+      "id": "sam_set_bom_vang",
+      "name": "Sấm Sét Bờm Vàng",
+      "short_name": "Sấm Sét",
+      "active": true,
+      "badge": "🌩️",
+      "country": "Việt Nam",
+      "owner": "Chú Ba Sầu Riêng",
+      "stable": "Chuồng Bờm Vàng",
+      "running_style": "front",
+      "colors": {
+        "body": "#F2F0FA",
+        "dark": "#4B4870",
+        "silk": "#7C6BFF"
+      },
+      "ratings": {
+        "speed": 89,
+        "stamina": 81,
+        "acceleration": 91,
+        "finish": 80,
+        "consistency": 84,
+        "wet_track": 77
+      }
+    },
+    {
+      "id": "anh_chop_bac",
+      "name": "Ánh Chớp Bạc",
+      "short_name": "Ánh Chớp Bạc",
+      "active": true,
+      "badge": "✨",
+      "country": "Việt Nam",
+      "owner": "Hội Mèo Béo",
+      "stable": "Chuồng Ánh Chớp",
+      "running_style": "front",
+      "colors": {
+        "body": "#EDEFF2",
+        "dark": "#5C6570",
+        "silk": "#5CD6FF"
+      },
+      "ratings": {
+        "speed": 90,
+        "stamina": 82,
+        "acceleration": 89,
+        "finish": 78,
+        "consistency": 81,
+        "wet_track": 83
+      }
+    },
+    {
+      "id": "ngua_o_xi_tin",
+      "name": "Ngựa Ô Xì Tin",
+      "short_name": "Ngựa Ô Xì Tin",
+      "active": true,
+      "badge": "😎",
+      "country": "Việt Nam",
+      "owner": "Đội Cá Chép Rồng",
+      "stable": "Chuồng Xì Tin",
+      "running_style": "front",
+      "colors": {
+        "body": "#EFEAF5",
+        "dark": "#463A57",
+        "silk": "#C084FC"
+      },
+      "ratings": {
+        "speed": 93,
+        "stamina": 77,
+        "acceleration": 87,
+        "finish": 82,
+        "consistency": 76,
+        "wet_track": 88
+      }
+    },
+    {
+      "id": "ben_bi_duong_dai",
+      "name": "Bền Bỉ Đường Dài",
+      "short_name": "Bền Bỉ",
+      "active": true,
+      "badge": "🐢",
+      "country": "Việt Nam",
+      "owner": "Bác Năm Xe Ôm",
+      "stable": "Chuồng Bền Bỉ",
+      "running_style": "stayer",
+      "colors": {
+        "body": "#EDF3EA",
+        "dark": "#4E6B45",
+        "silk": "#8BC34A"
+      },
+      "ratings": {
+        "speed": 79,
+        "stamina": 91,
+        "acceleration": 80,
+        "finish": 88,
+        "consistency": 85,
+        "wet_track": 90
+      }
+    },
+    {
+      "id": "co_may_marathon",
+      "name": "Cỗ Máy Marathon",
+      "short_name": "Cỗ Máy Marathon",
+      "active": true,
+      "badge": "⚙️",
+      "country": "Việt Nam",
+      "owner": "Hội Chạy Bộ Đêm",
+      "stable": "Chuồng Cỗ Máy",
+      "running_style": "stayer",
+      "colors": {
+        "body": "#E9EEF2",
+        "dark": "#39505E",
+        "silk": "#4FC3F7"
+      },
+      "ratings": {
+        "speed": 80,
+        "stamina": 90,
+        "acceleration": 81,
+        "finish": 89,
+        "consistency": 88,
+        "wet_track": 84
+      }
+    },
+    {
+      "id": "trau_vang_kien_cuong",
+      "name": "Trâu Vàng Kiên Cường",
+      "short_name": "Trâu Vàng",
+      "active": true,
+      "badge": "🐂",
+      "country": "Việt Nam",
+      "owner": "Nông Trại Út Sáu",
+      "stable": "Chuồng Trâu Vàng",
+      "running_style": "stayer",
+      "colors": {
+        "body": "#F4EFE2",
+        "dark": "#7A6323",
+        "silk": "#FFD54F"
+      },
+      "ratings": {
+        "speed": 78,
+        "stamina": 92,
+        "acceleration": 79,
+        "finish": 90,
+        "consistency": 83,
+        "wet_track": 92
+      }
+    },
+    {
+      "id": "lao_tuong_bat_bai",
+      "name": "Lão Tướng Bất Bại",
+      "short_name": "Lão Tướng",
+      "active": true,
+      "badge": "🛡️",
+      "country": "Việt Nam",
+      "owner": "Hội Cờ Tướng Vỉa Hè",
+      "stable": "Chuồng Lão Tướng",
+      "running_style": "stayer",
+      "colors": {
+        "body": "#EFEDEA",
+        "dark": "#5A5148",
+        "silk": "#B0A08C"
+      },
+      "ratings": {
+        "speed": 81,
+        "stamina": 89,
+        "acceleration": 82,
+        "finish": 87,
+        "consistency": 90,
+        "wet_track": 80
+      }
+    },
+    {
+      "id": "ngon_nui_di_dong",
+      "name": "Ngọn Núi Di Động",
+      "short_name": "Ngọn Núi",
+      "active": true,
+      "badge": "⛰️",
+      "country": "Việt Nam",
+      "owner": "Đội Leo Núi Cuối Tuần",
+      "stable": "Chuồng Ngọn Núi",
+      "running_style": "stayer",
+      "colors": {
+        "body": "#EAF0EF",
+        "dark": "#3E5C58",
+        "silk": "#4DD0C4"
+      },
+      "ratings": {
+        "speed": 79,
+        "stamina": 93,
+        "acceleration": 78,
+        "finish": 88,
+        "consistency": 86,
+        "wet_track": 87
+      }
+    },
+    {
+      "id": "rua_than_toc_do",
+      "name": "Rùa Thần Tốc Độ",
+      "short_name": "Rùa Thần",
+      "active": true,
+      "badge": "🐉",
+      "country": "Việt Nam",
+      "owner": "Miếu Ông Rùa",
+      "stable": "Chuồng Rùa Thần",
+      "running_style": "stayer",
+      "colors": {
+        "body": "#F0EAF2",
+        "dark": "#5B3E63",
+        "silk": "#D07AE0"
+      },
+      "ratings": {
+        "speed": 82,
+        "stamina": 90,
+        "acceleration": 80,
+        "finish": 86,
+        "consistency": 84,
+        "wet_track": 91
+      }
+    },
+    {
+      "id": "cu_nuoc_rut_cuoi",
+      "name": "Cú Nước Rút Cuối",
+      "short_name": "Nước Rút Cuối",
+      "active": true,
+      "badge": "🎯",
+      "country": "Việt Nam",
+      "owner": "Xóm Bida Đêm Khuya",
+      "stable": "Chuồng Nước Rút",
+      "running_style": "closer",
+      "colors": {
+        "body": "#F2EDE9",
+        "dark": "#6E4A38",
+        "silk": "#FF7043"
+      },
+      "ratings": {
+        "speed": 79,
+        "stamina": 80,
+        "acceleration": 88,
+        "finish": 91,
+        "consistency": 82,
+        "wet_track": 78
+      }
+    },
+    {
+      "id": "bong_ma_ve_dich",
+      "name": "Bóng Ma Về Đích",
+      "short_name": "Bóng Ma Về Đích",
+      "active": true,
+      "badge": "👻",
+      "country": "Việt Nam",
+      "owner": "Hội Săn Đêm",
+      "stable": "Chuồng Bóng Ma",
+      "running_style": "closer",
+      "colors": {
+        "body": "#EEF0F5",
+        "dark": "#4A4E63",
+        "silk": "#7986CB"
+      },
+      "ratings": {
+        "speed": 80,
+        "stamina": 79,
+        "acceleration": 87,
+        "finish": 92,
+        "consistency": 85,
+        "wet_track": 81
+      }
+    },
+    {
+      "id": "ke_ve_sau_dang_so",
+      "name": "Kẻ Về Sau Đáng Sợ",
+      "short_name": "Kẻ Về Sau",
+      "active": true,
+      "badge": "🕶️",
+      "country": "Việt Nam",
+      "owner": "Biệt Đội Áo Đen",
+      "stable": "Chuồng Áo Đen",
+      "running_style": "closer",
+      "colors": {
+        "body": "#EBEBEB",
+        "dark": "#3A3A3A",
+        "silk": "#FF3D71"
+      },
+      "ratings": {
+        "speed": 78,
+        "stamina": 82,
+        "acceleration": 89,
+        "finish": 90,
+        "consistency": 79,
+        "wet_track": 86
+      }
+    },
+    {
+      "id": "vong_cua_dinh_menh",
+      "name": "Vòng Cua Định Mệnh",
+      "short_name": "Vòng Cua",
+      "active": true,
+      "badge": "🌀",
+      "country": "Việt Nam",
+      "owner": "CLB Drift Đêm",
+      "stable": "Chuồng Vòng Cua",
+      "running_style": "closer",
+      "colors": {
+        "body": "#EDF0F4",
+        "dark": "#3E5570",
+        "silk": "#29B6F6"
+      },
+      "ratings": {
+        "speed": 81,
+        "stamina": 78,
+        "acceleration": 88,
+        "finish": 91,
+        "consistency": 88,
+        "wet_track": 75
+      }
+    },
+    {
+      "id": "an_so_cuoi_tran",
+      "name": "Ẩn Số Cuối Trận",
+      "short_name": "Ẩn Số",
+      "active": true,
+      "badge": "🃏",
+      "country": "Việt Nam",
+      "owner": "Sòng Bài Ông Sáu",
+      "stable": "Chuồng Ẩn Số",
+      "running_style": "closer",
+      "colors": {
+        "body": "#F0EAF0",
+        "dark": "#5C3E5A",
+        "silk": "#EC4899"
+      },
+      "ratings": {
+        "speed": 80,
+        "stamina": 81,
+        "acceleration": 86,
+        "finish": 93,
+        "consistency": 83,
+        "wet_track": 89
+      }
+    },
+    {
+      "id": "mui_ten_bac_cuoi",
+      "name": "Mũi Tên Bạc Cuối",
+      "short_name": "Mũi Tên Bạc",
+      "active": true,
+      "badge": "🏹",
+      "country": "Việt Nam",
+      "owner": "Hội Bắn Cung Làng",
+      "stable": "Chuồng Mũi Tên",
+      "running_style": "closer",
+      "colors": {
+        "body": "#EEF1EF",
+        "dark": "#4A5C50",
+        "silk": "#66E39A"
+      },
+      "ratings": {
+        "speed": 82,
+        "stamina": 79,
+        "acceleration": 88,
+        "finish": 90,
+        "consistency": 80,
+        "wet_track": 84
+      }
+    },
+    {
+      "id": "bach_phong",
+      "name": "Bạch Phong",
+      "short_name": "Bạch Phong",
+      "active": true,
+      "badge": "🌪️",
+      "country": "Việt Nam",
+      "owner": "Thiên Mã",
+      "stable": "Chuồng Thiên Mã",
+      "running_style": "balanced",
+      "colors": {
+        "body": "#F4F1EA",
+        "dark": "#A7ADB8",
+        "silk": "#4EA5FF"
+      },
+      "ratings": {
+        "speed": 89,
+        "stamina": 82,
+        "acceleration": 85,
+        "finish": 86,
+        "consistency": 85,
+        "wet_track": 85
+      }
+    },
+    {
+      "id": "can_bang_vu_tru",
+      "name": "Cân Bằng Vũ Trụ",
+      "short_name": "Cân Bằng",
+      "active": true,
+      "badge": "☯️",
+      "country": "Việt Nam",
+      "owner": "Hội Yoga Buổi Sáng",
+      "stable": "Chuồng Cân Bằng",
+      "running_style": "balanced",
+      "colors": {
+        "body": "#F0F0EE",
+        "dark": "#57534E",
+        "silk": "#FBBF24"
+      },
+      "ratings": {
+        "speed": 82,
+        "stamina": 89,
+        "acceleration": 86,
+        "finish": 85,
+        "consistency": 86,
+        "wet_track": 84
+      }
+    },
+    {
+      "id": "toan_dien_dai_vuong",
+      "name": "Toàn Diện Đại Vương",
+      "short_name": "Toàn Diện",
+      "active": true,
+      "badge": "👑",
+      "country": "Việt Nam",
+      "owner": "Vương Quốc Xóm Trọ",
+      "stable": "Chuồng Đại Vương",
+      "running_style": "balanced",
+      "colors": {
+        "body": "#F3EDE6",
+        "dark": "#7A5C3E",
+        "silk": "#F59E0B"
+      },
+      "ratings": {
+        "speed": 85,
+        "stamina": 86,
+        "acceleration": 89,
+        "finish": 82,
+        "consistency": 84,
+        "wet_track": 86
+      }
+    },
+    {
+      "id": "hai_hoa_thien_dia",
+      "name": "Hài Hòa Thiên Địa",
+      "short_name": "Hài Hòa",
+      "active": true,
+      "badge": "🌗",
+      "country": "Việt Nam",
+      "owner": "Đạo Quán Núi Xanh",
+      "stable": "Chuồng Hài Hòa",
+      "running_style": "balanced",
+      "colors": {
+        "body": "#EDEFF3",
+        "dark": "#455169",
+        "silk": "#818CF8"
+      },
+      "ratings": {
+        "speed": 86,
+        "stamina": 85,
+        "acceleration": 82,
+        "finish": 89,
+        "consistency": 87,
+        "wet_track": 83
+      }
+    },
+    {
+      "id": "chien_ma_da_nang",
+      "name": "Chiến Mã Đa Năng",
+      "short_name": "Đa Năng",
+      "active": true,
+      "badge": "🧩",
+      "country": "Việt Nam",
+      "owner": "Xưởng Chế Tạo Ba Gác",
+      "stable": "Chuồng Đa Năng",
+      "running_style": "balanced",
+      "colors": {
+        "body": "#EEF2EC",
+        "dark": "#4C5C43",
+        "silk": "#65C466"
+      },
+      "ratings": {
+        "speed": 88,
+        "stamina": 83,
+        "acceleration": 82,
+        "finish": 89,
+        "consistency": 83,
+        "wet_track": 87
+      }
+    },
+    {
+      "id": "on_dinh_van_nang",
+      "name": "Ổn Định Vạn Năng",
+      "short_name": "Ổn Định",
+      "active": true,
+      "badge": "📐",
+      "country": "Việt Nam",
+      "owner": "Hội Kỹ Sư Cầu Đường",
+      "stable": "Chuồng Ổn Định",
+      "running_style": "balanced",
+      "colors": {
+        "body": "#F1EEF4",
+        "dark": "#5A4E63",
+        "silk": "#B084F5"
+      },
+      "ratings": {
+        "speed": 83,
+        "stamina": 88,
+        "acceleration": 89,
+        "finish": 82,
+        "consistency": 86,
+        "wet_track": 86
+      }
+    },
+    {
+      "id": "ke_bam_duoi_li_lom",
+      "name": "Kẻ Bám Đuôi Lì Lợm",
+      "short_name": "Bám Đuôi Lì",
+      "active": true,
+      "badge": "🦂",
+      "country": "Việt Nam",
+      "owner": "Băng Đảng Ngõ Nhỏ",
+      "stable": "Chuồng Bọ Cạp",
+      "running_style": "press",
+      "colors": {
+        "body": "#F3ECE9",
+        "dark": "#6E3F38",
+        "silk": "#FF6E4A"
+      },
+      "ratings": {
+        "speed": 90,
+        "stamina": 79,
+        "acceleration": 89,
+        "finish": 80,
+        "consistency": 81,
+        "wet_track": 79
+      }
+    },
+    {
+      "id": "ap_sat_than_toc",
+      "name": "Áp Sát Thần Tốc",
+      "short_name": "Áp Sát",
+      "active": true,
+      "badge": "🐆",
+      "country": "Việt Nam",
+      "owner": "Đội Săn Đêm Khuya",
+      "stable": "Chuồng Báo Đốm",
+      "running_style": "press",
+      "colors": {
+        "body": "#F0EEE8",
+        "dark": "#5C4E30",
+        "silk": "#FFC145"
+      },
+      "ratings": {
+        "speed": 91,
+        "stamina": 80,
+        "acceleration": 88,
+        "finish": 79,
+        "consistency": 83,
+        "wet_track": 82
+      }
+    },
+    {
+      "id": "ma_toc_do_bam_sat",
+      "name": "Ma Tốc Độ Bám Sát",
+      "short_name": "Ma Tốc Độ",
+      "active": true,
+      "badge": "🐺",
+      "country": "Việt Nam",
+      "owner": "Bầy Sói Xóm Núi",
+      "stable": "Chuồng Sói Xám",
+      "running_style": "press",
+      "colors": {
+        "body": "#EDEEF1",
+        "dark": "#3F4A5C",
+        "silk": "#5BC0EB"
+      },
+      "ratings": {
+        "speed": 89,
+        "stamina": 78,
+        "acceleration": 90,
+        "finish": 81,
+        "consistency": 78,
+        "wet_track": 85
+      }
+    },
+    {
+      "id": "dai_bang_san_moi",
+      "name": "Đại Bàng Săn Mồi",
+      "short_name": "Đại Bàng",
+      "active": true,
+      "badge": "🦅",
+      "country": "Việt Nam",
+      "owner": "Hội Chim Cảnh Phố Núi",
+      "stable": "Chuồng Đại Bàng",
+      "running_style": "press",
+      "colors": {
+        "body": "#F1EFEA",
+        "dark": "#6B5E3E",
+        "silk": "#FFD166"
+      },
+      "ratings": {
+        "speed": 90,
+        "stamina": 81,
+        "acceleration": 89,
+        "finish": 78,
+        "consistency": 84,
+        "wet_track": 77
+      }
+    },
+    {
+      "id": "ran_luc_than_toc",
+      "name": "Rắn Lục Thần Tốc",
+      "short_name": "Rắn Lục",
+      "active": true,
+      "badge": "🐍",
+      "country": "Việt Nam",
+      "owner": "Vườn Rắn Ông Tám",
+      "stable": "Chuồng Rắn Lục",
+      "running_style": "press",
+      "colors": {
+        "body": "#EBF2EA",
+        "dark": "#3E5C3E",
+        "silk": "#6EE86E"
+      },
+      "ratings": {
+        "speed": 92,
+        "stamina": 79,
+        "acceleration": 87,
+        "finish": 80,
+        "consistency": 80,
+        "wet_track": 88
+      }
+    },
+    {
+      "id": "kinh_ngu_tren_can",
+      "name": "Kình Ngư Trên Cạn",
+      "short_name": "Kình Ngư",
+      "active": true,
+      "badge": "🦈",
+      "country": "Việt Nam",
+      "owner": "Hội Bơi Lội Sông Quê",
+      "stable": "Chuồng Kình Ngư",
+      "running_style": "press",
+      "colors": {
+        "body": "#E9EFF3",
+        "dark": "#33505E",
+        "silk": "#4FD1E8"
+      },
+      "ratings": {
+        "speed": 89,
+        "stamina": 80,
+        "acceleration": 91,
+        "finish": 79,
+        "consistency": 82,
+        "wet_track": 80
+      }
+    },
+    {
+      "id": "tho_san_duong_dua",
+      "name": "Thợ Săn Đường Đua",
+      "short_name": "Thợ Săn",
+      "active": true,
+      "badge": "🏹",
+      "country": "Việt Nam",
+      "owner": "Hội Săn Bắn Tự Do",
+      "stable": "Chuồng Thợ Săn",
+      "running_style": "tracker",
+      "colors": {
+        "body": "#F0EDEA",
+        "dark": "#5E4E3E",
+        "silk": "#F7A34B"
+      },
+      "ratings": {
+        "speed": 78,
+        "stamina": 89,
+        "acceleration": 91,
+        "finish": 80,
+        "consistency": 88,
+        "wet_track": 82
+      }
+    },
+    {
+      "id": "bam_sat_kien_dinh",
+      "name": "Bám Sát Kiên Định",
+      "short_name": "Bám Sát",
+      "active": true,
+      "badge": "🧭",
+      "country": "Việt Nam",
+      "owner": "CLB Định Hướng Trẻ",
+      "stable": "Chuồng Bám Sát",
+      "running_style": "tracker",
+      "colors": {
+        "body": "#EDF0F2",
+        "dark": "#3F5566",
+        "silk": "#3FD3E0"
+      },
+      "ratings": {
+        "speed": 79,
+        "stamina": 90,
+        "acceleration": 89,
+        "finish": 81,
+        "consistency": 90,
+        "wet_track": 79
+      }
+    },
+    {
+      "id": "ve_tinh_duong_dua",
+      "name": "Vệ Tinh Đường Đua",
+      "short_name": "Vệ Tinh",
+      "active": true,
+      "badge": "🛰️",
+      "country": "Việt Nam",
+      "owner": "Trạm Quan Sát Ông Bảy",
+      "stable": "Chuồng Vệ Tinh",
+      "running_style": "tracker",
+      "colors": {
+        "body": "#EEEDF3",
+        "dark": "#4A4763",
+        "silk": "#8A7FFF"
+      },
+      "ratings": {
+        "speed": 78,
+        "stamina": 88,
+        "acceleration": 92,
+        "finish": 81,
+        "consistency": 86,
+        "wet_track": 85
+      }
+    },
+    {
+      "id": "chien_binh_ben_chi",
+      "name": "Chiến Binh Bền Chí",
+      "short_name": "Bền Chí",
+      "active": true,
+      "badge": "🎖️",
+      "country": "Việt Nam",
+      "owner": "Hội Cựu Chiến Binh Xóm",
+      "stable": "Chuồng Bền Chí",
+      "running_style": "tracker",
+      "colors": {
+        "body": "#F2EFE9",
+        "dark": "#6B5E3E",
+        "silk": "#E0C158"
+      },
+      "ratings": {
+        "speed": 78,
+        "stamina": 91,
+        "acceleration": 88,
+        "finish": 82,
+        "consistency": 89,
+        "wet_track": 81
+      }
+    },
+    {
+      "id": "canh_chim_khong_moi",
+      "name": "Cánh Chim Không Mỏi",
+      "short_name": "Không Mỏi",
+      "active": true,
+      "badge": "🕊️",
+      "country": "Việt Nam",
+      "owner": "Hội Bồ Câu Đưa Thư",
+      "stable": "Chuồng Không Mỏi",
+      "running_style": "tracker",
+      "colors": {
+        "body": "#EEF1EE",
+        "dark": "#4C5C4E",
+        "silk": "#7FE3A0"
+      },
+      "ratings": {
+        "speed": 80,
+        "stamina": 91,
+        "acceleration": 87,
+        "finish": 82,
+        "consistency": 87,
+        "wet_track": 83
+      }
+    },
+    {
+      "id": "nguoi_ve_dich_ben",
+      "name": "Người Về Đích Bền",
+      "short_name": "Về Đích Bền",
+      "active": true,
+      "badge": "🏁",
+      "country": "Việt Nam",
+      "owner": "Đội Marathon Phố Cổ",
+      "stable": "Chuồng Về Đích",
+      "running_style": "tracker",
+      "colors": {
+        "body": "#EFEDF0",
+        "dark": "#544E5C",
+        "silk": "#C77DFF"
+      },
+      "ratings": {
+        "speed": 79,
+        "stamina": 92,
+        "acceleration": 87,
+        "finish": 80,
+        "consistency": 91,
+        "wet_track": 80
+      }
+    }
+  ]
+}
